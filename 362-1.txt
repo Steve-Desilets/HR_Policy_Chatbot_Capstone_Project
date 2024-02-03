@@ -1,0 +1,429 @@
+362-1: Pathways Programs
+Material Transmitted:
+Department of Health and Human Services (HHS) Instruction 362-1, Pathways Programs, dated 08/19/2021
+
+Material Superseded:
+HHS Instruction 362, Presidential Management Fellows Program, 12/29/2005
+
+HHS Instruction 362, Presidential Management Fellows Program, 6/30/2012
+
+HHS Instruction 362-1, Pathways Programs, 01/04/2016
+
+Background:
+In accordance with 5 Code of Federal Regulation (CFR) Parts 302 and 362, this policy outlines the requirements of the Pathways Programs, consisting of the Intern, Recent Graduate, and Presidential Management Fellows ( PMF) programs.
+
+The Memorandum of Understanding (MOU) between HHS and the Office of Personnel Management (OPM) authorizes HHS to utilize the Pathways Programs.
+
+This policy is effective immediately and must be carried out by HHS Operating and Staff Division HR Centers in accordance with applicable laws, regulations, bargaining agreements, and Department policy.
+
+/s/
+
+Michael V. Culpepper
+Deputy Assistant Secretary for Human Resources and Chief Human Capital Officer, Acting
+
+362-1-00 Sections
+362-1-10 Purpose
+362-1-20 Background
+362-1-30 Coverage and Exclusions
+362-1-40 References
+362-1-50 Definitions
+362-1-60 Responsibilities
+362-1-70 General Program Requirements
+362-1-80 Developmental Program Requirements
+362-1-90 Internship Program
+362-1-100 Recent Graduates Program
+362-1-110 Presidential Management Fellows Program
+362-1-120 Documentation, Reporting, and Accountability
+
+362-1-10  Purpose
+This Instruction establishes policy for HHS Operating Divisions and Staff Divisions (OpDiv/StaffDiv, or Division) on the administration and management of the Pathways Programs, specifically:
+Delegates OpDivs/StaffDivs Human Resources Centers (HR Centers) to make Pathways Programs appointments at the General Schedule (GS) 1-13 grade levels (or equivalent, including Federal Wage System), in accordance with HHS' Pathways MOU.
+Establishes HHS' procedural guidance on the recruitment, assessment, selection, appointment, and promotion of individuals appointed under the Excepted Service, Schedule D, Pathways Programs.
+Describes the developmental Pathways Programs requirements (i.e., orientation, participant agreement, individual development plan, mentorship, and training).
+Defines the requirements for non-competitive conversion to the competitive service upon successful completion of the Pathways Program requirements.
+Outlines workforce planning and OPM reporting requirements for actual and projected OpDiv/StaffDiv usage of the Pathways Programs.
+This policy should be used in conjunction with HHS Instruction 302-1, Employment in the Excepted Service, which covers Pathways Programs positions.
+When provisions of this policy differ from changes in applicable law or regulation, the changes in law or regulation apply.
+362-1-20  Background
+The Pathways Programs were established via Executive Order (E.O.) 13562, Recruiting and Hiring Students and Recent Graduates, dated December 10, 2010. The Programs replaced the former Student Temporary Employment Program (STEP) and the Student Career Experience Program (SCEP) with the Intern and Recent Graduate Programs and enhanced the Presidential Management Fellows (PMF) Program. The E.O. also abolished the Federal Career Intern Program (FCIP).
+
+OPM maintains executive oversight of the Pathways Programs and central management of the PMF Program, in accordance with 5 CFR Part 362.
+
+362-1-30  Coverage and Exclusions
+Coverage. This policy applies HHS-wide and covers all Pathways Programs' Intern, Recent Graduate, and PMF appointments under Schedule D, 5 CFR §213.3402(a), (b), and (c).
+Exclusions.
+Intern and Fellowships under Schedule A, 5 CFR §213.3102(r). These programs are sponsored either by the OpDiv/StaffDiv or in conjunction with a third-party organization. Contact employmentpolicy@hhs.gov for program parameters required by OPM.
+Student volunteer service authorized under 5 CFR Part 308.
+The provisions of this policy pertaining to conditions of employment of bargaining unit employees (e.g., the filling of a position within the scope of the bargaining unit, promotion and reassignments, and adverse actions) are fully negotiable in accordance with 5 U.S.C. Chapter 71. When the provisions of this policy differ from the requirements contained in applicable collective bargaining agreement(s), the agreement takes precedence for covered bargaining unit employees.
+362-1-40  References
+Executive Order (E.O.) §13562, Recruiting and Hiring Students and Recent Graduates
+5 U.S.C. §2301, Merit System Principles 
+5 U.S.C. §3110, Employment of Relatives, Restrictions 
+5 U.S.C. §3320, Excepted Service; Government of District of Columbia; Selection 
+Title 5, Code of Federal Regulations (CFR), Part 213, Excepted Service
+5 CFR Part 302, Employment in the Excepted Service
+5 CFR §315.713, Conversion Based on Service in a Pathways Program Under Part 362
+5 CFR Part 362, Pathways Programs
+OPM Pathways Programs Handbook, - PDF August 2016
+OPM Vet Guide, Type of Appointment, Excepted Service Employment
+OPM/HHS Pathways Programs Memorandum of Understanding (MOU), renewed biennially
+HHS Instruction, 300-3, Details and IPA Assignments (for rotational assignments/details)
+HHS Instruction, 302-1, Employment in the Excepted Service
+HHS Instruction, 315-1, Probationary and Trial Periods
+HHS Instruction 330-2, Priority Placement Programs (CTAP, ICTAP, RPL, PRL)
+HHS Instruction, 430-1, Performance Management Appraisal Program (non-SES)
+HHS Instruction, 752, Discipline and Adverse Action
+362-1-50  Definitions
+Advanced Degree/Professional Degree. A professional or graduate degree from an accredited, academic institution (e.g., Master's, Doctor of Philosophy (PhD), Juris Doctorate (JD)). See U.S. Department of Education's Database of Accredited Postsecondary Institutions and Programs.
+Break in Program. A period of time when an Intern is working but is unable to go to school; or is neither attending school nor working.
+Break in Service. The time when an employee is no longer on the payroll and is separated for more than three (3) calendar days, see OPM Guide to Processing Personnel Actions, Glossary of Terms, - PDF unless otherwise noted in this policy.
+Certificate Program. Post-secondary education in a qualifying educational institution, equivalent to at least one (1) academic year of full-time study that is part of an accredited college-level, technical, trade, vocational, or business school curriculum. See U.S. Department of Education's Database of Accredited Postsecondary Institutions and Programs.
+Competitive Service. Pathways participants are eligible to be non-competitively converted to a term or permanent position in the competitive service after successful completion of the Program, or terminated (see Section 362-1-70, General Program Requirements, Conversions). The competitive service covers all civilian positions in the Federal government that are not specifically excepted from the civil service laws by or pursuant to statute, by the President or by OPM under Rule VI, and are not in the Senior Executive Service (SES) or Senior Level position (SL).
+Excepted Service. All Pathways positions are in the excepted service which covers civilian positions in the executive branch of the Federal government that are specifically excepted from the competitive service rules by law or statute, by the President via Executive Order, or by OPM (i.e., Schedules A, B, C, or D), and are not in the SES.
+Intern (5 CFR 362 Subpart B). A current high school, vocational, technical, undergraduate, or graduate student appointed while still in school to an initial appointment exceeding one (1) year in the Pathways Internship Program, to explore a federal career as paid employees while continuing their education.
+Intern NTE (5 CFR 362 Subpart B). A current high school, vocational, technical, undergraduate, or graduate student appointed while still in school to a paid temporary appointment NTE one (1) year in the Pathways Internship Program, to complete temporary projects, to perform labor-intensive tasks not requiring subject-matter expertise, or to fill traditional summer jobs.
+Participant Agreement (5 CFR §362.106). A required formal written agreement between the HHS supervisor and each Pathways participant that clearly identifies the participant's work duties, work schedule, length of appointment, applicable training requirements, mentorship opportunities, performance evaluation procedures, requirements for successful completion of program, and minimum eligibility requirements for conversion to the competitive service.
+Pathways Programs Officer (PPO). An individual within Assistant Secretary for Administration, Office of Human Resources, who has overall responsibilities for administering the Pathways Programs HHS-wide. This individual serves as a liaison between HHS and OPM and may also serve as the HHS PMF Coordinator.
+Pathways Program Participant. An individual appointed as an Intern, Recent Graduate, or Presidential Management Fellow under the HHS Pathways Program.
+Presidential Management Fellow (PMF) (5 CFR 362, Subpart D). An individual appointed to a two (2) year leadership development program designed to attract individuals who demonstrate academic excellence, possess management and leadership potential, and have a clear interest in and commitment to public service. Individuals must apply to OPM's PMF Program's annual job opportunity announcement within two (2) years of receiving a qualifying advanced degree. Students who expect to complete an advanced degree by August 31 of the academic year in which OPM's competition is held may also apply.
+Qualifying Educational Institution (5 CFR §362.102):
+A public high school whose curriculum has been approved by a State or local governing body; a private school that provides secondary education as determined under State law; or a homeschool that is allowed to operate in a State; and
+Any of the following educational institutions or curricula that have been accredited by an accrediting body recognized by the Secretary of the Department of Education: a technical or vocational school; a two or four-year college or university; a graduate or professional school (e.g., law school, medical school); or a post-secondary homeschool curriculum.
+Recent Graduate (5 CFR 362, Subpart C). An individual who has obtained a qualifying Associate's, Bachelor's, Master's, Professional, Doctorate, vocational, or technical degree or certificate from a qualifying educational institution within the previous two (2) years of application (up to six (6) years for qualifying veterans) to obtain entry-level developmental experience designed to lead to a career in the Federal government.
+Schedule D. The excepted service appointing authority established by Presidential Executive Order 13562 to appoint individuals to Pathways Programs positions.
+Student (5 CFR §362.202). An individual who has been accepted for enrollment; or who is enrolled and seeking a degree (diploma, certificate, etc.) in a qualifying educational institution on a full or half-time basis (as defined by the educational institution in which the student is enrolled), including awardees of the Harry S. Truman Foundation Scholarship Program under Public Law 93- 842. Students do not need to be in actual physical attendance in school (i.e., virtual learning), as long as all other requirements are met. A student who needs to complete less than the equivalent of half an academic, vocational, or technical course-load immediately prior to graduating is still considered a student for purposes of the Internship Program.
+362-1-60  Responsibilities
+HHS Assistant Secretary for Administration, Office of Human Resources (ASA/OHR):
+Develops Department-wide policy and guidance regarding the Pathways Programs consistent with HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+Designates an HHS Pathways Program Officer (HHS PPO) at the General Schedule (GS) 12 or above within ASA/OHR to administer the HHS Pathways Programs; provide technical guidance on the programs and information on upcoming events/deadlines; and serve as HHS' liaison with OPM. The HHS PPO may also serve as the HHS Presidential Management Fellows coordinator, unless another OHR employee is identified.
+Submits reports and data to OPM on HHS Pathways Programs, including workforce planning strategies, annual hiring data, PMF change in status, and any other information requested by OPM (5 CFR §§362.104 and 109).
+Re-executes the Department's Pathways MOU agreement with OPM every two (2) years to continue HHS' use of the Pathways Programs hiring authority (5 CFR §362.104(a)).
+Ensures HHS adheres to the 5 CFR Part 302 requirements for accepting applications, assessing applicants, rating and ranking qualified candidates, and granting veterans' preference as described in this policy.
+Approves an OpDiv/StaffDiv's alternate Pathways Programs hiring procedures prior to use to ensure conformance with federal regulations and HHS policy.
+Ensures HHS adheres to any appointment or conversion caps placed on the Pathways Programs by OPM (5 CFR §362.108(a)).
+Periodically reviews OpDivs/StaffDivs' procedures, actions, and reports to assure conformance with the HHS Pathways MOU with OPM, applicable HHS policy, OPM guidance, and all applicable federal laws and regulations.
+OpDiv/StaffDiv Human Resources Centers (HR Centers):
+Comply with this Instruction, any HHS and OPM policy and guidance, collective bargaining agreements, and all applicable federal laws and regulations.
+Designate an OpDiv/StaffDiv Pathway Programs Coordinator to administer the day-to-day aspects of the programs for their serviced Division.
+Ensure the development of OpDiv/StaffDiv Pathways Programs' recruitment and developmental procedures, consistent with this policy.
+Ensure hiring procedures are applied uniformly, and positions are filled in accordance with the procedures in this policy.
+Ensure Pathways participants' continuous eligibility for the Pathways Programs, in accordance with the requirements specified in this policy.
+Evaluate the performance of each Pathways participant within their Division and the participant(s) completion of the program requirements for conversion to the competitive service or termination.
+Human Resource Directors (HRDs) have the authority to:
+Approve breaks in program for Interns and waive up to one-half (320 hours) of the 640- hour minimum service requirement consistent with the procedures in this policy;
+Approve program extension requests for Recent Graduates and PMFs submitted by the participant or the participant's supervisor to their servicing HR Center; and
+Certify in writing PMFs' completion of the program NLT 30 calendar days prior to the expiration of the PMF's appointment following the procedures in this policy.
+This authority may not be redelegated (HHS' Pathways MOU).
+Provide information on PMFs' change in status within seven (7) calendar days, and data on projected and actual Pathways Programs hires to the HHS Pathways Program Officer (PPO) annually.
+OpDiv/StaffDiv Pathways Program Coordinators (OpDiv/StaffDiv PPCs):
+Administer the HHS Pathways Programs within their serviced Division, consistent with HHS policy, OPM guidance, collective bargaining agreements, and all applicable federal laws and regulations.
+Provide advisory services to their Division's Pathways participants and their supervisors on the Pathways Programs consistent with HHS policy and guidance, and applicable federal laws and regulations.
+Ensure their Division's compliance with the rules covering workforce planning and employment, including public notice, eligibility, appointment, assessment, selection, promotion, conversion and termination under the Pathways regulations.
+Ensure their Division's compliance with delivering and documenting formal training and development, including Pathways Participant Agreements; performance plans and progress evaluations; Individual Development Plans (IDPs); mentors; and training.
+Serve as the liaison with the HHS PPO including:
+Providing hiring data to fulfill HHS' annual reporting requirements (5 CFR §362.109);
+Notifying the HHS PPO on a PMF change in status within seven (7) calendar days including appointment, movement between agencies, withdrawal/resignation, termination, readmission, and conversion (5 CFR 362, Subpart D);
+Notifying the HHS PPO when an Intern no longer meets the definition of a student (5 CFR §362.202); and
+Notifying the HHS PPO of any participant who is not converted or terminated within required the timeframes (5 CFR §362.107(f)).
+Attend the annual OPM PMF hiring fair as an HHS representative at HHS' exhibit/interview table(s); advise PMF finalists about HHS' job opportunities on the PMF Talent Management System; and provide/bring marketing materials for their respective Division.
+Submit the PMF reimbursement fee to the OPM PMF Program Office no later than thirty (30) days of a PMF's acceptance on a tentative job offer within their respective Division.
+Ensure the OpDiv/StaffDiv adheres to any appointment or conversion caps placed on the HHS Pathways Programs by OPM via the HHS PPO.
+362-1-70  General Program Requirements
+This section covers the general requirements of all Pathways Programs, except where otherwise specified:
+
+Workforce Planning. Before filling positions, HR Centers should identify the skill sets needed to perform the work in their Division and conduct workforce planning to ensure adequate resources are committed to provide the training and developmental requirements, and an adequate number of permanent positions will be available to convert participants who successfully complete the program requirements. See also Recruitment and Outreach in the general information section of the OPM Pathways Handbook. - PDF
+Program Names. OpDivs/StaffDivs may rename their Pathways Programs in accordance with 5 CFR §362.101(b) and HHS' Pathways MOU.
+Personnel Actions. When processing appointment personnel actions, OPM's Guide to Processing Personnel Actions, Chapter 11, Excepted Service Appointments, is used. The specific Schedule D authority that authorizes the appointment (5 CFR §213.3402(a), (b), or (c)) must be cited.
+Tenure.
+Interns serving under an appointment for an initial period expected to last more than one (1) year; Recent Graduates; and PMFs are in excepted service Tenure Group II.
+A temporary Intern serving under an appointment NTE one (1) year, who has not completed one (1) year of service, is in excepted service Tenure Group 0.
+A temporary Intern serving under an appointment NTE one (1) year, who has completed one (1) year of current continuous service, is in excepted service Tenure Group III.
+Documentation. All documentation (e.g., personnel actions, participant agreement, performance plan, IDP, proof of mentorship, training) must be maintained in the participant's eOPF, in accordance with OPM's Guide to Personnel Recordkeeping (5 CFR §293.304; 5 CFR §250.101). OpDivs/StaffDivs must be able to show proof these program requirements were met within the required timeframes.
+Citizenship (5 CFR §362.105(e), Consolidated Appropriations Act, and Executive Order 11935).
+The Consolidated Appropriations Act (i.e., the annual federal budget) contains a government-wide ban on compensating individuals who are not U.S. citizens or nationals for any federal position within the U.S., unless the agency has a statutory exemption to the ban. An OpDiv/StaffDiv may appoint a non-citizen to a Pathways position if the participant is lawfully admitted to the United States as a permanent resident or is otherwise authorized to be employed; and the OpDiv/StaffDiv is authorized to pay non-citizens under their annual appropriations. HR Centers must consult their legal counsel to identify and comply with their annual OpDiv/StaffDiv-specific appropriations restrictions and exclusions prior to hiring an individual who is not a U.S. citizen for a Pathways position.
+A Pathways participant must be a United States citizen to be eligible for noncompetitive conversion to the competitive service.
+Employment of Relatives (5 CFR §362.105(f)).
+A participant may work in an office where a relative (as defined in 5 U.S.C. §3110(a)(3)) is also employed, when there is no direct reporting relationship, and the relative is not in a position to influence or control the participant's appointment, employment, promotion or advancement. If circumstances arise that result in a direct supervisory relationship between relatives, one of the relatives must be reassigned to another position.
+Managers, supervisors, and others in positions to influence personnel actions cannot appoint, employ, promote, or advance a relative to any position within HHS or advocate any such action.
+Classification (OPM Pathways Handbook).
+Pathways participants whose positions fall under the General Schedule (GS) or a comparable pay system must be classified in the xx99 series of the occupational group of the position being filled.
+Pathways participants whose positions fall under the Federal Wage System (FWS) must be classified in the xx01 series of the occupational group of the position being filled.
+Recruitment.
+Job Opportunity Announcement (JOA).
+Interns and Recent Graduates. HR Centers must post a JOA or advertisement in USAJOBS when accepting applications outside their Division for the Intern or Recent Graduate Programs (5 CFR §§362.105(b); 362.203(a); 362.303(a) and HHS' Pathways MOU), and at least minimum public notice (i.e., within the employing OpDiv/StaffDiv) when accepting applications inside their Division.
+PMFs. HR Centers must post PMF positions in OPM's Talent Management System (TMS), in accordance with Section 362-1-110 of this policy.
+Accepting Applications (HHS' Pathways MOU). All HHS Pathways Programs candidates must apply to an open Pathways Programs JOA in order to receive consideration. Notice of recruitment events must include instructions on how to apply through USAJOBS or the OpDiv/StaffDiv website. Unsolicited applications, or applicants who express an interest for a specific vacancy, are provided instructions on how to apply to the JOA through USAJOBS, TMS, or the OpDiv/StaffDiv website. All Division websites that provide information on vacancies or recruitment events will include a link to the JOA on USAJOBS.
+JOA Open Period.
+OpDivs/StaffDivs have the discretion to determine the length of time a JOA is open; however, justifications for announcements open less than five (5) calendar days must be included in the recruitment case file. Justifications are based on the number, type(s), grade levels, and geographic locations of the positions being filled; labor market conditions; and recent experience filling similar positions.
+OpDivs/StaffDivs may use the following options to manage application volume for positions that attract a high number of applicants:
+Limiting the Number of Days a JOA is Open. Divisions should give consideration to the types, grade levels, and geographic locations of the positions being filled; and ensure the time allowed provides for fair and open competition that ensures potential applicants have reasonable opportunity to apply consistent with the merit system principles.
+Limiting the Number of Applications Received. OpDivs/StaffDivs have the discretion to set "cut-offs" or limits (e.g., the first 100 applications received) on the number of applications that they will consider when filling a position. When using such limits, HR Centers accept any application received up until 11:59 PM Eastern Time on the day the limit is reached in order to accommodate applicants in non-Eastern time zones.
+Using specific eligibility requirements for the Internship Program. OpDivs/StaffDivs may use requirements such as the ability to work a specified number of hours per week or be in good academic standing (i.e., maintenance of a minimum grade point average) as eligibility criteria. In addition, Intern applicants may be required to confirm their ability to work in the specific location(s) listed in the JOA. OpDivs/StaffDivs may not require the completion of educational requirements for specific coursework for occupations that do not have a positive education requirement.
+When one or more of these options are used, they must be stated in the JOA, advertisement, or notice and a justification included in the case file.
+If extended open periods are used (over 30 days), HR Centers must specify specific cut-off dates during the open period or specify limits on the numbers of applications during the open period.
+JOA Information. The information listed in the OPM Pathways Handbook must be included in each Pathways Programs JOA, including:
+All HHS Pathways JOAs must include the promotion potential (Full Performance Level or FPL) while in program and upon conversion in order to promote the participant without further competition while in program and upon conversion. Recommended FPL Language: 'Employees selected for this position are eligible for promotion up to the GS-xx grade level while in the Pathways Program and up to the GS-xx grade level after successful completion of the Program.'
+JOAs can mention desired academic disciplines, but JOAs cannot require specific academic disciplines for positions that do not have a positive education requirement.
+HR Centers may require the ability to work a specified number of hours per week as eligibility criteria or be in good academic standing when filling positions as long as such criteria is included in JOAs and participant agreements; applied uniformly; and stated in the OpDiv/StaffDiv's internal hiring procedures (HHS' Pathways MOU).
+OpDivs/StaffDivs may accept applications from individuals who will meet eligibility requirements by an event listed in the JOA (e.g., JOA closing date, certificate issuance date, the date of appointment, etc.). If the JOA does not specify a date or event for meeting eligibility requirements, candidates are required to meet eligibility requirements by the date the certificate is issued. Such eligibility criteria are applied uniformly and described in the HR Center's internal Pathways hiring procedures (HHS' Pathways MOU).
+Priority Placement Programs (PPP).
+The HHS Priority Reemployment List (PRL) is required to be cleared when filling Pathways positions (5 CFR §362.105(c)(2)). The PRL is located on HR Exchange and provides selection priority to former HHS excepted service employees who have been furloughed or separated by RIF or compensable injury, or who appealed an adverse action to the Merit Systems Protection Board and was found to have been unjustifiably dismissed from the agency, but is not entitled to immediate restoration under the MSPB's decision, and registers for HHS' PRL. When recruiting, HR Centers must first clear the HHS PRL by considering all qualified candidates on HHS' PRL who are registered for the commuting area and the specific Schedule D authority of the Pathways position to be filled before referring the names of other qualified candidates. HR Centers follow the assessment procedures in this policy, and are required to retain sufficient documentation to demonstrate PRL clearance for each Pathways vacancy.
+The Career Transition Assistance Program (CTAP), Interagency Career Transition Assistance Program (ICTAP), and Reemployment Priority List (RPL) do not apply when filling Pathways positions or to conversions of Pathways employees to the competitive service (5 CFR §330.609(i); 5 CFR §330.707(g); and 5 CFR §362.107(d)).
+Assessment and Selection (5 CFR Parts 211, 302, and 5 CFR §362.105(c)(2)). For additional information, see HHS Instruction, 302-1, Employment in the Excepted Service.
+Assessment. OpDivs/StaffDivs assess all candidates for Pathways Programs positions using an unranked assessment method, as described in c.-f. below. OpDivs/StaffDivs may use an alternate method for filling Pathways positions within their Division (i.e., numerical ratings or category rating-like procedures) after they submit their Pathways hiring procedures to OHR for approval to ensure conformity with the requirements in 5 CFR Part 302 and HHS Instruction 302-1, Employment in the Excepted Service. All assessment procedures are applied uniformly and provided to applicants, along with notice of rating, upon an applicant's request (5 CFR 302.302).
+ACWA Testing (Federal Register Vol. 77, No. 92, May 11, 2012). Administrative Careers with America (ACWA) testing is not required when filling GS-5 or 7 grade level Pathways positions. OpDivs/StaffDivs have the option to use the OPM ACWA assessment or utilize the unranked assessment method described in this policy when assessing applicants for GS- 5/7 positions formerly covered under ACWA.
+Veterans' preference is granted as follows (5 CFR §302.201 ):
+'CP' for preference eligibles that have a compensable, service-connected disability of 10% or more;
+'XP' for all other preference eligibles eligible for 10-point veteran preference; and
+'TP' for all preference eligibles eligible for 5-point veteran preference.
+Certificates and Order of Consideration. Qualified candidates are placed on a certificate in the following order (5 CFR §211.102(d)(3); 5 CFR §302.303(d);  5 CFR §302.304 ):
+Priority reemployment candidates. Qualified candidates on HHS's PRL must be given selection priority before other candidates can be referred, in accordance with 5 CFR §302.304 (a).
+Qualified PRL candidates are placed on a priority reemployment certificate in the same order as other candidates described in d. ii. below.
+The selection and pass over/objection procedures described below are followed.
+HR Centers may appoint a candidate who is not a PRL eligible, or a PRL eligible who has a lower standing on the PRL list, when the PRL eligible(s) qualifications will create an undue interruption to the position. The HR Center must notify each PRL eligible of the reasons for non-selection and must also notify any preference eligible(s) on the PRL list of their right to appeal to the MSPB (5 CFR §302.304(a)). This documentation must be maintained in the recruitment case file.
+Once an HR Center fulfills these requirements, other candidates may be considered for the position.
+Other candidates are then placed on a regular certificate in the following order:
+Qualified preference eligibles who have a compensable, service-connected disability of 10% or more, unless the list will be used to fill professional positions at GS-9 or above;
+All other qualified candidates eligible for 10-point veteran preference;
+All qualified candidates eligible for 5-point veteran preference;
+All qualified candidates eligible for sole survivorship; then
+Qualified candidates not eligible for veteran preference.
+For Professional and Scientific Positions at the GS-9 grade level and above: All preference eligibles are considered together regardless of the type of preference, followed by other candidates.
+Selection. Selections for all candidates are made from the highest preference category, as long as at least three candidates are in that group. When fewer than three (3) candidates are in the highest preference category, consideration may be expanded to include the next highest preference category (5 CFR §302.401(a) ). The Indian Health Service must give selection priority in accordance with 25 U.S.C. §5117, prior to applying the veterans' preference provisions in 5 CFR Part 302.
+Pass Overs and Objections of Preference Eligibles (5 CFR §302.401(b) and OPM Delegated Examining Operations Handbook).
+OpDiv/StaffDiv HRDs may approve or deny pass over requests of less than 30% compensable disabled veterans for excepted service positions and document reason(s) for selecting a non-preference eligible. This approval may not be redelegated below the OpDiv/StaffDiv HRD level.
+The following pass over and objection requests require OPM approval before making selection(s):
+A pass over of any preference eligible with a 30% or more compensable service connected disability (5 U.S.C §3318); 
+A pass over of a preference eligible based on medical qualifications (5 CFR Part 339 ); and
+Objections based on suitability determinations involving material, intentional false statement, deception or fraud in examination or appointment, or refusal to furnish testimony as required by 5 CFR §731.10 3(a).
+Pass over requests requiring OPM approval must be sent to the ASA/OHR at employmentpolicy@hhs.gov for review and concurrence. OHR will send the request to OPM if it concurs with the request. HR Centers must submit the following documentation to ASA/OHR:
+Completed SF-62, Agency Request to Passover a Preference Eligible or Object to an Eligible, www.opm.gov/Forms/pdf_fill/SF62.pdf; - PDF
+Resume/Application package to include title, series, and grade;
+Copy of Position Description;
+Copy of Vacancy Announcement;
+Certificate of Eligibles; and
+A memorandum approved by the HRD with a description of the reason sufficient to sustain an objection/pass over.
+No correspondence is sent to a 30% or more compensable disabled applicant until ASA/OHR concurrence is received. Only after OPM has approved the pass over of the preference eligible may the 30% or more compensable disabled veteran be passed over and another applicant selected.
+OpDivs/StaffDivs should be mindful of 5 U.S.C. §3320  and 5 CFR §332.406  when considering reasons for passing over a preference eligible, and consult with their legal counsel, if necessary, on whether the justification is likely to meet the standard of making selections in the same manner and under the same conditions required for the competitive service, as specified by 5 U.S.C. §3320. 
+Compensation.
+Setting Pay on Initial Appointment. OpDivs/StaffDivs adhere to 5 CFR §362.105(j); 5 CFR Parts 531 and 532; and applicable HHS pay policy when setting pay and using pay flexibilities for Pathways participants. See Overview under each Program of this Instruction for authorized grade levels.
+Within-Grade Increases (5 CFR 531, Subpart D, and 5 CFR 532.417).
+Participants who are either on a temporary appointment or on an appointment limited to one (1) year or less are not eligible for Within-Grade Increases (WGIs).
+All other participants are entitled to WGIs and are advanced to the next higher rate of their grade at the beginning of the first applicable pay period following completion of the required waiting period, if their performance is satisfactory and they have not received an equivalent increase in pay during their waiting period.
+Promotion. Consistent with HHS Instruction, 302-1, Employment in the Excepted Service, the following requirements must be met for promotions:
+The Intern meets the qualification requirements outlined in the OPM's Group Coverage Qualification Standard for Schedule D, Pathways Internship Positions for the next higher grade level and series of the position; or
+The Recent Graduate or PMF meets the qualification requirements outlined in the OPM Qualification Standards for the next higher grade level and series for the position;
+The participant's current performance rating of record while in the Program demonstrates satisfactory performance of at least 'Achieved Expected Results' or its equivalent, in accordance with HHS' Performance Management Appraisal Program. Participants are eligible for promotion after the minimum assessment or rating period specified in HHS Instruction 430-1, Performance Management Appraisal Program; and
+The proposed grade/full performance level is established in the position description and was included in the JOA (see General Program Requirements, Recruitment, JOA Information in this policy).
+Interns NTE are not eligible for promotion.
+PMF promotions are permitted up to the GS-13 grade level while in the PMF program if the GS-13 full performance level (FPL) is established in the position description and was included in the OpDiv/StaffDiv PMF JOA in TMS. Promotions above the GS-13 grade level can only occur upon or after the date of conversion to a position in the competitive service following successful completion of the Program (HHS' Pathways MOU).
+All Pathways Promotions: Time-in-grade restrictions outlined in 5 CFR 300, Subpart F, apply to movement to or within the competitive service; therefore, promotions within the excepted service are not subject to time-in-grade; however, promotions upon (or after) non-competitive conversion to the competitive service are subject to time-in-grade restrictions.
+Federal Student Loan Repayment Assistance. OpDivs/StaffDivs may offer student loan repayment assistance as an incentive to recruit/retain highly skilled individuals, and to fill mission- critical and hard-to-fill positions. In offering this incentive, factors such as the value of the incentive to the OpDiv/StaffDiv and pay parity should be considered.
+Benefits. Individuals hired for a period expected to last longer than one (1) year are eligible for health and life insurance coverage, so long as they are also expected to be in a pay status for at least one-third of the total period of time from the date of their initial appointment to the date of completion in their respective Program. Participants on a temporary appointment, a seasonal schedule of less than six (6) months per year, or an intermittent schedule who are expected to work 130 hours per month or more for at least 90 days, are eligible for health insurance coverage. For additional guidance, see the OPM Pathways Handbook and/or consult servicing HR Center benefits specialists.
+Performance. See Developmental Program Requirements and Separations/Terminations under each Program in this Instruction.
+Awards. Pathways Program participants are eligible to receive awards, including performance awards, on-the-spot, special act, and time-off awards consistent with HHS Instruction, 430-1, Performance Management Appraisal Program.
+Trial Periods. Trial periods provide an opportunity for supervisors to evaluate employee performance before finalizing appointments (i.e., conversion to the competitive service) or termination. Supervisors set expectations for Pathways participants performance, provide feedback, and evaluate an employee's performance and conduct to determine whether a participant's continued employment is in the best interest of the Department.
+In accordance with 5 CFR Part 362 and OPM Pathways Handbook:
+Intern. The length of a trial period for an HHS Intern is two (2) years, in accordance with HHS Instruction 315-1, Probationary and Trial Periods. Note: The Intern may gain employee status for the purposes of appeal rights during the Internship appointment.
+Recent Graduates. The duration of a Recent Graduate participants' appointment in the excepted service is a trial period (5 CFR §362.303(f)).
+PMFs. The duration of a PMF participants' appointment in the excepted service is a trial period (5 CFR §362.404(d)).
+All Pathways participants serve an initial one (1) year probationary period upon conversion to the competitive service (5 CFR §§315.713 and 801(e)). Some prior service may be creditable.
+HHS Instruction 315-1, Probationary and Trial Periods, should be consulted for additional information on probationary and trial periods including creditable time; calculating service; actions taken for failure to complete a trial or probationary period; and grievances and appeal rights.
+See also Separations/Terminations under each Program in this policy.
+Reassignments (OPM Pathways Programs Handbook and HHS Instruction 302-1, Employment in the Excepted Service). When reassigning participants to another Pathways position within the same Pathways Program, participants must meet the qualification requirements for the position (series and grade). Reassignments between programs are not permitted. If the participant is an Intern NTE, OpDivs/StaffDivs must provide minimum public notification (internal to the OpDiv/StaffDiv, not on USAJOBS) so that similarly situated Pathways participants within the OpDiv/StaffDiv who are also interested in the position can apply. If more than one individual applies to the position, then the assessment and selection procedures outlined in this policy apply. (See definition for reassignment in OPM's Guide to Processing Personnel Actions, Chapter 14.)
+Program Extensions for Recent Graduates and PMFs (5 CFR §§362.303(c), 404(b), and HHS' Pathways MOU). Extensions may be approved by the OpDiv/StaffDiv HRD for up to 120 days for rare or unusual circumstances or situations (e.g., extended leave due to illness, significant life- altering event, military obligations, etc.) that prevent the participant from completing the program. Requests for extensions may be submitted by the Recent Graduate or PMF or the participant's supervisor to their servicing HR Center, and subsequently reviewed and recommended by the HRD. This authority may not be redelegated.
+Conversions (5 CFR §362.107).
+Subject to any caps imposed by OPM on HHS conversions, OpDivs/StaffDivs may non- competitively convert any Pathways participant who has met program requirements to a term or permanent position in the competitive service provided that this option was clearly stated in the Pathways JOA. A Pathways participant who is non-competitively converted to a term appointment in the competitive service may be subsequently converted to a permanent position in the competitive service at any time before the term appointment expires.
+Time spent as a Pathways participant counts towards career tenure when the participant is noncompetitively converted without a break in service of one day to a permanent position in the competitive service upon completion of the program, with or without an intervening term appointment.
+HHS Priority Placement Programs (CTAP, ICTAP, RPL or PRL) do not apply to conversions of Pathways participants to the competitive service.
+See Conversions under each Program in this policy for specific program requirements.
+362-1-80  Developmental Program Requirements
+This section covers the development requirements of all Pathways Programs, except where otherwise specified:
+
+Pathways Programs Orientation. OpDiv/StaffDivs provide Pathways participants with a new employee orientation session within 30 days of their appointment to advise participants of program requirements including benefits associated with their appointments, completion of required forms, performance expectations and evaluation, assignment of mentors, and training. All participants should be provided the name of the OpDiv/StaffDiv PPC for program questions. Time spent in orientation may count toward the annual required hours of formal interactive training.
+Participant Agreement. All Pathways Program participants must sign an OpDiv/StaffDiv participant agreement prior to their entrance on duty date that, at a minimum, includes:
+General description of duties;
+Work schedule;
+Length of appointment;
+Training requirements;
+Mentorship opportunities;
+Evaluation of employee performance procedures;
+Requirements for continuation of employment and successful program completion;
+Minimum eligibility requirements for noncompetitive conversion to a term or permanent competitive service position (5 CFR §§362.106 and 107); and
+For Interns, specify the end date of the appointment (5 CFR §362.203(d)(3)(i)).
+Performance Plan. Performance plans are required for each participant whose appointment are expected to last 90 days or more and must be established within 30 calendar days of the participant's entrance on duty, in accordance with HHS Instruction 430-1, Performance Management Appraisal Program (PMAP). OpDivs/StaffDivs provide regular feedback, hold a mid- year performance review, and complete annual evaluations for participants consistent with HHS' PMAP.
+Individual Development Plan (IDP). All participants whose appointments are expected to last more than 90 days must be placed on an IDP within 45 calendar days of the participant's entrance on duty. For PMFs: HR Centers must use the OPM PMF IDP template (OPM Form 1302 - PDF). IDPs are individually tailored to the following elements:
+Target Position. A brief description of the target position; and the specific competencies or knowledge, skills, and abilities that will be required to qualify for the target position.
+Learning Objective. Specific learning objectives, including the required developmental activities, as well as formal interactive training.
+Details and Timelines. Describe when and how the learning objectives will be accomplished.
+Demonstrated Success. Describe method used to track objectives and accomplishments.
+Mentor. All participants whose appointments are expected to last more than 90 days must be assigned a mentor within 90 calendar days of their entrance on duty date. A PMF mentor must be a current managerial employee outside the PMF's chain of command, but within the HHS.
+Training. This list is not all inclusive, additional training classes may be required/assigned.
+Interns. There is no minimum number of training hours required for Interns; however, up to 40 hours of formal, interactive annual training must be accessible. The training may use a variety of flexible, cost-effective mediums, such as on-the-job, virtual, classroom, etc. (Intern NTEs hired to complete temporary projects are not required to be provided formal training.)
+Recent Graduates. Recent Graduates must receive a minimum of 40 hours of formal, interactive training per year that advances the goals and competencies outlined in each participant's IDP.
+Presidential Management Fellows. PMFs must receive a minimum of 80 hours of formal interactive training per year that addresses the competencies outlined in the PMF's IDP, and at least one (1) developmental assignment of four (4) to six (6) months in duration within the PMF's targeted occupation or discipline will be provided.
+HHS Mandatory Training. Participants must complete all HHS mandatory training. Such training does not count toward the minimum hours of required training specified above.
+Rotational Assignments. Participants (with the exception of Intern NTE per OPM Pathways Programs Handbook) may be assigned to rotational assignments (i.e., a detail) one (1) to six (6) months in duration within their employing OpDiv/StaffDiv, or anywhere within HHS. Rotations do not necessarily need to be in same occupation in which the participant will likely convert; however, must be for the purposes of providing the participant with valuable knowledge, skills, and experiences; to broaden their perspective of the OpDiv/StaffDiv and/or HHS mission; and to aid in their retention. A rotation may be used to give the participant knowledge, skills, or abilities in another area of the functional discipline of the participant's occupation, or in another OpDiv/StaffDiv with similar occupations, for example. See HHS Instruction 300-3, Details and IPA Assignments, for general requirements and required intra-agency financial agreements for reimbursable details.
+Documentation. See General Program Requirements in this Instruction.
+362-1-90  Internship Program
+Overview. The Internship Program provides high school, vocational, technical, undergraduate, and graduate students, who are enrolled in or accepted for enrollment in a qualifying education institution, with paid opportunities to work either part- or full-time in agencies and explore career paths related to their academic fields of study or career interests. Interns must meet the definition of student throughout the duration of their appointment (5 CFR §362.203(b)) and can be appointed at any grade level for which they qualify. Interns who successfully complete the program requirements may be eligible for non-competitive conversion to a term or permanent position in the competitive service.
+Eligibility Requirements (5 CFR §362.203(b)). HHS Interns must:
+Be accepted or enrolled in a qualifying educational institution pursuing a degree, diploma, or certificate in a qualifying education institution;
+Meet the definition of a student throughout the duration of their Intern appointment (except during an approved break in program);
+Meet the qualification requirements (series and grade); satisfy suitability and security requirements; and if applicable, satisfy any physical/medical requirements; and
+Meet additional requirements specified in the OpDiv/StaffDiv participant agreement with the Intern. See also Developmental Program Requirements, Participant Agreement.
+Official Documentation. OpDiv/StaffDivs must request the appropriate documentation (e.g., official transcripts) to verify Interns are in school at least half-time and in good academic standing prior to appointment and periodically throughout the Intern appointment. Official documentation must be provided by the Intern every semester/quarter of an academic school year in order to ensure continued compliance with the eligibility requirements. OpDiv/StaffDiv PPCs must notify the HHS PPO at pathways@hhs.gov when an Intern no longer meets the definition of a student.
+Qualification Requirements (5 CFR §362.203). Candidates for Intern positions are evaluated against OPM's Group Coverage Qualification Standard for Schedule D, Pathways Internship Positions, for the series and grade level of the position being filled. OpDiv/StaffDiv have the option of developing qualifications standards instead of using OPM's group standard in accordance with requirements outlined in HHS Instruction 302-1, Employment in the Excepted Service.
+Recruitment. See General Program Requirements, Recruitment in this policy.
+Appointment. Intern appointments are made under appointment authority 5 CFR §213.3402(a) for the following timeframes (5 CFR §362.203(d)(3)):
+Intern (Indefinite) appointments expected to last more than one (1) year. Interns are assigned meaningful work that supports both the OpDiv/StaffDiv's needs and the Intern's academic field of study or career goals. Interns on indefinite appointments should not be assigned simple administrative or clerical tasks as their primary duties.
+Intern NTE (Temporary) appointments not to exceed one (1) year. Assignments are short-term projects; labor-intensive duties not requiring subject matter expertise; or summer jobs. Temporary Intern appointments may be extended in accordance with the provisions outlined in 5 CFR §213.104, as long as the Intern continues to meet the eligibility requirements described in this Section and receives a positive recommendation and/or performance evaluation to justify the extension from her/his supervisor.
+Work Schedule (5 CFR §362.203(g) and OPM Pathways Handbook). An Intern can work on either a full or part-time basis. Interns cannot work on an intermittent basis. Supervisors are responsible for establishing work schedules with Interns in accordance with 5 CFR §610.121. There are no limitation on the number of hours an Intern can work per week (so long as applicable laws and regulations governing overtime and hours of work are adhered to); however, supervisors and Interns should agree on a work schedule that does not interfere with the Intern's academic schedule or performance, and allows for completion of both their academic and program requirements in a reasonable timeframe. The work schedule must be documented in the Participant Agreement.
+Breaks in Program. See also Definitions in this policy. A break in program must meet the following criteria:
+Breaks are permissible in certain circumstances (e.g., medical leave, financial hardship, military service, or other situations outside of the participant's control);
+The Intern must initiate a written request for a break in program and submit request to his/her supervisor;
+The HRD, in consultation with the Intern's supervisor, may use their discretion to either approve or deny a request for a break in program, as well as determine the length of the break; however, breaks may not exceed 120 consecutive days in a calendar year;
+Interns must be in good academic standing, as defined by the school, generally at least a 2.0 Grade Point Average (GPA) for undergraduate programs (cumulative; no rounding); and a 3.0 GPA for advanced degree programs;
+If the waiver is approved, and the Intern will neither be attending school or working, the employee will be placed on leave-without-pay (LWOP) for the duration of the break; and
+OpDiv/StaffDiv PPCs must monitor breaks within their Division and request official documentation described in this Section prior to the Intern returning to duty/program.
+Compensation. See General Program Requirements in this policy.
+Intern Program Requirements. See Developmental Program Requirements in this policy.
+Rotational Assignment(s). See under Developmental Program Requirements in this policy.
+Program Extensions. See Appointment, Intern NTE in this Section.
+Non-Competitive Conversion (5 CFR §362.204). All Interns are eligible for conversion to a term or permanent position in the competitive service if the Intern meets the following requirements:
+Is a U.S. Citizen;
+Completed at least 640 hours of work experience in the Intern Program while enrolled as a half- or full-time degree- or certificate-seeking student; or meets the requirements for a waiver described below in this section;
+Successfully completed a course of academic study at a qualifying educational institution conferring a diploma, certificate, or degree within 120 days preceding the appointment;
+The possibility of conversion was included in the JOA used to fill the Intern position;
+Receives a favorable recommendation for conversion in writing from their first-level supervisor; and
+Meets the OPM qualification requirements (series and grade) of the position which the participant will be converted.
+Interns must be converted within 120 days following successful degree completion, or terminated. The 120 days cannot be extended or used to complete the academic or program requirements. OpDiv/StaffDiv PPCs must notify the HHS PPO at pathways@hhs.gov when these timeframes are not met.
+Interns who separate from the Federal government before or during the 120-day period after they complete their academic requirements lose their eligibility for non-competitive conversion to a term or permanent position in the competitive service.
+Interns may be converted within HHS or any other executive agency.
+For additional guidance, see Conversions under General Program Requirements in this policy.
+Requirements to Waive Work Hours (5 CFR §362.204(d) and HHS' Pathways MOU). OpDiv/StaffDiv HRDs may waive up to one-half (320 hours) of the 640-hour service requirement for:
+An Intern who has completed at least 320 hours of career-related work experience in the Internship Program and demonstrates outstanding academic achievement and exceptional job performance:
+Official documentation showing an overall GPA of 3.5 or better on a 4.0 scale; standing in the top 10% of the student's graduating class; and/or induction in a nationally recognized scholastic honor society; and
+Official performance summary rating given by the student's Internship supervisor higher than 'Achieved Expected Results' or its equivalent in accordance with HHS' Performance Management Appraisal Program.
+Comparable non-federal internship experience in a field or functional area related to the Intern's target position and acquired while the individual:
+Worked in, but not for, a Federal agency, pursuant to a formal internship agreement, comparable to the Pathways Internship Program;
+Worked in, but not for, a Federal agency, pursuant to a written contract with a third- party provider officially established to provide internship experience that is comparable to the Pathways Internship Program;
+Honorable active duty military service, including the National Guard and Reserves, as defined under 5 U.S.C. 2101; or
+Student volunteer service described under 5 CFR Part 308 and other Federal programs designed to give internship experience to students, if the experience is comparable to the experience gained in the Pathways Internship Program.
+Termination (5 CFR §362.205). As a condition of employment, the appointment expires:
+120 days after completion of the Intern's course of academic study at a qualifying educational institution conferring a diploma, certificate, or degree, unless the Intern is converted to a position in the competitive service as described above in this Section; or
+Upon the expiration of the Intern NTE (temporary) appointment.
+Interns may also be terminated during their Intern appointment for reasons including misconduct, poor performance, suitability, or failure to follow the terms and conditions in the participant agreement including:
+The Intern no longer meets the definition of student. The OpDiv/StaffDiv PPC must notify the HHS PPO at pathways@hhs.gov;
+The Intern does not provide official documentation of current enrollment; or
+The Intern does not maintain good academic standing, as defined by the educational institution.
+An OpDiv/StaffDiv's Employee Relations staff must be consulted prior to initiating termination actions for reasons other than expiration of appointment to ensure compliance with applicable federal laws and regulations and HHS policy. Once a participant meets the legal definition of an employee, they have due process rights and are entitled to advance written notice, an opportunity to respond to a proposed adverse action, and appeal rights to the Merit Systems Protection Board. For additional information, see HHS Instruction, 315-1, Probationary and Trial Periods, and HHS Instruction, 752, Discipline and Adverse Action.
+362-1-100  Recent Graduates Program
+Overview. The HHS Recent Graduates Program is a one (1) year* development program that provides entry-level career opportunities for individuals who have recently graduated from qualifying educational institutions or programs. Recent Graduates may be appointed up to the GS-12 or equivalent grade level, depending on qualifications (see Qualification Requirements in this Section). Those who successfully complete the program requirements may be eligible for non-competitive conversion to a term or permanent position in the competitive service. *CDC's Public Health Association Program for Recent Graduates is a two (2) year development program starting at the GS-5 grade level (HHS' Pathways MOU).
+Eligibility Requirements (5 CFR §362.302). The following individuals are eligible to apply:
+Individuals who completed a qualifying associate's, bachelors, masters, professional, doctorate, vocational or technical degree, or certificate from a qualifying educational institution within the previous two (2) years; or
+Veterans, who due to military service were unable to apply within two (2) years of completing a qualifying associate's, bachelors, masters, professional, doctorate, vocational or technical degree, or certificate from a qualifying educational institution, have a full two (2) years upon release or discharge from active duty to apply. However, a veteran's eligibility period may not extend beyond six (6) years from the date on which the veteran completed the academic requirements described above.
+Individuals are eligible to apply to the HHS Recent Graduates Program up to nine (9) months prior to completing their academic requirements.
+Qualification Requirements.
+Candidates for Recent Graduate positions are evaluated against the OPM Qualification Standard for the position (series and grade) to be filled and are eligible for the following grade levels if the following qualifications are met:
+GRADE LEVEL	RECENT GRADUATE QUALIFICATION REQUIREMENTS
+Up to GS-9	Any position in which the candidate qualifies.
+GS-11	Science, technology, engineering, and math (STEM) positions, if the candidate possesses a Ph.D. or equivalent degree directly related to the STEM position being filled; OR
+
+Scientific or professional positions, as defined in OPM's General Schedule Qualification Standards, that are research related, if the candidate possesses a Master's or equivalent graduate degree directly related to the position being filled.
+GS-12	Scientific or professional positions, as defined in OPM's General Schedule Qualification Standards, that are research related, if the candidate possesses a Ph.D. or equivalent degree directly related to the position being filled.
+Recent Graduates are placed in positions with progressively more responsible duties which provide career advancement (career ladder) opportunities and cannot be appointed at the full performance level of any position.
+Recruitment. See Section 362-1-70 I., General Program Requirements, Recruitment.
+Appointment. Recent Graduate appointments are made under appointment authority 5 CFR §213.3402(b) for a period of one (1) year (with the exception of CDC's two (2) year program).
+Movement Between Agencies (5 CFR §362.304). Recent Graduates may apply to the Pathways Program in other Federal agencies prior to completing HHS' Recent Graduate program requirements. Similarly, Recent Graduates at other Federal agencies may apply to HHS' Recent Graduate positions prior to completion of program requirements at other agencies. Time served under the previous agency's program is credited towards the program requirements of the new agency provided there is no break in service, as defined in this policy.
+Compensation. See General Program Requirements in this policy.
+Recent Graduate Program Requirements. See Developmental Program Requirements in this policy.
+Rotational Assignment(s). See under Developmental Program Requirements in this policy.
+Program Extensions. See General Program Requirements in this policy.
+Non-Competitive Conversion (5 CFR §362.305). Recent Graduates are eligible for conversion to a term or permanent position in the competitive service if the Recent Graduate meets the following requirements:
+Is a U.S. Citizen;
+Successfully completes at least one (1) year of continuous service and all program requirements;
+Receives a rating of at least 'Achieved Expected Results' or its equivalent in accordance with HHS' Performance Management Appraisal Program;
+Receives a favorable recommendation for conversion in writing from t h e ir first-level supervisor; and
+Meets the OPM qualification requirements (series and grade) of the position which the participant will be converted.
+The non-competitive conversion may be made effective on the date the service requirement is met, or at the end of an approved program extension, if applicable.
+HHS Recent Graduates may only be converted within HHS; and HHS may not convert Recent Graduates from other Federal agencies.
+For additional guidance, see Conversions under General Program Requirements in this policy.
+Termination (5 CFR §362.306). As a condition of employment, the appointment expires:
+At the end of the one (1) year appointment (plus any approved extensions), unless the Recent Graduate is converted to a position in the competitive service.
+Recent Graduates may also be terminated during their Recent Graduate appointment for reasons including misconduct, poor performance, suitability, or failure to follow the terms and conditions of the participant agreement.
+An OpDiv/StaffDiv's Employee Relations staff must be consulted prior to initiating termination actions for reasons other than expiration of appointment to ensure compliance with applicable federal laws and regulations and HHS policy. Once a participant meets the legal definition of an employee, they have due process rights and are entitled to advance written notice, an opportunity to respond to a proposed adverse action, and appeal rights to the Merit Systems Protection Board. For additional information, see HHS Instruction, 315-1, Probationary and Trial Periods, and HHS Instruction, 752, Discipline and Adverse Action.
+362-1-110  Presidential Management Fellows Program
+Overview. The Presidential Management Fellows (PMF) Program is a professional leadership and development program centrally managed by OPM. The PMF program promotes careers in the Federal government by offering leadership development opportunities to graduates who have received advanced degrees within the past two (2) years, and is designed to attract individuals who demonstrate academic excellence, possess management and leadership potential, and have an interest in and commitment to public service. Individuals are appointed at the GS-9, GS-11, or GS- 12 grade level (or equivalent), and at the end of the two (2) year program, employees who meet all program requirements may be non-competitively converted to a term or permanent position in the competitive service (5 CFR 362 Subpart D).
+OPM Recruitment, Assessment, and Selection as a PMF Finalist (5 CFR §362.403).
+OPM manages the annual recruitment for the PMF program. Candidates apply to the PMF Program's annual JOA in USAJOBS. Interested applicants may apply if they:
+Have received a qualifying advanced degree within two (2) years of the JOA, or
+Expect to complete an advanced degree by August 31 of the academic year in which OPM's competition is held.
+Candidates may apply more than once under the criteria described in 5 CFR §362.403(d).
+OPM assesses PMF finalists for initial appointments at the GS-9 grade level (or equivalent) based on each candidate's experience and accomplishments via a structured assessment process.
+Veterans' preference is applied by OPM and PMF finalists' preference status are annotated on the PMF finalist list.
+OPM selects the finalists and publishes the PMF finalist list annually on the PMF website at https://www.pmf.gov/.
+OpDiv/StaffDiv Recruitment, Assessment, and Selection of a PMF Finalist. After the list of PMF finalists is published by OPM, registered OpDivs/StaffDivs are responsible for recruiting, assessing, and selecting PMF finalists for positions within their respective Division:
+OpDiv/StaffDiv PPCs advertise PMF job opportunities for their respective Division in the PMF Talent Management System (TMS) on OPM's website. (Each OpDiv/StaffDiv PPC will need an account established by the HHS PPO. Send requests to pathways@hhs.gov.) JOAs must contain sufficient information for finalists to determine their interest in applying to the position, including job title, duties, location(s), promotion potential, and the possibility of conversion to a term or permanent competitive service position.
+Applications are accepted for PMF positions posted in TMS in accordance with Accepting Applications in this policy.
+PMF job opportunities are open in accordance with the JOA Open Period in this policy.
+OpDivs/StaffDivs use OPM's Qualification Standards for PMF positions that are filled above the GS-9 level or for positions that have Individual Occupational Requirements at the GS-9 level. (PMF finalists are pre-qualified at the GS-9 level, see B. 2. above.)
+OpDivs/StaffDivs follow the assessment and selection procedures in this Instruction when filling PMF positions (5 CFR §362.105(c)(2) and the OPM Pathways Handbook).
+OpDivs/StaffDivs must exhaust or pass over preference eligibles before considering non- preference eligibles for PMF positions. See pass over and objection procedures in this policy.
+Appointment. PMF appointments are for two (2) years under appointment authority 5 CFR §213.3402(c).
+Required Documentation. PMFs must provide official documentation to verify her or his graduate degree completion prior to initial appointment/entrance on duty.
+Reimbursement Fee. The PMF reimbursement fee ($8,000 per PMF with PMF Class of 2022) must be submitted to OPM's PMF Program Office at pmffee@opm.gov no later than 30 days after the PMF accepts a tentative job offer. An Interagency Agreement Form (FS Form 7600A and B) found under the 'Agencies' section at www.pmf.gov must also be submitted. See www.pmf.gov for instructions on how to complete and submit this form.
+Appointment Eligibility. PMFs are eligible for appointment for 12 months from the date OPM selects the individual as a PMF finalist. PMFs must enter on duty within this timeframe.
+Entry Level Grade. Appointments may be made at the GS-9, GS-11, or GS-12 grade level (or equivalent), based on the PMF's qualifications.
+Full Performance Level (FPL). OpDivs/StaffDivs determine the career ladder of PMF positions within their Division; however, the FPL may not exceed GS-13 grade level and must be established in the position description and included on the OpDiv/StaffDiv JOA posted on TMS, in accordance with the OPM Pathways Handbook and Merit System Principles.
+The OpDiv/StaffDiv PPC must notify the HHS P P O at pathways@hhs.gov within seven (7) calendar days after appointment, so the PPO can notify OPM via TMS.
+Movement between Agencies (5 CFR §362.406). PMFs may move to another Federal agency at any time during their PMF appointment under the following conditions:
+The PMF must separate from the current agency and the new agency must appoint the participant without a break in service; and
+Time served under the previous PMF appointment applies towards the completion of the program at the new employing agency.
+If the move occurs within the first six (6) months of the PMF's appointment, the original appointing agency may request reimbursement of one-quarter of the PMF placement fee from the new appointing agency.
+The OpDiv/StaffDiv PPC must notify the HHS P P O at pathways@hhs.gov within seven (7) calendar days when a PMF from another Federal agency is appointed to HHS, so the PPO can notify OPM via TMS.
+Compensation. See General Program Requirements in this policy.
+PMF Program Requirements.
+Orientation. In addition to the internal orientation described under Developmental Program Requirements in this policy, OPM periodically offers PMF orientations via webinar throughout the year. These sessions last for approximately two (2) hours and address program requirements and individual questions. The hours spent in this training may count toward the required 80 hours of formal interactive training per year.
+Developmental Assignment. PMFs are required to participate in one (1) developmental assignment (i.e., detail) four (4) to six (6) months in duration to build competencies in the occupation or functional discipline in which the PMF will most likely convert, with management and/or technical responsibilities consistent with the PMF's position description and IDP.
+The assignment may be within HHS or in another Federal agency with an active signed Pathways Programs MOU with OPM. The assignment must be outside the PMF's direct chain of command.
+As an alternative, a PMF may participate in a HHS-wide or Administration initiative that will provide the PMF with the experience s/he would have gained through the four (4) to six (6) months developmental assignment.
+Rotational Assignment(s). See under Developmental Program Requirements in this policy.
+Assignment Requests. Consistent with 5 CFR §362.405(b)(4-5):
+Development and rotation assignments (i.e., details) are negotiated in advance with the PMF, his/her supervisor, host supervisor, and the servicing HR Center, and meet the following requirements:
+PMFs have signed a participant agreement, and are placed on an IDP and performance plan before the assignment (see Developmental Program Requirements in this policy); and
+The assignment has written supervisory approval, i.e., the supervisor certifies the assignment supports, and is directly linked to, the PMF's IDP; and any travel within or Outside the Continental United States (OCONUS) and its Territories supports the overall mission of the Division.
+Assignments must be clearly outlined in either an inter or intra agency financial agreement between OpDivs/StaffDivs or HHS and the hosting agency, in accordance with the reimbursable and non-reimbursable agreement requirements outlined in HHS Instruction 300-3, Details and IPA and HHS Financial Management Directive, Chapter 2 Interagency Agreement.
+All assignments outside HHS, or that include OCONUS travel, must be submitted to the HHS PPO at pathways@ hhs.gov for review, coordination, and approval at least 30 calendar days prior to the proposed assignment and include a justification for the assignment and proof of 4. a. and b. above.
+Performance assessments are required for assignments scheduled to last more than 90 calendar days. Hosting supervisors are responsible for assessing the PMF's performance at the conclusion of the assignment, and the performance assessment will be used by the PMF's HHS supervisor when completing the PMF's annual performance evaluation.
+An extension and/or termination of an assignment must be mutually agreed upon by the PMF, his/her HHS supervisor, and the host agency. A 15 calendar day written notice is required.
+PMFs immediately return to their employing office upon completion of the assignment.
+Program Extensions. See General Program Requirements in this policy.
+Certification (5 CFR §362.405 and HHS' Pathways MOU).
+HRDs evaluate each PMF within their Division, and determine whether to certify in writing that the PMF met all program requirements, including performance and developmental requirements outlined in the PMF's performance plan and IDP. The HRD may consult the employee's supervisor and/or mentor to make their decision.
+HRDs must certify NLT 30 calendar days prior to the expiration of the PMF's appointment and notify the PMF of his/her decision. This authority may not be redelegated.
+Certifications must be forwarded annually upon request of the HHS PPO to pathways@hhs.gov.
+If an HRD does not certify a PMF, the PMF may request for OPM to reconsider. The request must be in writing within 15 calendar days of the HRD's decision. Approved requests are sent to the HHS PPO at pathways@hhs.gov for review and OPM approval. OPM's decision is not subject to appeal and the PMF may continue in the Program pending outcome of OPM's decision. OpDiv/StaffDivs are required to continue to provide the appropriate developmental activities during the waiting period.
+Non-Competitive Conversion (5 CFR §362.409). PMFs are eligible for conversion, without a break in service, to a term or permanent position in the competitive service if the PMF meets the following requirements:
+Is a U.S. citizen;
+Completed all PMF program requirements within two (2) years of appointment (plus any approved extensions);
+Received a rating of at least 'Achieved Expected Results' or its equivalent in accordance with HHS' Performance Management Appraisal Program;
+Receives a favorable recommendation for conversion in writing from t h e ir first-level supervisor;
+Is certified in writing by the servicing HRD that the PMF has met all requirements prior to conversion (HHS' MOU with OPM); and
+Meets the OPM qualification requirements (series and grade) of the position which the participant will be converted.
+For additional guidance, see Conversions under General Program Requirements in this policy.
+Separations.
+Withdrawal/Resignation (5 CFR §362.407). A PMF may withdraw from the program at any time.
+Withdrawals are treated as resignations from Federal service; however, any obligations established upon admission and appointment, such as a recruitment incentive, still apply.
+If the PMF previously held a permanent appointment in the competitive service in the OpDiv/StaffDiv immediately prior to entering the Program, and the withdrawal from the program is not related to misconduct, poor performance, or suitability, the PMF may be placed in a permanent competitive service position within the employing OpDiv/StaffDiv at the discretion of the servicing HRD (5 CFR §362.407(a)(2)).
+The OpDiv/StaffDiv PPC must notify the HHS PPO at pathways@hhs.gov within seven (7) calendar days when a PMF withdraws from the PMF program, so the PPO can notify OPM via TMS.
+Readmission (5 CFR §362.407(b)). If a PMF withdraws from the program for reasons that are not related to misconduct, poor performance, or suitability, the former PMF may petition their servicing OpDiv/StaffDiv in writing for readmission and reappointment to the PMF Program. Such a petition must be in writing and include appropriate justification. The HRD, in consultation with the OpDiv/StaffDiv leadership, may tentatively approve or deny the request for readmission. The HHS PPO is notified at pathways@hhs.gov within seven (7) calendar days of readmission approval, along with the PMF's proposed status in the Program upon readmission and reappointment. ASA/OHR will notify the OPM Director. OPM may overrule HHS' decision to readmit and reappoint the PMF, and the OPM Director's decision is not subject to appeal.
+Termination (5 CFR §362.408 and OPM Pathways Handbook). As a condition of employment, the appointment expires:
+At the end of the two (2) year appointment (plus any approved extensions) unless the PMF participant is selected for non-competitive conversion.
+A PMF may also be terminated for reasons including misconduct, poor performance, suitability, or failure to follow the terms and conditions of the PMF's participant agreement.
+An OpDiv/StaffDiv's Employee Relations staff must be consulted prior to initiating termination actions for reasons other than expiration of appointment to ensure compliance with applicable federal laws and regulations and HHS policy. Once a participant meets the legal definition of an employee, they have due process rights and are entitled to advance written notice, an opportunity to respond to a proposed adverse action, and appeal rights to the Merit Systems Protection Board. For additional information, see HHS Instruction, 315- 1, Probationary and Trial Periods, and HHS Instruction, 752, Discipline and Adverse Action.
+The OpDiv/StaffDiv PPC must notify the HHS PPO at pathways@hhs.gov within seven (7) calendar days when a PMF is terminated from the PMF program, so the PPO can notify OPM via TMS.
+362-1-120  Documentation, Reporting, and Accountability
+Records associated with hiring actions must be retained in individual recruitment case files to allow for third-party reconstruction. Records associated with personnel actions, including all documentation sufficient for third party reconstruction purposes, must be retained according to the record disposition schedule. Generally, all records created in a given year must be retained for a total of three (3) full years. Records involved in litigation and grievance processes may be destroyed only after official notification is received from OPM, Department of Justice, courts, the Office of the General Counsel, etc. that the matter has been fully litigated, or resolved, and closed.
+HHS is required to report to OPM annually on projected and actual Pathways Programs hires, in accordance with 5 CFR §362.109. OpDiv/StaffDiv PPCs will provide data for their serviced Division upon request by the HHS PPO.
+ASA/OHR will conduct periodic accountability reviews to analyze compliance with this policy, HHS and OPM policy and guidance, and all applicable federal laws and regulations.

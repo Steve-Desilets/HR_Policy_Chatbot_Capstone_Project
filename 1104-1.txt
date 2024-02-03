@@ -1,0 +1,221 @@
+HHS Instruction 1104-1: Delegated Examining Operations
+Material Transmitted:
+Department of Health and Human Services (HHS) Instruction 1104-1, Delegated Examining Operations, dated 08/03/2020
+
+Material Superseded:
+HHS Instruction 300-1, HHS Administrative Careers With America (ACWA), dated October 26, 2015
+
+HHS Instruction 337-1, Category Rating and Selection Procedures, dated November 3, 2010
+
+Background:
+The Office of Personnel Management (OPM) delegated to HHS, via Interagency Delegated Examining Agreement, HHS-1, the authority to examine applicants for competitive service positions for all occupational series and grade levels nationwide. This Instruction is established to provide HHS-wide policy on conducting Delegated Examining (DE) Operations under Title 5, United States Code (U.S.C.) Part 1104, in accordance with the operational procedures and agency responsibilities prescribed in the OPM Delegated Examining Operations Handbook (DEOH).
+
+This issuance is effective immediately and must be carried out in accordance with applicable laws, regulations, bargaining agreements, and Departmental policy.
+
+/s/
+
+J. Blair Duncan
+Deputy Assistant Secretary for Human Resources
+Chief Human Capital Officer
+
+Subject: Delegated Examining Operations
+1104-1-00 Purpose
+1104-1-10 References
+1104-1-20 Coverage
+1104-1-30 Definitions
+1104-1-40 Responsibilities
+1104-1-50 Policy
+1104-1-60 Documentation and Accountability
+
+1104-1-00 Purpose
+This Instruction establishes Delegated Examining (DE) policy and procedural guidance for the Department of Health and Human Services (Department or HHS) Human Resources Offices and designated staff assigned to conduct DE operations, as authorized by the Interagency Delegated Examining Agreement, HHS-1, between the Office of Personnel Management (OPM) and HHS.
+
+This policy should be used in conjunction with the OPM's Delegated Examining Operations Handbook (DEOH) and the references listed in this Instruction.
+
+When provisions of this policy differ from changes in applicable law or regulation, the changes in law or regulation apply.
+
+1104-1-10 References
+5 U.S.C. §1104, Delegation of Authority for Personnel Management 
+5 U.S.C. §2108, Veteran; disabled veteran; preference eligible 
+5 U.S.C. §3305, Competitive service; examinations; when held 
+5 U.S.C §§3309 through 3318, Examination, Certification, and Appointment 
+5 U.S.C. §3319, Alternative ranking and selection procedures 
+5 U.S.C. §3327, Civil Service Employment Information 
+5 Code of Federal Regulations (CFR) Part 211, Veteran Preference
+5 CFR Part 300, Employment (General)
+5 CFR Part 330, Recruitment, Selection and Placement 
+5 CFR Part 332, Recruitment and Selection Through Competitive Examination
+5 CFR Part 337, Subpart C, Examining System 
+29 CFR Part 1607, Uniform Guidelines on Employee Selection Procedures 
+Interagency Delegated Examining Agreement (HHS-1) between OPM and HHS
+OPM Delegated Examining Operations Handbook (DEOH) - PDF
+OPM Delegated Examining Certification Program Guide - PDF
+OPM Vet Guide
+HHS Instruction, 330-2, Priority Placement Programs, 04/08/2020
+1104-1-20 Coverage and Exclusions
+This Instruction covers delegated examining HHS-wide. It does not apply to merit promotion, the excepted service, or the Senior Executive Service (see 5 U.S.C. §1104).
+
+The following HHS Operating and Staff Divisions (OpDivs and StaffDivs) are authorized to conduct delegated examining activities under the Interagency Delegated Examining Agreement, HHS-1:
+
+Centers for Disease Control and Prevention (CDC)
+Centers for Medicare and Medicaid Services (CMS)
+Food and Drug Administration (FDA)
+Health Resources and Services Administration (HRSA)
+Indian Health Service, Navajo Region (IHS)
+Indian Health Service, North Plains Region (IHS)
+Indian Health Service, Rockville Headquarters (IHS)
+Indian Health Service, Southeast Region (IHS)
+Indian Health Service, Southwest Region (IHS)
+Indian Health Service Western Region Human Resources Center (IHS)
+National Institutes of Health (NIH)
+Office of Inspector General (OIG)
+Office of Medicare Hearings and Appeals (OMHA)
+Staffing Recruitment Operations Center (SROC)
+
+1104-1-30 Definitions
+ACWA, or Administrative Careers With America. ACWA was the result of a 1979 class action law suit concerning an exam OPM then used to evaluate candidates for certain positions at the GS-5 and GS-7 grade levels across government. As a result, OPM was required to develop assessment tools for the positions covered. As of 2007, federal agencies are no longer required to use the ACWA assessment tools and may use any other validated (i.e., job-related) assessment tool(s) when filling competitive service positions. Such assessment tools must comply with the requirements specified in this Instruction (see Section 1104-1-50, Policy, Job Analysis and Assessments).
+Category Rating. Category rating is a method of evaluating candidates who meet eligibility and minimum qualification requirements for the position by assessing the applicants' experience, education, and training and placing them into pre-defined "quality categories" rather than assigning individual numerical scores. Category rating is synonymous with alternative rating described in 5 U.S.C. §3319.
+Delegated Examining. OPM may delegate authority to an executive agency to conduct delegated examining, i.e., examine applicants for competitive service positions that are open to all U.S. citizens including current federal employees. Delegated examining is synonymous with competitive examining. (5 U.S.C. §1104)
+Direct Hire Authority. A Direct Hire Authority (DHA) permits an agency who has delegated examining authority to hire, after public notice, any qualified applicant to fill competitive service positions at GS-15 and below without having to rate applicants or apply veterans' preference (5 CFR 337, Subpart B).
+Pass overs and Objections. For full definitions, see DEOH, Chapter 6, Section D.
+Pass over. An agency request to "pass over" a preference eligible to select a non-preference eligible.
+Objection. An agency request to remove a preference eligible from consideration from a certificate.
+Preference Eligible. Individuals who receive preference in appointment over other applicants because of their military service or because they are a family member of a military service member. See 5 U.S.C. §2108(3) for full definition.
+Public Notice. A legal requirement to post all job opportunity announcements (JOA) on USAJOBS when accepting applications from outside the federal workforce for competitive service positions lasting more than 120 days (5 U.S.C. §§ 3327 and 3330).
+Subject Matter Expert (SME). An individual who is an expert of the job to be filled. A SME is typically an incumbent in the same position or first level supervisor (but cannot be the selecting official or hiring manager to maintain objectivity in the hiring process) and has knowledge of the competencies needed to perform the position and is asked to assist HR in the assessment process, i.e., development of the job analysis, applicant assessment, and/or interviews.
+Variation. OPM is authorized by 5 CFR §5.1 to approve a variation (i.e., an exception to regulation) to avoid unnecessary hardship to an employee (i.e., loss of employment, pay, grade, or significant service credit) when an agency makes a regulatory error during the competitive hiring process. OpDiv/StaffDiv Human Resources Offices must first attempt to correct the erroneous appointment by placing the employee on a legal appointment (e.g., by determining if the employee could have been properly appointed at the time when the error was made via a previously advertised position; posting a JOA; or appointing via a noncompetitive appointment authority, etc.). OPM does not have the authority to make exceptions to law, Executive Order, or court decision. For additional guidance, see DEOH, Chapter 6, Section E, and Erroneous Certification and Priority Consideration in this Instruction.
+Veteran. Defined under 5 U.S.C. §2108(1-2) and 5 CFR §211.102.
+1104-1-40 Responsibilities
+HHS Assistant Secretary for Administration (ASA),Office of Human Resources (HHS OHR):
+Develops Department-wide policy and guidance regarding delegated examining, including the acceptance of applications; category rating procedures; veterans' preference adjudication; and requests requiring OPM approval, consistent with HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+Serves as the liaison with OPM on matters pertaining to delegated examining for the Department.
+Submits to OPM any pass over and objection request that requires OPM approval.
+Submits to OPM any request for variation.
+Submits to OPM requests for final determination of the physical ability of a preference eligible to perform the duties of a position.
+Submits to OPM requests for a HHS-wide or OpDiv/StaffDiv-specific direct hire authority.
+Periodically reviews OpDiv/StaffDiv delegated examining procedures, actions, qualification standards, and reports to assure conformance with HHS and OPM policy and guidance, and all applicable federal laws and regulations; and
+Takes corrective action, as required by OPM, as the result of the review of delegated examining activities within HHS (5 U.S.C. §1104).
+OpDiv/StaffDiv Human Resources Offices (OHROs):
+Comply with this Instruction, any HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+Maintain programmatic responsibility for the delegated examining process within their organization.
+Ensure that all human resources (HR) staff, including contractors, performing delegated examining activities have successfully completed the initial OPM delegated examining training and are currently certified to perform delegated examining.
+Ensure that managers, supervisors and personnel involved in the competitive hiring process are trained and informed of merit systems principles and prohibited personnel practices.
+Establish internal Standard Operating Procedures (SOPs) for delegated examining activities, including category rating procedures, consistent with applicable law, regulations, the DEOH, and this Instruction.
+Fill vacant positions with the best qualified persons from a sufficient pool of diverse, well-qualified applicants.
+Submit to HHS OHR Policy and Accountability Division (PAD) any requests to object/pass over a veteran with a 30% or more compensable service-connected disability for OPM approval.
+Submit to PAD OpDiv/StaffDiv Human Resources Director (HRD) objection/pass over approvals of preference eligibles with less than 30% compensable service-connected disability, or an applicant with derived preference, within 14 calendar days of HRD approval, along with the supporting documentation listed in Section 1104-1-50, Pass Overs and Objections of Preference Eligibles of this Instruction.
+Audit every certificate of eligibles even when no selections are made and/or the certificate is canceled.
+Submit to PAD any variation requests for OPM approval, after attempts to regularize (i.e., correct) the appointment are unsuccessful.
+Submit to PAD any requests for OpDiv/StaffDiv-specific direct hire authorities for OPM approval.
+Ensure that the restrictions on movement after competitive appointment (5 CFR 330, Subpart E) are followed.
+Within five (5) business days of the addition, termination, or suspension of any DE office(s), notify PAD so OHR can notify OPM, as required by HHS-1.
+Human Resources Staff Performing Delegated Examining Activities:
+Obtain and maintain current certification under the OPM's Delegated Examining Certification Program.
+Conduct delegated examining consistent with law, federal regulations, the DEOH, and this Instruction.
+Work with hiring officials to develop job analyses and assessment tools prior to posting the JOA. Ensure that each job analysis is signed and dated by the hiring official and HR Specialist.
+Ensure that qualification determinations for each applicant are in accordance with the appropriate OPM qualification standard.
+Appropriately apply and adjudicate veterans' preference.
+1104-1-50 Policy
+OPM DE Certification. All individuals responsible for conducting DE activities (i.e. an employee or contractor who performs delegated examining activities to fill competitive service positions, including conducting job analysis; public notice; accepting and processing applications; candidate assessment and referral; adjudicating veterans' preference; auditing certificates; delegated examining unit accountability responsibilities; and reporting requirements) are required to complete initial certification training and be currently certified to perform delegated examining. Individuals must successfully pass the OPM DE Certification Assessment, in accordance with the OPM Delegated Examining Certification Program Guide. Certifications are valid for three (3) years. Recertification Assessments may be taken when DE certifications are within six (6) months of expiring. Individuals must be actively conducting delegated examining activities, or be in a policy or oversight role to delegated examining, to be eligible for recertification. Failure to maintain current DE certification can jeopardize an OpDiv/StaffDiv's authority to conduct DE activities under HHS-1. For additional information, including assessment preparation, recertification, costs, etc., see the OPM Delegated Examining Certification Program Guide - PDF.
+Employee Conflict of Interest. When an employee, a Subject Matter Expert (SME), an employee's relative as defined by 5 U.S.C. §3110(a)(3), or a member of an employee's household applies for a position that is being handled by the employee/SME's office, neither the employee or SME may be involved in the assessment or certification process for that position. Each OHRO conducting DE activities under HHS-1 must include this guidance in its DE SOP. At a minimum, the SOP should state that an employee must provide written notice to the servicing Human Resources Office when:
+The employee or SME intends to apply for a position that is being handled by the DE unit/office in which they work, or
+The employee knows that a relative or a member of his or her household intends to apply for such a position.
+Job Analysis & Assessments.
+Job Analysis.
+A job analysis identifies job-related competencies/knowledge, skills and abilities (KSAs) and demonstrates a clear relationship between the tasks performed on the job and the competencies/KSAs required to successfully perform the tasks. The job analysis must be signed and dated by the selecting official and HR Specialist.
+Job analyses for multi-grade level announcements: There should be an approved job analysis for each grade level that distinguishes the differences in job duties and job-related competencies between grade levels. In cases where a Statement of Difference(s) is used, a single job analysis may be used.
+Job Assessments.
+OpDivs/StaffDivs must utilize valid (i.e., job related) assessment methods to evaluate applicants in accordance with the requirements in 5 CFR Part 300, Subpart A; the DEOH, Chapter 2, Section C; and consistent with the technical standards in the Uniform Guidelines on Employee Selection Procedures (29 CFR Part 1607). Assessment questions must be based on reliable rating criteria that are fully documented by the appropriate job analysis and show a direct link to the competencies required for successful performance. Assessment tools must be job-related and should be reviewed by an Industrial Organizational (I/O) Psychologist or legal counsel prior to use to ensure they meet regulatory requirements and are a legally supportable evaluation tool. For additional guidance, see the DEOH, Chapter 2, Section C.
+Administrative Careers With America (ACWA): OHROs are not required to use OPM's ACWA assessment tools for ACWA designated positions; however, they are available to fill positions covered by ACWA. See the DEOH, Chapter 2, for instructions and DEOH Appendix F, for the list of ACWA positions. Other valid assessment tool(s) may be used when filling these competitive service positions as long as they comply with the assessment requirements described above in this Instruction.
+Citizenship Requirement. No individual may be appointed to a position in the competitive service unless the individual is a citizen or national of the United States, except in rare cases when approved by OPM (8 U.S.C. §1408; 5 CFR §7.3; 5 CFR §338.101; and Executive Order 11935). In addition, HHS, along with many other federal agencies receiving appropriated funds, is restricted from compensating an individual who is not a U.S. Citizen or national of the United States for any federal position. OHROs should consult their legal counsel to identify and comply with agency specific appropriations restrictions related to the hiring of individuals who are not citizens. For more information see DEOH, Chapter 4.
+Acceptance of Applications.
+Applications for competitive service positions are accepted according to the application procedures defined in the public notice (5 U.S.C. §§3327 and 3330, 5 CFR Part 330, Subpart A; and the DEOH, Chapter 4).
+If the applicant is a 10-point preference eligible, then the applicant may file an application at any time for any position for which: a) a register is about to be established; b) a non-temporary appointment has been made in the preceding three years; or c) a list of eligibles currently exists but is closed to new applicants (5 CFR Part 332).
+If the applicant is a preference eligible, the applicant is: a) entitled to be entered on an existing competitor inventory if he or she applies within 90 days after furlough or separation without delinquency or misconduct from a career or career-conditional appointment, provided he or she is otherwise qualified for the position; b) may enter an existing inventory if he or she has successfully appealed a furlough or discharge from a career or career-conditional appointment, and is otherwise qualified for the position; and c) entitled to be re-entered on each existing inventory (or its successor) on which he or she was previously listed, provided he or she applies within 90 days after resignation without delinquency or misconduct from a career or career-conditional appointment (5 CFR Part 332 ). For more information, see the DEOH, Chapter 4.
+Limiting the Number of Applicants. OpDivs/StaffDivs may use the following options to manage application volume for positions that attract a high number of applicants:
+Limiting the number of days a JOA is open: OpDivs/StaffDivs have the discretion to determine the length of time that a JOA is open; however, justifications for announcements open less than five (5) calendar days must be documented in the DE case file, in accordance with HHS-1 and the DEOH, Chapter 3. Justifications are based on the number, type(s), grade levels, and geographic locations of the positions being filled; labor market conditions; and recent experience (within 1 year) filling similar positions.
+Limiting the number of applications received: OpDivs/StaffDivs have the discretion to set "cut-offs" or limits (e.g., the first 100 applications received) on the number of applications that they will consider when filling a position. When using such limits, OpDivs/StaffDivs shall accept any applications received up until 11:59 p.m. on the day the limit is reached in order to accommodate applicants in non-Eastern time zones.
+
+OpDivs/StaffDivs' DE SOP must address the use of these options. When one or more of the limitations are used, they must be stated in the JOA, advertisement, or notice and justification (to limit apps) must be documented in the DE case file.
+Applicant Notification. Applicants who apply through USAJOBS must receive notification through USAJOBS at each of the following four points during the application process: 1) application received; 2) application assessed for qualifications; 3) applicant referred or not referred to selecting official; and 4) applicant selected or not selected for the job (DEOH, Chapter 4).
+Readvertisement of Vacancy Announcements. When announcements are re-advertised within 60 days of the closing date of the original announcement, all applicants who applied to the original announcement must be notified of the readvertisement, regardless whether there are significant changes to the announcement. (Positions re-advertised after the 60 day time frame do not require applicant notification.)
+Veterans' Preference Adjudication. OHROs are responsible for ensuring veterans' preference provisions are applied in accordance with 5 U.S.C. §§3309-3319, 5 CFR Part 211, the DEOH, and this Instruction. The DEOH, Chapter 4, is followed regarding reviewing incomplete applications from preference eligibles. OpDivs/StaffDivs shall request additional information from applicants when there is conflicting documentation in their application package concerning their claimed veterans' preference (Letter from the U.S. Office of Special Counsel (OSC) to HHS Office of General Counsel, 12/12/2017). For example, in cases where the applicant submits supporting evidence that shows they are entitled to the veterans' preference, but also provides contradictory evidence that shows they are not entitled to the veterans' preference they are claiming, HR Specialists must request additional information, as necessary, to ensure veterans' preference is adjudicated properly.
+Application for 10-Point Veteran Preference Eligibles. OPM issued a revised Standard Form 15 (SF-15), Application for 10-Point Veteran Preference, in October 2013. Signatures are no longer required; the form is now PDF-fillable; and veterans may file for preference if they have documentation showing they are honorably discharged or will be discharged under honorable conditions within 120 days after the date the certification is signed. The SF-15 must be collected prior to appointment.
+Spousal Derived Preference Claims. OPM retains authority to determine spousal derived preference when the claim for preference is based on a claim of common law marriage (5 U.S.C. §2108(3)(D); 5 CFR 211.103). OHROs submit requests to employmentpolicy@hhs.gov for review/concurrence and OPM approval.
+Physical Qualification Waivers of Preference Eligibles. OHROs will waive (5 U.S.C. §3312):
+Requirement(s) concerning age, height, and weight in determining qualifications of a preference eligible, unless the requirements is/are essential to the performance of the duties of the position, and
+Physical requirements if, in the opinion of the employing OpDiv/StaffDiv, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform the duties of the position.
+If the OHRO determines that, based on a preponderance of evidence, a preference eligible under 5 U.S.C. §2108(3)(C) who has a compensable service-connected disability of 30 percent or more is not able to fulfill the physical requirements of the position, the OHRO shall submit the request to HHS OHR Policy and Accountability Division (PAD) at employmentpolicy@hhs.gov for review/concurrence and OPM approval. PAD will subsequently notify OPM of the determination and, at the same time, the OHRO will notify the preference eligible of the reasons for the determination and of the right to respond to OPM within 15 days of the date of the notification. No correspondence is sent by the OHRO to the applicant until PAD concurrence is received. OPM will require evidence that notification was sent to the preference eligible's last known address and will make a final determination on the physical ability of the preference eligible to perform the duties of the position, taking into account any additional information provided. The OpDiv/StaffDiv will not select any other person for the position prior to receiving OPM's final determination.
+Career Transition Assistance Plan (CTAP) and Interagency Career Transition Assistance Plan (ICTAP). OpDivs/StaffDivs must provide priority selection to qualified CTAP and ICTAP candidates when filling positions under delegated examining procedures. OHROs retain written documentation to demonstrate CTAP and ICTAP clearance. (HHS Instruction 330-2, Priority Placement Programs, and 5 CFR 330, Subparts F and G)
+Reemployment Priority List (RPL). OpDivs/StaffDivs must provide priority selection to qualified HHS RPL candidates when filling positions under delegated examining procedures. OHROs retain written documentation to demonstrate RPL clearance. (HHS Instruction 330-2, Priority Placement Programs, and 5 CFR 330, Subpart B)
+Category Rating. Qualified applicants for permanent, term, and temporary positions in the competitive service are assessed using category rating procedures. Category rating is a method of evaluating candidates who meet eligibility and minimum qualification requirements for the position by assessing the applicants' experience, education, and training and placing them into pre-defined "quality categories" rather than assigning individual numerical scores. Category rating is synonymous with alternative rating described in 5 U.S.C. §3319. For additional guidance, see the DEOH, Chapter 5.
+Quality Categories: The HHS quality categories are Best Qualified, Well Qualified, and Qualified. Each category represents a grouping of candidates with similar levels of job-related knowledge, skills, abilities (KSAs) or competencies. Applicants are assessed and placed into categories based on their job-related competencies/KSAs and any applicable selective placement factors.
+Category Rating Procedures: OpDiv/StaffDiv category rating procedures must be documented and adhere to the following requirements:
+Quality categories are Best Qualified, Well Qualified, and Qualified.
+Categories cannot include a "Not Qualified" category.
+Categories are defined in an OpDiv/StaffDiv's DE SOP and/or DE case file through job analysis. Definitions should be written to reflect the requirements of the position. The quality categories must be defined prior to announcing the job, and each category should have a clear definition that distinguishes it from the other categories.
+Quality categories may be defined using numerical scores (i.e., a range of scores to define each quality category). For example, scores of 95-100 to represent the "Best-Qualified" category, scores of 85-94 are "Well Qualified," and scores of 70-84 are "Qualified." Such rating criteria must adhere to the technical standards in the Uniform Guidelines (29 CFR Part 1607) and the Job Analysis and Assessments guidance in this Instruction to ensure it complies with merit staffing laws and regulations (DEOH, Chapter 5).
+Each quality category definition must be included in the vacancy announcement, along with a description of how veterans' preference is applied under category rating procedures.
+A numerical ranking process, or the "rule of three," does not apply to category rating.
+Issuing Certificates.
+HHS DE certificates are open for 240 calendar days, with no extensions. CTAP, ICTAP, and the RPL must be cleared at initial announcement, in accordance with HHS Instruction 330-2, Priority Placement Programs.
+Names of qualified candidates are listed in alphabetic order, with preference eligibles listed ahead of non-preference eligibles, within each quality category. Veterans' preference applies to each category; however, points are not assigned. Qualified preference eligibles with a compensable service-connected disability of 10 percent or more (i.e., CP and CPS) are listed in the highest quality category, except for scientific and professional positions at General Schedule (GS)-9 level or higher.
+All candidates in the highest quality category are referred, with veteran preference eligibles listed ahead of non-veterans. If there are fewer than three (3) candidates in the highest category, the highest and second highest categories may be merged before a certificate is issued or a selection is made.
+Only preference eligible candidates in the highest quality category are referred when it is apparent that non-preference eligible candidates are not within reach for selection, or when there are a sufficient number of preference eligible candidates to consider to fill the vacant position(s).
+Order of selection:
+CTAP candidates;
+RPL candidates
+ICTAP candidates;
+Eligibles who lost consideration due to erroneous certification;
+Eligibles in the highest quality category (including CPS and CP veterans); and
+Eligibles in other quality categories, as needed.
+The Indian Health Service must give selection priority in accordance with 25 U.S.C. §5117 prior to applying veterans' preference provisions.
+If there are only preference eligibles or only non-preference eligibles in the highest quality category, the hiring manager may select any eligible candidate in the highest quality category.
+Selecting officials may not select a non-preference eligible if there is a qualified preference eligible in the same category unless an approval to pass over the preference eligible is obtained in accordance with the Pass Overs and Objections of Preference Eligibles procedures below. If a request to pass over a veteran has been submitted, selection(s) may be made once approval is received from either the OpDiv/StaffDiv HR Director (for pass overs and objections not requiring OPM approval) or OPM (for pass overs and objections requiring OPM approval).
+Pass Overs and Objections of Preference Eligibles.
+Pass Overs and Objections Not Requiring OPM Approval
+OpDiv/StaffDiv HR Directors (HRDs) may approve or deny objection or pass over requests of preference eligibles with less than 30 percent compensable service-connected disability, or an applicant with derived preference, for competitive service positions within their organization. This authority may not be redelegated below the OpDiv/StaffDiv HRD level.
+A copy of the HRD's approval must be sent to HHS OHR Policy and Accountability Division (PAD) within 14 calendar days of the date of approval, via employmentpolicy@hhs.gov, and include the following supporting documentation:
+SF-62, Agency Request to Passover a Preference Eligible or Object to an Eligible, signed by the HRD;
+Resume/Application Package, including documents supporting veterans' preference claim;
+Copy of Position Description;
+Copy of Vacancy Announcement;
+Certificate of Eligibles; and
+A memorandum approved by the HR Director with a description of the reason sufficient to sustain an objection/pass over.
+Pass Overs and Objections Requiring OPM Approval
+The following objection and pass over requests require OPM approval, and must be submitted to PAD, before making selections:
+A pass over of any preference eligible with a 30 percent or more compensable service-connected disability, in accordance with 5 USC §3318(c)(2)  and the OPM Vet Guide;
+A pass over of a preference eligible based on medical disqualification, in accordance with 5 CFR Part 339, specifically 5 CFR §§339.201 and 339.306 ; and
+Objections based on suitability for federal employment for positions in the competitive service and excepted service positions, if the excepted service authority or position authorizes non-competitive conversion to the competitive service, as specified under 5 CFR §731.101 .
+The same documentation listed in Q.1.b. above is submitted to PAD at employmentpolicy@hhs.gov for review/concurrence and OPM approval.
+No correspondence is sent to a 30 percent or more compensable disabled applicant until PAD concurrence is received. Once PAD concurrence is received, the OHRO sends a notice to the CPS candidate and submits a copy of the sent notice to employmentpolicy@hhs.gov. Information that must be included in notice(s) is outlined in the DEOH, Chapter 6.
+Only after OPM has approved the pass over of the preference eligible may the 30 percent or more compensable disabled veteran be passed over and another applicant selected.
+Direct Hire Authority.
+A Direct Hire Authority (DHA) (5 CFR Part 337, Subpart B) permits an agency to hire, after public notice, any qualified applicant without regard to 5 U.S.C. §§3309-3318 , 5 CFR Part 211, or 5 CFR Part 337, Subpart A, to fill competitive service positions at GS-15 and below.
+A DHA expedites hiring by eliminating category rating and veterans' preference; however, public notice requirements outlined in 5 U.S.C. §§3327  and 3330 , and 5 CFR Part 330, Subpart A, must be followed when filling positions under a DHA (5 CFR §337.203). Applicants who apply during an open vacancy announcement may be considered, per the DEOH, Chapter 2. Priority selection under 5 CFR Part 330 (CTAP/ICTAP) must also be given to eligible applicants.
+Selectee(s) must meet all eligibility and qualification requirements for the position.
+Executive agencies with delegated examining authority, such as HHS, may use a government-wide DHA. For available government-wide DHAs, see OPM.gov. OPM may also grant an agency-specific DHA to address a critical hiring need or a severe shortage of candidates.
+OHROs must submit the following information to request an OpDiv/StaffDiv-specific direct hire authority:
+Position title(s), series, grade level(s), and locations(s) covered;
+Type of DHA requested (severe shortage of candidates or critical hiring need);
+Proposed duration of the DHA and an explanation why this period is needed;
+Evidence described in 5 CFR §§337.204 or 337.205 to support a DHA based on a severe shortage of candidates or critical hiring need, and explain how the evidence establishes a severe shortage of candidates or critical hiring need, as defined under 5 CFR §337.202 for the positions requested (for additional guidance, see DEOH, Chapter 2, and OPM.gov);
+Identify a point of contact for questions and requests for further information; and
+Send the request to the HHS OHR Policy and Accountability Division (PAD) at employmentpolicy@hhs.gov for review/concurrence and OPM approval.
+Two (2) authority codes must be used when processing DHA personnel actions, in accordance with the DEOH and OPM Guide to Processing Personnel Actions, Chapter 9, Career and Career-Conditional Appointments.
+PAD, on behalf of OPM, may request information from OpDivs/StaffDivs on their use of direct hire authorities (5 CFR §337.206(c)).
+Reconsideration of Ratings. OpDiv/StaffDivs must develop internal procedures for applicants to request an appeal or reconsideration of ratings , in accordance with the DEOH, Chapter 5, Section C, Appeal of Rating:
+Applicant Responsibilities:
+The applicant's request must be made in writing and indicate why the applicant believes the original decision is inaccurate.
+Upon receipt of the OHRO's decision, the applicant may submit a second level appeal to a designated official within the OHRO. (The result of the second level appeal is final. The applicant may not appeal to OPM.)
+OpDiv/StaffDiv Responsibilities:
+Make its internal appeal procedures available to applicants who wish to challenge an assigned rating, and advise the applicant that the results of the appeal could result in a higher, lower, or same score.
+The OHRO that made the original decision conducts the review.
+A DE certified staff member other than the person who made the original decision must conduct the review.
+Reply in writing to the applicant's request with a full explanation of the reasons for the decision, without compromising the rating schedule.
+Follow the guidance in the DEOH, Chapter 5, and this Instruction (see Erroneous Certification and Priority Consideration below, if applicable) when the review results in a changed rating.
+Auditing Certificates. This important accountability process certifies the action taken by hiring managers on returned certificates of eligibles, and ensures compliance with Department policy, as well as legal and regulatory merit staffing procedures. Certificates must be audited prior to the selectee's entrance-on-duty date by another DE-certified HR Specialist and must comply with this Instruction and DEOH, Chapter 6, Section C. In cases where the vacancy announcement has been canceled but a certificate was issued, the certificate must still be audited. Certificates must be annotated to reflect selections, and declinations or any failed to reply actions. Acceptable documentation from the hiring manager can be in the form of a signature on the actual certificate; an email; an electronic certificate; or a manager's statement on the system-generated email to the servicing HR Specialist. All declinations and withdrawals from consideration must be documented in the DE case file or in USAStaffing.
+Erroneous Certification and Priority Consideration. In the event an OHRO discovers an error that resulted in a selection in violation of the selection rules, corrective action must be taken to resolve the error. The instructions in the DEOH, Chapter 6, Section E, are followed to determine if applicants lost consideration and to correct (regularize) any erroneous appointments. The OHRO who made the error must give priority consideration for future vacancies within their OpDiv/StaffDiv to all applicants who lost consideration due to an illegal selection. When a violation of law or an illegal appointment is identified, OHROs must immediately notify the HHS OHR Policy and Accountability Division (PAD). Variation request(s) to provide service credit for the period incumbent(s) were on an illegal appointment, or to retain incumbent(s) appointed erroneously, must be submitted to PAD for review/concurrence and OPM approval.
+1104-1-60 Documentation and Accountability
+Records associated with hiring actions must be retained in individual recruitment case files, or USAStaffing, to allow for third-party reconstruction. Records associated with personnel actions, including all documentation sufficient for third party reconstruction purposes, must be retained according to the DEOH's Records Retention and Disposition Schedule - PDF (DEOH, Appendix C). Generally, records created in a given year must be retained for a total of three (3) full years. Records involved in litigation and grievance processes may be destroyed only after official notification is received from OPM, Department of Justice, courts, the Office of the General Counsel, etc. that the matter has been fully litigated, or resolved, and closed.
+HHS OHR Policy and Accountability Division (PAD) or OPM will conduct annual accountability reviews to ensure compliance with this Instruction, HHS and OPM policy and guidance, and all applicable federal laws and regulations. Audits will be conducted by DE certified staff external to the OpDiv/StaffDiv, in accordance with the requirements described in HHS-1 and the DEOH.

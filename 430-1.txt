@@ -1,0 +1,230 @@
+HHS Instruction 430-1: Performance Management Appraisal Program (PMAP)
+Effective Date 01/01/2023
+
+Material Transmitted:
+Department of Health and Human Services (HHS) Instruction 430-1, PMAP Policy, dated 11/22/2022
+
+Material Superseded:
+HHS Instruction 430-1, Performance Management Appraisal Program, dated August 4, 2011
+
+HHS Instruction 430-4 and 430-7, Performance Management Appraisal Program, dated October 3, 2011
+
+Department of Health and Human Services (HHS) Instruction 430-1, PMAP Policy, dated 12/03/2020
+
+Department of Health and Human Services (HHS) Instruction 430-1, PMAP Policy, dated 11/09/2022
+
+Background:
+This Instruction has been revised to reflect a culture of high performance, clarify coverage and exclusions, replace the standard administrative critical element with a customer experience standard element, and define terms used in the performance management program.
+
+This policy is effective January 1, 2023 and must be carried out in accordance with applicable laws, regulations, bargaining agreements, and Departmental policy.
+
+W. Robert Leavitt
+Deputy Assistant Secretary for Human Resources
+and Chief Human Capital Officer
+
+Subject: Performance Management Appraisal Program
+430-1-00 Purpose
+430-1-10 References
+430-1-20 Coverage and Exclusions
+430-1-30 Definitions
+430-1-40 Responsibilities
+430-1-50 Performance Management Cycle
+430-1-60 Performance Planning
+430-1-70 Rating Performance
+430-1-80 Recognizing and Rewarding Performance
+430-1-90 Appraisal Program Requirements
+430-1-100 Documentation and Accountability
+
+430-1-00 Purpose
+This Instruction establishes the authority for the Performance Management Appraisal Program (PMAP) within the Department of Health and Human Services (HHS) and implements a 5-tier rating system consisting of the following levels of performance:  Achieved Outstanding Results (AO), Achieved More than Expected Results (AM), Achieved Expected Results (AE), Partially Achieved Expected Results (PA), and Achieved Unsatisfactory Results (UR).
+
+See the HHS PMAP Handbook for in-depth information and instructions on how to execute the policy.
+
+When provisions of this policy differ from changes in applicable law or regulation, the changes in law or regulation apply. 
+
+430-1-10 References
+5 U.S.C. Chapter 43, Performance Appraisal, and 5 CFR Part 430, Performance Management
+5 U.S.C. §§4303 and 4305 and 5 CFR Part 432.104, Achieved Unsatisfactory Results (UR) Performance
+5 U.S.C. Chapter 45 and 5 CFR Part 451, Awards
+5 U.S.C. §§5335 and 5304 and 5 CFR Part 531, Subpart D, Within-Grade Increases
+5 U.S.C. §5336 and 5 CFR Part 531, Subpart E, Quality Step Increases
+5 U.S.C. §3502 and 5 CFR §351.504, Reduction-in-Force
+5 U.S.C. §§552a and 5 CFR §293.404 and 5 CFR §293.405, Employee Performance Records
+5 CFR §432.104, Addressing Unacceptable Performance
+Executive Order 13839, Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles, May 25, 2018
+OMB Memorandum, Comprehensive Plan for Reforming the Federal Government and Reducing the Federal Civilian Workforce (M-17-22), April 17, 2017
+HHS Performance Management Appraisal Program Handbook, 2016
+All applicable HHS Collective Bargaining Agreements
+430-1-20 Coverage and Exclusions
+This Instruction applies to all HHS employees except the following:
+Members of the Senior Executive Service (SES); Senior Level (SL); or Scientific and professional (ST);
+A Title 42 employee who is covered under the HHS SES performance system;
+An employee appointed to the excepted service under Schedule A, 5 CFR § 213.3102(o) whose appointment is limited to one (1) year or less;
+An expert or consultant appointed under 5 U.S.C. § 3109;
+A member of the Public Health Service Commissioned Corps;
+A member of an advisory committee;
+A person serving under an appointment in the excepted service having a time limit of less than sixty (60) calendar days;
+An employee on detail to a public international organization;
+An employee in a position for which employment is not reasonably expected to exceed sixty (60) calendar days in a consecutive twelve-month period;
+An employee outside the United States who is paid in accordance with local native prevailing wage rates for the area in which employed;
+An Administrative Law Judge appointed under 5 U.S.C. § 3105;
+An individual appointed by the President; and
+An individual who is serving in a position under a temporary appointment for less than one year, agrees to serve without a performance evaluation, and will not be considered for a reappointment or for an increase in pay based in whole or in part on performance.
+430-1-30 Definitions
+Acceptable Level of Competence:  Performance by an employee that warrants advancement of the employee's rate of basic pay to the next higher step of the grade or the next higher rate within the grade (as defined in this section) of his or her position, subject to the requirements of § 531.404 of this subpart, as determined by the head of the agency (or designee). § 531.403 Definitions.
+Achieved Expected Results (AE) Level of Performance:  An employee’s performance of the duties and responsibilities of their assigned position reflects at least the “Achieved Expected Results (AE)” level in all critical elements.  The employee fully meets the expectations outlined in the standards; the results meet the standards for quality, quantity, and/or timeliness associated with the objective and were achieved with the appropriate level of guidance.  Performance must be at this level for the employee to receive a within-grade increase to the next higher step of the grade, or the next higher grade in a career ladder promotion.
+Achieved More Than Expected Results (AM) Level of Performance:  The employee consistently exceeds expectations of “Achieved Expected Results (AE)” performance requirements, continually demonstrates successful collaborations within the work environment, overcomes significant organizational challenges, and works productively and strategically with others in non-routine matters, some of which may be complex and sensitive.  The employee consistently demonstrates the highest level of integrity and accountability in achieving HHS program and management goals.
+Achieved Outstanding Results (AO) Level of Performance:  The employee produces results that significantly exceed expectations and/or result in uncommon successes, are consistently superior, and/or exceed performance requirements.  Despite major challenges such as changing priorities, insufficient resources, unanticipated resource shortages, or externally-driven parameters, employee performance is a model of excellence.  Contributions impact well beyond the employee’s level of responsibility.  The employee demonstrates exceptional initiative in achieving results critical to Departmental success and strategic goals.  Products and skills create significant changes in their area of responsibility and authority.
+Achieved Unsatisfactory Results (UR) Level of Performance:  The employee fails to achieve the successful level of performance standard in one or more critical ele­ments even though circumstances allowed for its achievement. “Achieved Unsatisfactory Results (UR)” performance can result in the employee’s reassignment, removal, or reduction grade.
+Appraisal Cycle:  The appraisal cycle is typically twelve (12) months.
+Appraisal Period:  The time period that a performance plan is in effect.
+Critical Elements:  A critical element is a work assignment or responsibility of such importance that “Achieved Unsatisfactory Results (UR)” performance on the element would result in the determination that the employee’s overall performance is Achieved Unsatisfactory Results (UR).  All elements in the HHS performance plan are considered critical.  The performance plan has a maximum of six (6) critical elements.
+Forced Distribution of Summary Ratings:  A prohibited method of distributing performance ratings by assessing an individual’s performance relative to their colleagues instead of against documented standards.
+Interim Rating:  A rating that is assigned when an employee has served at least 901 days under a performance plan and changes positions during the Appraisal Period.  Position changes may be temporary (e.g. a detail or temporary promotion) or permanent.  This may happen more than once during the rating period.
+Measures:  Targets or indicators of quality, quantity, timeliness, or cost effectiveness used to determine work unit and employee performance.
+Minimum Period of Performance:  The minimum period of performance that must be completed before a performance rating can be prepared is 90 days.  An employee must be placed on a performance plan with critical elements assigned for a minimum of 90 days for a rating to be assigned.  In the event the performance plan is revised during the appraisal period, and a critical element is changed with less than 90 days remaining in the appraisal period, the employee’s performance may not be evaluated and a No Rating (NR) must be assigned to that element.
+No Rating:  This rating is assigned to an element when the employee’s performance cannot be evaluated, typically in the case that the Minimum Period of Performance has not been met, or if the employee’s duties changed but were not reflected in the PMAP.  An NR rating does not negatively impact a summary rating or Rating of Record.
+Partially Achieved Expected Results (PA):  This is the minimum level of acceptable performance for retention on the job and improvement is necessary.  The employee has difficulties in meeting expectations.  Actions taken by the employee are sometimes inappropriate or marginally effective.  Organizational goals and objectives are met only as a result of close supervision.
+Performance Management Appraisal Program Coordinator:  PMAP Coordinators, identified by their respective Operating Division or Staff Division (OpDiv or StaffDiv), are performance management liaisons for the operations of the PMAP who share knowledge and best practices across HHS and provide essential advice, guidance, coordination, and support to their organization.
+Performance Standards:  The written benchmarks against which performance of each element is evaluated and given a rating level.
+Performance Management:  A systematic process by which an agency involves its employees, as individuals and members of a group, in improving organizational effectiveness in the accomplishment of agency mission and goals.
+Progress Review:  A periodic assessment of an employee’s performance that occurs at least once during the Appraisal Period at the mid-point of the appraisal cycle.
+Quality Step Increase:  An increase in the employee's rate of basic pay from one step to the next higher step of the grade.  Only an employee who receives a rating of record at “Achieved Outstanding Results (AO)” is eligible.
+Rating of Record:  The overall summary rating for all of the critical elements in an employee’s PMAP, which is provided at the end of the appraisal cycle provided that the employee has completed the minimum period of performance as required for a rating.
+Rating Official:  The Rating Official is typically the employee’s immediate supervisor.  However, a Rating Official can be any delegated official who is in a supervisory or managerial position with oversight or responsibility for the day-to-day supervision of that employee.
+Reviewing Official:  The Reviewing Official has review and approval authority above the Rating Official and is ordinarily two supervisory levels above the employee.
+Summary Rating:  The term used to describe the employee’s overall performance level.  The summary rating averages each individual critical element and may be “Achieved Outstanding Results (AO)”, “Achieved More Than Expected Results (AM)”, Achieved Expected Results (AE)”, “Partially Achieved Expected Results (PA)”, “Achieved Unsatisfactory Results (UR)”, or “Not Rated (NR).”
+Within Grade Increase:  An increase in an employee's rate of basic pay from one step of the grade of their position to the next step of that grade.  This is granted when the employee has met the waiting period and has received at least an “Achieved Expected Results (AE)” level of performance on their most recent Rating of Record.
+430-1-40 Responsibilities
+ HHS Assistant Secretary for Administration (ASA), Office of Human Resources (HHS OHR)
+Develops Department-wide human resources guidance and policy consistent with HHS and Office of Personnel Management (OPM) policy, procedures and all applicable federal laws and regulations.
+Periodically reviews OpDiv/StaffDiv procedures, actions, and reports to assure conformance with HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+Deputy Assistant Secretary for Human Resources and Chief Human Capital Officer (CHCO)
+Provides policy oversight and direction on issues that arise;
+Develops Department-wide policies and guidance regarding Performance Management consistent with HHS and OPM policies, procedures, guidance and all applicable federal laws and regulations;
+Attains OPM approval as necessary and/or required;
+Monitors and evaluates HHS’s Performance Management Appraisal Program for compliance with applicable laws and regulations, including Merit System Principles and Prohibited Personnel Practices;
+Ensures all components of the Department provide Performance Management Training for supervisors and for non-supervisors.
+OpDiv/StaffDiv Human Resources Offices
+Comply with this Instruction, any HHS and OPM policies, procedures, guidance, and all applicable federal laws and regulations;
+Ensure performance records are retained in accordance with OPM regulations and HHS policy as stated in section 430-1-110 of this document.
+OpDiv/StaffDiv Heads
+Delegate appropriate authority to supervisors and other officials, as required, to effectively implement and operate under the PMAP in a manner consistent with the law and HHS policy, and to promote a performance-based culture;
+Develop and communicate OpDiv and/or StaffDiv goals, initiatives, and priorities used in developing individual performance plans;
+Hold supervisors accountable for the accomplishment of their performance management duties;
+Ensure employees and supervisors participate in appropriate performance management training, as required by regulations.
+PMAP Coordinators
+Assist in providing training and information to supervisors and employees on the HHS PMAP;
+Provide support and guidance for linking performance to higher-level organizational goals, and for establishing performance plans with results-focused performance elements and credible standards;
+Provide assistance and guidance to supervisors and employees in the execution of their PMAP responsibilities;
+Conduct PMAP reviews to evaluate compliance, determine the need for program improvements and make recommendations;
+Provide required reports and documentation of Performance Management activities to support HHS and OPM accountability reviews;
+Provide assistance to supervisors and employees in dealing with the appeal process, and on procedures for dealing with “Achieved Unsatisfactory Results (UR)” performance by facilitating coordination with Labor and Employee Relations (LER).
+Reviewing Officials
+Review performance plans with ratings at the “Achieved Unsatisfactory Results (UR)” level, and advise the Rating Official of findings, recommendations and next steps;
+Hold Rating Officials accountable for developing specific, measurable, attainable, relevant, and timely performance standards and ensure employees are given the necessary support and resources to perform at or above the “Achieved Expected Results (AE)” level of performance;
+Refer Rating Official to LER for consultation, as needed.
+Upon request, provide a second-level review of a summary rating and either change or concur with the rating.
+Rating Officials
+Promote a performance-based culture and environment which fosters a results-oriented work unit by establishing open, two-way communication with employees on work expectations and requirements;
+Engage employees in the process of establishing performance plans and provide the employee with a signed copy of the plan within the first 30 days of the beginning of the appraisal cycle, entry on duty into a new position, or beginning of a detail expected to exceed 89 days;
+Manage the full performance cycle including:
+communicating performance expectations clearly and ensuring employees understand what is expected;
+holding employees accountable; monitoring performance during the appraisal period, and providing regular performance feedback to employees;
+modifying the performance plan to account for changes in the employee’s job duties or shifting priorities;
+appropriately recognizing and rewarding employee performance;
+developing employees by providing substantive feedback and stretch goals; and
+taking appropriate actions to address performance determined to be below the “Achieved Expected Results (AE)” level.
+Ensure that plans meet all requirements as outlined in this policy;
+Conduct progress reviews required by this policy;
+If, at any time during the performance cycle, an employee’s performance is at the “Partially Achieved Expected Results (PA)” level, immediately contact LER and notify the Reviewing Official;
+Prepare ratings of record within 30 days of the end of the Appraisal Cycle, unless an exception or non-standard situation applies, and equitably consider employees who demonstrate noteworthy performance for appropriate recognition;
+Complete required supervisory Performance Management training as assigned by the PMAP Coordinator.
+Employees
+Provide input and feedback to the Rating Official in the development of performance elements, standards, and measures;
+Request clarification of performance expectations from the Rating Official, if necessary;
+Perform at full potential, support team endeavors, and pursue professional development to support performance and results;
+Identify issues, or other obstacles, which may hinder the accomplishment of performance expectations, and work with the Rating Official to resolve them;
+Continuously seek performance feedback;
+Participate in progress reviews and performance appraisals by providing input to the Rating Official on accomplishments toward achieving performance expectations;
+Complete required Performance Management training as assigned by the PMAP Coordinator.
+Labor and Employee Relations staff consult with supervisors with regard to performance-related issues requiring corrective action.
+430-1-50 Performance Management Cycle
+The appraisal cycle is on a calendar year cycle beginning on January 1 of each year and ending on December 31.
+Rating Officials will consistently measure employee performance and provide ongoing oral or written feedback to employees on their progress toward reaching their performance goals.  Rating Officials will meet with employees three times per year to give feedback on the employee’s performance.  The reviews may incorporate feedback from key stakeholders and from the employee.  These reviews typically will occur to establish the performance plan, to provide a mid-year review, and to close out the performance plan with a rating of record.
+The Rating Official must engage LER if, at any time, the employee’s performance is less than the “Achieved Expected Results (AE)” level.
+430-1-60 Performance Planning
+Rating Officials will set performance expectations and goals for employees to channel their efforts toward achieving organizational objectives.  Performance elements and standards should be SMART – specific, measurable, attainable, relevant, and timely.
+Either the employee or the Rating Official may initiate the performance plan.
+Standards must be written at the “Achieved Expected Results (AE)” level and be based on the requirements of the position.  If substantive changes are made to critical elements and performance standards, the changes are effective when presented in writing to the employee. The employee must be granted a minimum of 901 days to demonstrate acceptable performance before being evaluated on those elements.
+All performance plans must link at least one critical element to the organizational Strategic Plan at the Department, Operating Division, or Staff Division level, and must include relevant tasks at the appropriate level of responsibility of the position.
+Required Performance Elements
+Supervisory employees must have a minimum of three (3) but no more than six (6) critical elements. These must include:
+HHS standard Leadership Element
+Supervisors will have a set of required performance standards.
+Supervisors may not remove or edit the established standards but may include additional standards.
+Customer Experience Element.  While the element definition cannot be changed, Rating Officials can include custom performance standards under the element.
+At least one (1) individual Critical Element.
+Non-supervisory employees must have a minimum of two (2), but no more than six (6) critical elements. These must include:
+HHS standard Customer Experience Element, applicable to all employees, and
+At least one (1) individual Critical Element.
+All performance plans include at least one critical element linked to the organizational Strategic Plan at the Department, Operational Division, or Staff Division level, and include relevant tasks at the appropriate level of responsibility of the position.
+430-1-70 Rating Performance
+Employees who have been under a documented performance plan for 901 days or more should receive a Rating of Record at the end of the appraisal period.  When required by the OpDiv/StaffDiv, the Rating Official should obtain the Reviewing Official’s signature prior to discussion of the final rating with the employee. 
+
+Determining Element Ratings:  Ratings are based on a comparison of performance with the standards established for the appraisal period.  Rating Officials, at the end of the annual appraisal period, should solicit performance input from former supervisors for those employees who have changed positions or supervisors during the appraisal period.  (see Table 1).
+Element Comments:  Written comments are recommended for each element rated higher or lower than “Achieved Expected Results (AE).”
+Table 1: Critical Element Ratings	Points Assigned
+Level 5: Achieved Outstanding Results (AO)	5.00
+Level 4: Achieved More Than Expected Results (AM)	4.00
+Level 3: Achieved Expected Results (AE)	3.00
+Level 2: Partially Achieved Expected Results (PA)	2.00
+Level 1: Achieved Unsatisfactory Results (UR) 	1.00
+Determining Summary Rating:  Summary ratings are determined based on a review of all the critical element ratings.
+After rating and assigning a score to each critical element, the Rating Official will total the points and divide that by the number of critical elements to arrive at an average score (up to two decimal places).
+This score will be converted to a summary rating using the point values in Table II.
+If an employee receives a “Partially Achieved Expected Results (PA)” rating on one or more critical elements, he or she cannot receive a summary rating of higher than “Achieved Expected Results (AE)”.
+A summary rating of “Achieved Unsatisfactory Results (UR)” must be assigned to any employee who is rated “Achieved Unsatisfactory Results (UR)” on any critical element.
+An element rating of Not Rated (NR) will not affect the average score used to determine the summary rating.
+Table II: Summary Ratings	Points
+Level 5: Achieved Outstanding Results (AO)	4.50 to 5.00
+Level 4: Achieved More Than Expected Results (AM)	3.60 to 4.49
+Level 3: Achieved Expected Results (AE)	3.00 to 3.59
+Level 2: Partially Achieved Expected Results (PA)	2.00 to 2.99
+Level 1: Achieved Unsatisfactory Results (UR) 	1.00 to 1.99
+Narrative Summaries:  Rating Officials must provide a narrative summary rating when an employee’s performance is at the “Achieved Unsatisfactory Results (UR)” or “Achieved Outstanding Results (AO)” level.  The narrative should contain examples of the employee’s performance which substantiate how the employee’s performance falls within the levels assigned.  Narratives are recorded on the performance plan.
+Disagreement with Rating:  Recognizing that there may be differences of opinion between employees and Rating Officials on performance assessments and ratings, employees may respond to performance ratings and request reconsideration.  Employee comments become a part of the official appraisal rating of record.
+Employees who desire to add such written comments shall have seven (7) calendar days from the date of the issuance of the appraisal.
+Employee comments must be reviewed by the Rating and Reviewing Officials to determine whether these comments warrant any changes in the element or summary ratings to be submitted for the record.
+Reviewing Officials may elect to change the rating of record. This amended rating will be entered into the performance plan and signed by the Reviewing Official and the employee.
+Employees being reduced in grade or removed based on performance have the right to appeal to the Merit Systems Protection Board; or if an employee believes he or she was discriminated against based on any of the protected classes or actions, an EEO complaint may be filed.
+430-1-80 Recognizing and Rewarding Performance
+Performance awards are linked to the rating of record and are submitted and considered for approval only at the conclusion of the rating period.
+All performance awards are at the discretion of the OpDiv/StaffDiv and are subject to funds availability. According to OPM, no employee is entitled to an award.
+For more information on recognizing and rewarding performance, please refer to HHS Instruction 451-1, Incentive Awards.
+430-1-90 Appraisal Program Requirements
+Training Requirements
+Rating Officials:  Every Rating Official must be trained in the policies and practices of performance management to ensure its effective administration.  Training on developing performance plans, conducting progress reviews, assigning ratings, coaching, and using appraisals as a key factor in making other management decisions will be provided to managers and supervisors.  Any individual hired into their first supervisory position should receive performance management training within one year of being hired.  Other seasoned supervisors should receive a performance management training at least once every three years.  Rating Officials are expected to explain the system to subordinate employees and provide performance management training to enable them to understand the specific aspects of their performance plan.
+Employees:  Employees are recommended to take training within one year of being hired at HHS and at least once every three years thereafter.
+Monitoring and Evaluating:  Generally, each OpDiv/StaffDiv has the responsibility for monitoring, evaluating, and auditing its PMAP, including issues arising from, and connected to, performance-based awards, within the framework of these guidelines.  Each OpDiv/StaffDiv should monitor, evaluate, and audit its PMAP at least once every three years.
+Recordkeeping and Record Uses:  As part of monitoring performance, supervisors may make notes on significant instances of performance so that the instances will not be forgotten.  Such notes are not required by HHS or any of its OpDivs/StaffDivs. Such notes are not subject to the Privacy Act as long as they:
+remain solely for the personal use of the supervisor;
+are not provided to any other person;
+are not used for any other purposes; and
+are retained or discarded at the supervisor's sole discretion.
+The retention, maintenance, accessibility, and disposal of performance records, as well as supervisors' copies, will be in accordance with OPM regulations and this policy.
+
+Relationship to Other Personnel Actions
+Probationary Periods:  New employees must be closely observed during the probationary/trial period to determine whether they are a good fit for the position.  Periodic progress reviews to assess performance during the probationary period are helpful to validate qualifications and job fitness.  Generally, a probationary employee may be removed at any time during the probationary period for any reason, including demonstrating “Achieved Unsatisfactory Results (UR)” performance; however, the OpDiv/StaffDiv’s LER staff must be consulted prior to initiating any performance based or adverse action to ensure the requirements specified under 5 CFR Parts 432 and 752 are followed and the proposed action is legally supportable (HHS Instruction, 315-1, Probation and Trial Periods).
+ Reduction-in-Force (RIF):  Ratings of record are used to establish service credit for RIF purposes.  For RIF purposes, the rating of record is the annual summary rating that is assigned at the end of the appraisal period that was signed, approved, and issued to the employee by an appropriate management official or a rating of record assigned following completion of a performance improvement period.  A Rating Official may not assign an employee a new rating of record for the sole purpose of affecting their retention standing.  Ratings of record that were due before the date of specific RIF notices, but were not officially approved and placed on record until on or after the date of the specific notices, will not be used to determine additional service credit (HHS Instruction, 351-1 Reduction in Force, and 5 CFR Part 351).
+430-1-100 Documentation and Accountability
+Performance records must be retained for four (4) years, under 5 CFR § 293.404, and transferred with the employee's electronic Official Personnel File (eOPF) when the employee transfers to a new organization within HHS or to another federal agency.
+Performance ratings of record, including the performance plans on which they are based, shall be retained for 4 years.  When an employee is reassigned to a new Rating Official within the Department during the performance cycle, that rating plan is closed out, and does not transfer with the employee but is retained in the employee’s eOPF for 4 years.
+Supporting documents shall be retained for up to four (4) years.
+Performance records superseded (e.g., through an administrative or judicial procedure) shall be destroyed, and performance-related records pertaining to a former employee (except as prescribed in 5 CFR § 293.405(a) shall be retained for a minimum of 2 years.
+Notices of proposed demotion or removal issued but not executed, and all related documents, pursuant to 5 U.S.C. § 4303(d) must be destroyed after the employee completes one year of acceptable performance from the date of the written advance notice of the proposed removal or reduction in grade notice.
+Except where prohibited by law, retention of automated records longer than the maximum prescribed here is permitted for purposes of statistical analysis so long as the data are not used in any action affecting the employee when the manual record has been or should have been destroyed.
+Records associated with personnel actions, including all documentation sufficient for third party reconstruction purposes, must be retained according to the record disposition schedule.  Generally, records created in a given year must be retained for a total of three (3) full years.  Records involved in litigation and grievance processes may be destroyed only after official notification is received from OPM, Department of Justice, courts, the Office of the General Counsel, etc. that the matter has been fully litigated, or resolved, and closed, or if the time limits associated with grievance processes have passed (e.g., before the anniversary date).
+OHR will conduct periodic accountability reviews to analyze compliance with this Instruction, HHS and OPM policy and guidance and all applicable federal laws and regulations.
+Endnotes:
+1 Bargaining Unit employees’ minimum performance period may differ and Rating Officials should consult the applicable Collective Bargaining Agreement.

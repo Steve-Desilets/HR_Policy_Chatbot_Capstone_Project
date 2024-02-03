@@ -1,0 +1,203 @@
+Material Transmitted:
+
+Department of Health and Human Services (HHS) Instruction 610-2, Temporary Closing of Workplaces and Treatment of Absences, dated May 30, 2008.
+
+Material Superseded:
+
+HHS Instruction 610-2, Temporary Closing of Workplaces and Treatment of Absences, dated February 27, 1997.
+
+Background:
+This Instruction has been superseded to bring it into compliance with the current law and regulations pertaining to Hours of Duty and Absence and Leave.  This policy update removes all subject policy pertaining to inside the Washington Capital Beltway since the subject is covered separately under the Washington, DC Dismissal and Closure Procedures; clarifies employees who are covered under this policy; and establishes policy and procedures regarding roles and responsibilities of ASAM, OHR, OPDIV Heads, operating Human Resources organizations, and HHS employees.
+
+In addition, the instruction highlights designation procedures and crucial functions of emergency and mission-critical emergency employees; updates changes in the policies on absences based on temporary closures due to an emergency or administrative situation; and updates changes to leave to address the unique situations arising from AWS and telework schedules.
+
+This issuance is effective immediately.  Implementation under this issuance must be carried out in accordance with applicable laws, regulations, bargaining agreements, and Departmental policy.
+
+
+
+						Antonia T. Harris
+						Deputy Assistant Secretary for Human Resources
+						
+
+
+INSTRUCTION 610-2
+ 
+SUBJECT: 	TEMPORARY CLOSING OF WORKPLACES AND TREATMENT OF ABSENCES
+
+610-2-00	Purpose
+610-2-10	References 
+610-2-20	Definitions
+610-2-30	Coverage and Exclusions
+610-2-40	Responsibilities
+610-2-50	Emergency and Mission Critical Emergency Employees
+610-2-60	General Provisions
+610-2-70	Excused Absences and Charges to Leave
+610-2-80	Reporting and Accountability
+
+Exhibit A	Treatment of Absences and Charges to Leave 
+Exhibit B	Additional Provisions for Alternate Work Schedule (AWS) Employees
+
+610-2-00	PURPOSE
+This Instruction sets forth the Department of Health and Human Services (HHS) policy and procedures on dismissals, temporary closing of work places, and the treatment of absences during these closings in accordance with references (A) through (F).
+The policies and procedures apply to situations that prevent significant numbers of HHS employees from reporting for work on time or which require HHS entities to close all or part of their activities, i.e., severe weather conditions, natural disasters; incidents causing disruptions to Department operations (power and/or water outages, disruption of public transportation, etc.); and other emergencies (terrorist attacks, exposure to biohazards, continuity of operations, etc.).
+
+610-2-10	REFERENCES
+A.	5 USC § 61, Hours of Work
+B.	5 USC § 63, Leave
+C.	5 CFR, Part 610, Hours of Duty
+D.	5 CFR, Part 630, Absence and Leave
+E.	U.S. Office of Personnel Management (USOPM), Washington, D.C., Area Dismissal or Closure Procedures, December 2007
+F.	USOPM Handbook on Pay and Leave Benefits for Federal Employees Affected by Severe Weather Conditions or Other Emergency Situations, July 2007
+
+
+610-2-20	DEFINITIONS
+For purposes of this Instruction, the following terms have the meanings indicated: 
+A.	Delayed Arrival Permits non-emergency employees to be granted excused absence (administrative leave) for a specified number of hours past their normal arrival time at work. For example, if non-emergency employees are authorized to report for work two (2) hours past their normal arrival time of 7:00 a.m., employees should plan their commute in order to arrive at the work site by 9:00 a.m.  An employee who arrives later than 9:00 a.m. will be charged annual leave for the excess time, unless a specific exception is granted.  Individuals designated as emergency employees are expected to report to work on time.
+B.	Early Dismissal Permits non-emergency employees to be granted excused absence for the number of hours remaining in their workday beyond their designated early dismissal time.  Non-emergency employees are dismissed relative to their designated departure times from work. If a 3-hour early dismissal is authorized as a result of inclement weather, non-emergency employees who would normally leave work at 5:00 p.m. would be authorized to leave at 2:00 p.m.  Individuals designated as emergency or mission critical employees are expected to remain at work until their scheduled times of departure, unless directed otherwise.
+C.	Alternative Work Schedules (AWS) Pertain to employees who work a fixed compressed work schedule or a flexible work schedule. For purposes of this Instruction, this definition also includes flexitime and all other variations.  For employees on gliding schedules, delayed arrival would typically be based on the employee's most typical or frequent arrival time at work.  Early dismissal would be based on the time the employee had planned to leave work on the day in which the early dismissal is authorized if the employee had been able to work a full day.
+D.	Administrative Order An order issued by an authorized official during brief (not to exceed 3 consecutive days) emergency situations that excuses non-emergency employees from work without charge to leave or loss of pay.   Employees designated as emergency or mission critical are generally not relieved from duty during an emergency.  An Administrative Order is not appropriate in situations of extensive duration or periods of suspended operations where leave could be scheduled, employees furloughed or assigned other work. 
+E.	Administrative Situations  May involve severe weather conditions, natural disaster, power outages, major equipment failures impacting major operations or services (e.g., electricity, heat, air conditioning) or  unforeseen circumstances (e.g., fire, broken water main, bomb threat) that require relieving employees temporarily from duty at one or more HHS facilities.
+F.	Disabled Employees Under the Rehabilitation Act, a disabled person is defined as someone who has a physical or mental impairment which prevents them from performing major life activities without assistance, including care taking functions such as bathing, clothing, or other manual tasks.  The disability may be permanent or temporary.  The Rehabilitation Act prohibits discrimination on the basis of disability in programs conducted by Federal agencies, in programs receiving Federal financial assistance, in Federal employment, and in the employment practices of Federal contractors.
+G.	Emergency Employees A general category of individuals who have been designated by management as critical to agency operations during a dismissal, closure, or other emergency situation (i.e. response/continuity of operations plans). Emergency employees may be members of other groups (e.g. Continuity of Operations Emergency Relocation Group) or have other designations (e.g. Mission Critical Emergency Employees). 
+H.	Emergency Situations  May result in commuting delays, prevent employees in significant numbers from reporting to work, or necessitate the closing of several Federal activities in the same geographical area (e.g., heavy snow, severe icing conditions, floods, earthquakes, hurricanes, air pollution, power failures, interruption of public transportation, acts of terror, etc.).
+I.	Fixed Work Schedule A work schedule that is fixed with a designated time of arrival and departure.
+J.	Gliding Schedule A type of flexible work schedule in which a full-time employee has a basic work requirement of 8 hours in each day and 40 hours in each week, may select a starting and stopping time each day, and may change starting and stopping times daily within the established flexible hours. 
+K.	Mission Critical Emergency Employees Emergency employees (e.g., continuity of operations or emergency relocation group personnel) who have been designated by management as critical to agency operations, who are expected to remain at the worksite during a dismissal or closure unless directed otherwise.  Mission critical emergency employees may be required to remain in contact and accessible to management during an emergency or closure.  
+L.	Temporary Closing  The closing, in whole or in part, of a work place and the excusing of employees' absence for short periods of time because of an emergency or administrative situation.
+M.	Telework Employee An employee who is officially authorized to work at an alternate work site, either at home or at an authorized “telecommuting” facility.
+N.	Unscheduled Leave Policy  A policy announced by OPM or other appropriate management official which allows non-emergency employees, who are unable to report for work, to request unscheduled leave for their entire scheduled workday.  Employees must notify their supervisors of their intent to take unscheduled leave. 
+
+610-2-30	COVERAGE AND EXCLUSIONS
+A.	The provisions of this Instruction apply to all HHS employees who are subject to the leave provisions under Subchapter 1, Chapter 63 of Title 5, U.S. Code, with the exception of private sector employees and contractors.  HHS employees inside the Washington, D.C.  Capital Beltway are subject to the Washington, D.C., Area Dismissal or Closure Procedures of the U.S. Office of Personnel Management (OPM) and this Instruction.  These procedures are posted on the internet at http://www.opm.gov/oca/compmemo/dismissal.pdf.  Heads of Operating Divisions, or designees outside of the Washington, D.C. area, are authorized to develop local dismissal or closure policies and procedures consistent with this Instruction and OPM requirements.
+B.	When the provisions of a negotiated labor/management agreement differ from the provisions of this Instruction, the agreement takes precedence for those employees covered by a negotiated labor/management agreement.
+
+610-2-40	RESPONSIBILITIES
+A.	Assistant Secretary for Administration and Management (ASAM) or his/her designee is responsible for:
+1.	Serving as liaison with OPM on the Washington, D.C., Area Dismissal or Closure Procedures, or any other matter relating to the closure of HHS facilities.
+2.	Approving Administrative Orders proposed by Operating Division (OPDIV) Heads that relieve employees from duty without charge to leave in excess of three (3) consecutive work days in a single period of excused absence.
+B.	Assistant Secretary for Administration and Management (ASAM), Office of Human Resources (OHR)  is responsible for:
+1.	Updating and maintaining this policy.
+2.	Providing guidance to operating Human Resources organizations (OHROs) regarding the temporary closure of work places and the treatment of absences when temporary closures occur.
+C.	OPDIV Heads are responsible for:
+1.	Making decisions and issuing administrative orders on the closure of work places outside the Washington, D.C. area for emergency or administrative reasons within the parameters outlined in this Instruction.  This authority may be redelegated to the head of a local facility or entity, as necessary (e.g., Regional Director, District Director, Area Director, etc.)
+2.	Complying with OPM’s Dismissal or Closure Procedures for emergency or administrative reasons for work places within the Washington D.C. area and supplementing those procedures as necessary to accomplish mission objectives.  
+3.	Developing and implementing a local closure or dismissal procedures that may be necessary to supplement the Washington, D.C., Area Dismissal or Closure Procedures or this Instruction.
+4.	Designating an official to serve as liaison with any local Federal Executive Board (FEB).  In locations with several Federal installations, an FEB or similar association of Federal agencies may develop specific procedures to assure equitable treatment of all Federal employees in the area.  In such cases, the chairperson of the association usually issues administrative orders through the media or through a central notification medium such as the one used by OPM for the Washington, D.C. area. 
+5.	Consulting with other HHS organizations, as required.  Occasionally, there may be a widespread situation affecting several HHS work places with no central heads of HHS installations located in close proximity to assure consistency.  In those cases, heads of HHS work places (e.g., OPDIV Heads or their designees located in a given commuting area) are expected to consult with local transportation, media, Federal Executive Boards and Federal Executive Associations to develop local plans to ensure that affected employees are treated as consistently as possible.
+6.	Designating emergency and mission critical emergency employees as deemed appropriate, based on mission requirements, who are expected to report to work regardless of any administrative closure or dismissal, and ensuring that the employees are notified of their designation as emergency or mission critical emergency employees at least annually, as well as prior to an announced closure or dismissal.  Mission critical emergency employees must be notified of the emergency situations in which they are expected to report for work or remain at work and said policy must be in writing.
+7.	Ensuring that the applicable closure or dismissal procedures are disseminated annually and are made available to all OPDIV employees
+D.	Operating Human Resources Organizations are responsible for providing advice and guidance to managers within their serviced organizations as necessary on the interpretation of the closure or dismissal procedures and the rules pertaining to leave and excused absence during a closure or dismissal.
+E.	HHS Employees are responsible for:
+1.	Monitoring appropriate media for administrative closure or dismissal announcements for their area.
+2.	Taking reasonable steps (e.g., leaving home early or using public transportation rather than a personal car) to minimize the potential effects of inclement weather or other emergencies on the ability to report for work.
+3.	Notifying their immediate supervisors or other appropriate management official(s) of their intentions to take unscheduled leave when an unscheduled leave policy has been announced.  While non-emergency employees are not required to obtain supervisory approval when an unscheduled leave policy is in effect, employees are required to notify supervisors of their intentions to take leave.  
+
+
+610-2-50	EMERGENCY AND MISSION CRITICAL EMERGENCY EMPLOYEES
+A.	Employees who are officially designated as “emergency” or “mission critical emergency” are expected to report for duty or remain on duty in the event of a closure, dismissal, or unscheduled leave announcement, unless specifically directed otherwise.  
+B.	There are no standard definitions or categories of positions that must be designated as emergency or mission critical emergency.  Each OPDIV is authorized to designate those employees judged to be essential to continue operations in a dismissal, closure or emergency situation.  The designation of emergency employees should be part of an OPDIV’s published emergency response or Continuity Of Operations Plan (COOP).
+C.	Employees who are designated as emergency or mission critical emergency should be notified of such designation in writing in advance of any requirement to report for duty in an administrative or emergency situation. 
+D.	Emergency or mission critical emergency employees are expected to report for duty on time and remain at work during a closure or dismissal unless directed otherwise.  Emergency or mission critical emergency employees may be excused by OPDIV Head or his/her designee when it is determined that circumstances justify excused absence.  However, mission critical emergency employees may have a further requirement to remain in contact with management during an emergency for instructions to report for work should the need arise.
+E.	Employees who are required to work during their regular tour of duty when the workplace is closed or when other employees are allowed to arrive late or leave early are not entitled to receive overtime pay, credit hours, or compensatory time for performing work during their regularly scheduled hours of duty.  If an emergency or mission critical emergency employee, who is required to work, fails to report for duty without adequate reason, he/she may be placed in an absence without leave (AWOL) status.  In such circumstances, AWOL may serve as grounds for progressive disciplinary action.
+
+610-2-60	GENERAL PROVISIONS
+A.	If there is no announcement, HHS employees are to assume that their work place is open each scheduled tour of duty regardless of any conditions that may develop.   Employees are also to assume that they are expected to report for duty on time and remain throughout their scheduled tour of duty unless they are on previously approved leave.  Employees working on shifts are to operate on these same assumptions unless they are notified that their specific shifts are affected.
+B.	All employees are expected to report to work and depart from work at their regularly scheduled times in spite of weather conditions and traffic and transportation disruptions, unless an Administrative Order or dismissal is issued by an authorized official.  Each employee is expected to take whatever steps are necessary (e.g., leaving home early or using public transportation rather than a personal car) to cope with disruptive conditions.
+C.	The authority to close the work place is to be used sparingly and only for short periods of time not to exceed three (3) consecutive work days.  If it becomes necessary to exceed the 3-consecutive day limitation, approval must be obtained from the ASAM or his/her designee. 
+D.	Management officials must exercise sound judgment in determining when to close, how long to remain closed, and how much excused absence to approve.  Although the use of an unscheduled leave policy is encouraged during emergency situations, management may need to make exceptions to general procedures as circumstances warrant.  
+E.	Annually, OPDIV Heads or their designees must advise all employees under their jurisdiction how closings will be handled due to severe weather conditions or other emergencies.  Annual notices should include the following: 
+1.  What constitutes an official announcement;
+2.  When possible, which television and radio stations will issue official announcements;
+3.  What hours constitute the fixed work schedule;
+4.  How shifts will be handled;
+5.  How employees working AWS hours are affected;
+6.  Usual wording of announcements and what that wording means;
+7.  Anything else that will help employees know what to do when such situations occur.
+F.	Administrative Orders may be issued orally but must be confirmed in writing to provide documentation and to justify excusing absences.
+G.	When an Administrative Order is issued that authorizes a delayed arrival, non-emergency employees are expected to report for work in accordance with the Administrative Order.  Tardiness in excess of the authorized excused absence is generally charged to annual leave, compensatory time or credit hours earned. 
+H.	In emergency situations, supervisors should be sensitive to the needs of disabled employees.  For example, snow removal equipment may make travel by mobility-impaired individuals even more difficult by creating insurmountable snow drifts at walkways.  Employees with the same disability may have different needs, and an employee’s needs may vary on different occasions, even under similar weather and environmental conditions.  
+I.	Management must identify in writing individuals who are designated as mission critical emergency employees, and the conditions under which they are considered to be mission critical emergency employees and advise them of their status on an annual basis.  If management determines that a situation requires nonemergency personnel to report to or remain at work, OPDIV Heads or their designees must establish procedures for notifying affected employees.
+J.	Occasionally, some individual employees may face special family situations that will not be covered by an announcement in the media or on OPM's web site (e.g., when employees are expected to report to work, but the schools opened late or are closed).  Management should notify employees of procedures to be followed when this occurs and should be flexible in approving excused absence or leave as appropriate, based on each unique situation. 
+
+610-2-70	EXCUSED ABSENCES AND CHARGES TO LEAVE
+A.	OPDIV heads or their designees are authorized to approve Administrative Orders for brief absences that do not exceed three (3) consecutive days consistent with OPM requirements and this Instruction.  They are likewise authorized to approve brief absences, that do not involve group dismissals or closures [generally up to one (1) work day], on a case by case basis when deemed appropriate.
+B.	In general, when it is necessary for an official to issue an Administrative Order to close the work place temporarily, nonemergency employee absences are excused.  Exhibit A describes a variety of specific situations and their effect on charges to leave.  Officials must recognize that when they issue an Administrative Order authorizing an unscheduled leave policy during a temporary emergency, they are authorizing all employees, except those designated as emergency or mission critical emergency employees, to take annual leave or LWOP without prior approval from their supervisors.  While employees must notify their supervisors of their intentions to take unscheduled leave, supervisors may not deny that leave once an administrative order has been issued.  Therefore, authorized officials should be cautious in issuing administrative orders that permit the taking of annual leave or LWOP during temporary emergency situations.
+C.	Employees on telework arrangements, who either work at home or at an alternate telework site, are generally required to remain in a duty status during a dismissal or closure at the official duty station.  This requirement must be documented in the employee’s telework agreement. However, an employee on telework may be excused during an emergency if the emergency adversely affects the employee’s ability to perform assigned work e.g., disruption of electricity, loss of heat, job requires close and constant contact with employees at the official worksite, etc.  However, telework employees who are required to work during their regular tour of duty when the workplace is closed or when others are allowed to arrive late or leave early are not entitled to receive overtime pay, credit hours, or compensatory time for performing work during their regularly scheduled hours.
+610-1-80	  REPORTING AND ACCOUNTABILITY
+OPDIV Heads are responsible for maintaining records containing the names of employees designated as emergency and mission critical emergency employees, copies of written notification to employees informing them of their designation, and the OPDIV’s expectations during a dismissal or closure.  In addition, records shall be maintained on all closures or dismissals, to include copies of Administrative Orders, timekeeping records documenting excused absences, and any other pertinent information. 
+Exhibit A - TREATMENT OF ABSENCES AND CHARGES TO LEAVE
+
+When the work place is closed temporarily because of an emergency or an administrative situation, the table below shows how to charge leave or excuse absences.
+
+I.  If an early dismissal policy is announced during work hours... 
+
+AND the employee is...	THEN the absence is charged to...
+
+at work at the time of dismissal.	excused absence, even if the employee was scheduled to take leave later in the day.
+on approved leave but is expected to return to work after the announcement of an early dismissal policy but before his or her authorized departure time.	The approved leave up to the time of dismissal and excused absence following the employee's authorized departure time, even if the employee is scheduled to take leave later in the day.
+
+Example: Employee usually works 8:30 a.m. to 5:00 p.m., takes 4 hours of annual leave from 8:30 a.m. to 12:30 p.m. A storm closes the work place at 11:30 a.m.
+
+The employee is charged 3 (not 4) hours of annual leave from 8:30 a.m. to 11:30 a.m. and excused absence from 11:30 a.m. to 5:00 p.m.
+is scheduled to report to work before the dismissal but fails to do so.	annual leave, sick leave, LWOP, or AWOL, as appropriate, for the entire work day.
+at work when the closing time is announced and goes on approved leave before the time is set for dismissal.
+
+
+	
+	leave or LWOP only from the time the employee left until the announced dismissal time and excused absence for the rest of the day.
+
+Example A: Employee usually works from 8:30 a.m. to 5:00 p.m. and is told at 9:30 a.m. that the work place will close at 11:30 a.m.  Employee requests and goes on approved annual leave from 10:30 a.m. to 11:30 a.m. and is on excused absence for the rest of the day. 
+at work and leaves before official word of the pending dismissal is received.	leave, LWOP, or AWOL for the rest of the day. 
+
+Example:  Employee works from 8:30 a.m. to 5:00 p.m., and decides to leave work at 9:30 a.m. on approved leave, LWOP, or unapproved leave.  The dismissal order is received by the agency after the employee has left.  The employee is charged annual leave, LWOP or AWOL status for the rest of the day from 9:30 a.m. 
+on approved leave when official dismissal is announced and is expected to be on leave for the rest of the day anyway (this includes employees on AWS day off).	the leave or AWS credit hours the employee is already on. Example:  Employee is on annual leave all of the pay period.  A storm closes the work place early on Tuesday.  The employee is charged annual leave.
+
+II.	If the emergency situation arises during non-work hours and forces the work place to close for the entire day...
+
+AND the employee is...	THEN the absence is charged to...
+scheduled to work on that day.
+(This includes employees who arrive at work to discover the work place is closed.)	excused absence. Example:  Employee is scheduled to work on Friday.  Due to a storm on Thursday night, the work place is closed all day Friday.  The absence is excused.
+on previously authorized paid leave (such as sick leave, annual leave, or credit hours, etc.)	excused absence. Example:  Employee is on sick leave when the work place closes for the entire day.  The employee's absence is charged to excused absence (not sick leave).
+on AWS day off.	No absence is charged, since the employee was not scheduled to report to work.
+on either LWOP or AWOL both the day before and the day after the day the work place closes.		LWOP or AWOL, depending on whether the employee is on LWOP or AWOL.
+
+III.	If the emergency situation arises prior to or early in the work day and delayed arrival is authorized...
+
+AND the employee is...	THEN the absence is charged to...
+
+already at work.	Not charged, if the dismissal occurs before the employee is scheduled to begin work or excused absence is authorized for the period of time covered by the delayed arrival.
+en route or still at home.	excused absence authorized by the administrative order or approved by leave approving official.
+on approved leave.	leave the employee is already on.
+
+ 
+Exhibit B -	ADDITIONAL PROVISIONS FOR ALTERNATE WORK SCHEDULE (AWS)  		EMPLOYEES
+
+Employees on AWS are subject to the absence and leave provisions covered in the preceding Exhibit A of this Instruction.  They are also subject to the following provisions:
+
+A.	Early Dismissal
+
+1.	When an early work dismissal policy is authorized for a specific time, AWS employees are dismissed at the end of their tour of duty or at the specific time, whichever is earlier.
+
+2.	When an early work dismissal policy is authorized for a specific number of hours, AWS employees are excused for the number of hours authorized by the announcement or Administrative Order before the end of the workday as ordered. 
+
+B.	Delayed Arrival
+
+1.	Tardiness of employees on compressed work schedules is excused based on the number of hours of administrative leave authorized by the applicable announcement, Administrative Order or OPDIV head.
+
+2.	Tardiness of AWS employees who are required to revert to a fixed schedule during emergencies is treated consistent with that of employees in the same organization who are on a fixed work schedule.
+
+3.	Employees on flexible work schedules who start work before the excused tardiness is authorized to work their regular tour-of-duty, do not receive extra compensation or credit hours for being on duty earlier than other employees whose tardiness is excused.
+
+C:	Tour of Duty Defines Official Hours of Operation
+
+1.	 Employees on flexible work schedules who start work before the Official hours of Operation (i.e. 8:00 am to 4:30 pm), are not required to remain at the duty site longer than their regular tour of duty (8, 9, 10 hours/day) simply to meet the end of the non-flexible work schedule traditional Official Hours of Operations.
+
+2.	Employees on flexible work schedules, who are required to remain on duty after meeting their regular tour of duty hours are eligible for Credit Hours or other appropriate premium pay.
+
+
+
+D.	Closure
+
+1.	AWS employees whose tour-of-duty commences before the closure of the work place is announced and who reported to work and complete their tour of duty prior to the time of the closure announcement return home and do not receive compensation or credit hours for having come to work.
+
+2.	Employees on a compressed work schedule who are in a scheduled non-work day status on  a day the work place is closed are not entitled to another day off, any compensation, or credit hours for the closure day. 

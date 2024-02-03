@@ -1,0 +1,645 @@
+HHS Instruction 351-1: Reduction in Force (RIF)
+Effective Date: 12/22/2020
+
+Material Transmitted:
+Department of Health and Human Services (HHS) Instruction 351-1, Reduction in Force, dated December 22, 2020.
+
+Material Superseded:
+HHS Instruction 351-1, Reduction in Force, dated January 29, 2009.
+HHS Instruction 351-2, Position Competitive Level Codes, dated December 23, 2013.
+
+Background:
+This Instruction is established to reflect changes in law, regulations, and the Department of Health and Human Service (HHS) and the Office of Personnel Management (OPM) requirements concerning Reduction in Force (RIF) procedures.
+
+This policy is effective immediately and must be carried out by HHS Operating and Staff Division HR Centers in accordance with applicable laws, regulations, bargaining agreements, and Departmental policy.
+
+/s/
+
+J. Blair Duncan
+Deputy Assistant Secretary for Human Resources
+Chief Human Capital Officer
+
+Subject: Reduction in Force
+351-1-00 Purpose
+351-1-10 Coverage and Exclusions
+351-1-20 References
+351-1-30 Definitions
+351-1-40 Roles and Responsibilities
+351-1-50 General Workforce Restructuring
+351-1-60 RIF Planning – Filling Vacancies
+351-1-70 RIF Planning – Competitive Areas
+351-1-80 RIF Planning – Competitive Levels
+351-1-90 RIF Planning – Other Required Actions
+351-1-100 RIF Procedures
+351-1-110 Specific RIF Notices
+351-1-120 Priority Placement Assistance
+351-1-130 Appeals and Corrective Actions
+351-1-140 Documentation and Accountability
+
+Appendix: HHS Competitive Level Codes
+
+315-1-00 Purpose
+This Instruction implements the Department of Health and Human Services (Department or HHS) policy, responsibilities, and procedures on Reduction in Force (RIF).  Separating or downgrading employee(s) due to reorganization, lack of work, shortage of funds, insufficient personnel ceiling, or the exercise of certain reemployment or restoration rights are RIF actions.  A furlough of more than 30 calendar days (or more than 22 discontinuous work days) but not more than 1 year; and a reclassification of an employee’s position due to erosion of duties when the classification action will take effect after a RIF has been formally announced in the employee’s competitive area and when the RIF will take effect within 180 days are also RIF actions.  HHS Operating and Staff Divisions (OpDiv/StaffDiv, or Division) must use RIF as a method of last resort and ensure that all available workforce restructuring options are utilized first to minimize or avoid the adverse impact of RIF on employees.
+
+When provisions of this policy differ from changes in applicable law or regulation, the changes in law or regulation apply.
+
+315-1-10 Coverage and Exclusions
+Coverage.
+The provisions of this Instruction apply to all HHS employees in competitive and excepted service positions.
+
+Exclusions. This Instruction does not apply to:
+Members of the Senior Executive Service (SES);
+An employee whose appointment is required by Congress to be confirmed by, or made with the advice and consent of, the Senate;
+U.S. Public Health Service (PHS) Commissioned Corps Officers;
+A reemployed annuitant, unless the appointing officer determines that an annuitant may compete under the RIF regulations (an annuitant serves at the will of the agency and may be separated at any time at the discretion of the appointing officer; however, if the agency does not separate the annuitant prior to a RIF, the agency determines the annuitant’s retention standing on the basis of the employee's actual appointment and the annuitant competes in the RIF in the same manner as other competing employees); and
+The actions excluded in 5 CFR §351.202(c).
+351-1-20 References
+Public Law (P.L.) 78-359, Section 12, the Veteran Preference Act of 1944, as amended
+5 U.S.C. §§3501-3504 , Retention Preference 5 USC 3501-3504
+5 U.S.C. Subchapter VI , Grade and Pay Retention
+25 U.S.C. §5117 , Indian Preference Laws Applicable to Indian Health Service Positions
+5 CFR Part 330, Subpart B, Reemployment Priority List (RPL)
+5 CFR Part 330, Subpart F, Agency Career Transition Assistance Plan (CTAP) for Local Surplus and Displaced Employees
+5 CFR Part 330, Subpart G, Interagency Career Transition Assistance Plan (ICTAP) for Displaced Employees
+5 CFR §§302.303 and 304, Employment in the Excepted Service (PRL)
+5 CFR Part 351, Reduction in Force
+5 CFR Part 536, Grade and Pay Retention
+5 CFR 550, Subpart G, Severance Pay
+5 CFR §930.210, Administrative Law Judge Program, Reduction in Force
+HHS Instruction 430-1, Performance Management Appraisal Program (PMAP)
+HHS Instruction 330-2, Priority Placement Programs
+HHS Memorandum, Delegation of Human Resources Authorities, dated October 15, 2019
+OPM Title 38 Delegation to HHS, effective through June 30, 2022
+OPM VetGuide
+OPM Workforce Reshaping Operations Handbook - PDF
+351-1-30 Definitions
+Adjusted Service Computation Date.  An employee's service computation date plus credit for her/his three most recent annual performance ratings of record (5 CFR §351.503).  The adjusted SCD is only used for RIF purposes.
+Agency.  For the purposes of this Instruction, an agency is defined as an HHS OpDiv/StaffDiv with human resources (HR) authority, unless otherwise noted.
+Assignment rights (Bump and Retreat).  An employee's entitlement to displace another employee with lower retention standing. In accordance with 5 CFR §351.705, HHS excepted service employees are provided assignment rights to other excepted positions under the same appointment authority.
+Available Position.  As defined in 5 CFR §351.701(a), an available position that satisfies an employee’s RIF assignment right must meet all the following criteria:
+Be in the competitive service;
+Be in the same competitive area as the position the individual currently occupies;
+Last at least 3 months;
+Be a position for which the released employee qualifies, unless the OpDiv/StaffDiv, at its discretion, chooses to waive qualifications in offering the employee assignment to a vacant position;
+Have a representative rate that is equal to or less than the position held by the released employee;
+Be occupied by a lower-standing employee in a different competitive level who can be displaced by the released employee by bumping rights, or by retreating rights; and
+Have the same type of work schedule (full-time, part-time, intermittent, seasonal, or on-call) as the position from which the higher-standing employee is released.
+Career Transition Assistance Plan (CTAP) as defined in 5 CFR Part 330, Subpart F and HHS Instruction 330-2, Priority Placement Programs, provides eligible surplus and displaced HHS employees selection priority for HHS competitive service vacancies for which there are active recruitment actions.
+Competing Employee.  An employee in tenure group I, II, or III, in either the competitive or excepted service (5 CFR §351.203).
+Competitive Area.  The geographic and organizational boundaries within which employees compete in a RIF (5 CFR §351.402).  Competitive areas are determined by the OpDiv/StaffDiv’s Human Resource Director, with approval by the OpDiv/StaffDiv Head.
+Competitive Level.  A group of positions with the same grade and occupational series, and similar duties, qualifications requirements, and working conditions.  Separate competitive levels are established for competitive and excepted service positions; excepted service appointing authorities; and for positions in different pay schedules, work schedules, and trainee status (5 CFR §351.403). The OpDiv/StaffDiv must establish separate competitive levels for positions in the competitive service, and for positions in the excepted service.  Employees who hold excepted service appointments in competitive service positions (e.g., Veterans Recruitment Appointments (VRA)) compete for retention in the excepted service, but do not compete for retention with employees who hold the same positions under competitive service appointments.
+Competitive Service.  All civil service positions in the executive branch, except (1) positions which are specifically excepted from the competitive service by or under statute; (2) positions to which appointments are made by nomination for confirmation by the Senate, unless the Senate otherwise directs; and (3) positions in the Senior Executive Service (5 CFR §212.101).
+Days.  Calendar days (5 CFR §351.203).
+Excepted Service.  Civil service positions that are not in the competitive service or the Senior Executive Service (5 CFR §213.101).
+Function.  All, or a clearly identifiable segment, of an agency’s mission (including all integral parts of that mission), regardless of how it is performed (5 CFR §351.203).
+Furlough Under RIF Procedures.  The placement of an employee in a temporary nonduty and nonpay status for more than 30 consecutive calendar days, or more than 22 discontinuous workdays, but not more than 1 year (5 CFR §351.203).
+Interagency Career Transition Assistance Plan (ICTAP) as defined in 5 CFR Part 330, Subpart G and HHS Instruction 330-2, Priority Placement Programs, provides eligible displaced HHS employees selection priority for competitive service vacancies at other Federal agencies, and provides eligible displaced employees of other Federal agencies selection priority for HHS competitive service vacancies for which there are active recruitment actions.
+Local Commuting Area.  The geographic area that usually constitutes one area for employment purposes; any population center (or two or more neighboring ones) and surrounding localities in which employees live and can be reasonably expected to travel back and forth daily to their place of employment (5 CFR §351.203).  There is no mileage standard.
+Modal Rating.  OPM has determined that an employee who has no rating of record during the 4-year period will receive the modal rating, i.e., the summary rating level assigned most frequently within the competitive area and on record for the most recently completed appraisal period prior to the cutoff date specified (5 CFR §§351.203 and 504(c)(1)).  However, in most instances, every employee in the competitive area should have at least one (1) rating of record during the last four (4) years.  If at least one rating exists, a modal rating is not required.
+Priority Reemployment List (PRL) as defined in 5 CFR Part 302.303 and HHS Instruction 330-2, Priority Placement Programs, the mechanism used to give reemployment consideration and placement assistance to former HHS excepted service employees who have been furloughed or separated by RIF; have fully recovered from compensable injury after one (1) year; or received a Merit Systems Protection Board decision based on an appeal of an adverse action.
+Rating of Record.  The performance rating prepared at the end of an appraisal period for the performance of assigned duties over the entire period, and the assignment of a summary level rating (5 CFR §§351.203 and 430.203).
+Reemployment Priority List (RPL) as defined in 5 CFR Part 330 Subpart B and HHS Instruction 330-2, Priority Placement Programs, the mechanism used to give reemployment consideration and placement assistance to current and former HHS competitive service employees who have or will be separated by RIF, or have fully recovered from a compensable injury after one (1) year.
+Representative Rate.  The fourth step of the grade for GS positions and the second step of the grade for WG/WL/WS positions. This is further defined under 5 CFR §351.203.
+Reorganization.  The planned elimination, addition, or redistribution of functions or duties in an organization (5 CFR §351.203).
+Retention Factors.  Tenure, veteran preference, performance ratings, and length of service. (5 CFR §§351.501 and 502).
+Retention Register.  The ranking of employees in a competitive level after the following four (4) retention factors are applied: tenure of employment (i.e., type of appointment); veteran preference; performance ratings; and total creditable federal civilian and uniformed service (5 CFR §351.404).
+Retention Standing.  The order that employees appear on a retention register based on their tenure of employment, veteran preference, performance ratings; and total creditable federal civilian and uniformed service, in descending (i.e., highest to lowest) order (5 CFR Part 351, Subpart E).
+RIF Appeal.  An employee who believes her/his assignment rights were violated, or that the RIF process outlined in 5 CFR Part 351 was not correctly followed, may file a formal complaint with the Merit Systems Protection Board (5 CFR §351.901).
+Tenure and Tenure Groups.  An employee's status based on length of service and type of appointment.  Tenure groups are defined under 5 CFR §§351.501(b) and 502(b).
+Trainee Status.  When establishing competitive levels, employees in formally designated trainee or development programs that have all the characteristics listed in 5 CFR §351.703(e), e.g., Pathways Programs, SES Candidate Development Program, Emerging Leaders Program, are placed in a separate competitive level than employees not in trainee or development programs.
+Transfer of Function.  The transfer of a function from one competitive area to one or more other competitive areas that does/do not perform the function at the time of transfer; or the movement of the competitive area in which the function is performed to another commuting area (5 CFR §351.203, and further explained in Subpart C).
+Undue Disruption.  A degree of interruption that would prevent the completion of required work by the employee 90 days (while taking into consideration allowable limits of time, quality, and other demands) after the employee has been placed in a different position under this Instruction. The 90 day standard should be considered within the allowable limits of time and quality, taking into account the pressures of priorities, deadlines, and other demands.  However, a work program would generally not be unduly interrupted even if an employee needed more than 90 days after the RIF to perform the optimal quality or quantity of work.  The 90-day standard may be extended if placement is made in first or second-round RIF competition to a low-priority program, or to a vacant position (5 CFR §351.203).
+351-1-40 Responsibilities
+HHS Assistant Secretary for Administration, Office of Human Resources (ASA/OHR):
+Develops Department-wide policy and guidance regarding RIF in accordance with HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+Reviews and submits requests to OPM for approval of Voluntary Early Retirement Authority (VERA) and/or Voluntary Separation Incentive Payments (VSIP) to minimize the impact of a downsizing and/or reshaping.
+Notifies OPM in writing of any RIF involving 50 or more employees within a competitive area at the same time specific notices of separation are issued to employees by the OpDiv/StaffDiv(s).
+Submits requests to OPM for approval to establish or change a competitive area within 90 days of the effective date of a RIF.
+Submits requests to the Director of OPM to provide employees a specific RIF notice of less than 60 days, but at least 30 days, before the effective date of release when a RIF is caused by unforeseeable situation, e.g., a natural disaster.
+Requests final determination from OPM that a 30% compensably disabled preference eligible employee selected for release from a competitive level is unable to perform the physical requirements of a position to which the employee would have otherwise been assigned.
+OpDiv/StaffDiv Heads with HR Authority:
+Comply with this Instruction; applicable HHS, OPM, and Office of Management and Budget (OMB) supplemental guidance; and federal laws and regulations.
+Assess workforce requirements, based on mission and budget, to determine if a RIF is necessary, what functions/position(s) will be abolished, what positions will remain, and when a RIF will take place.
+Notify ASA/OHR in advance of workforce restructuring measures, including a reorganization, transfer of function, RIF, or furlough covered by this Instruction.  (Depending on the scope of the proposed action(s), the ASA will notify the Secretary and/or OPM.)
+Submit requests to ASA/OHR for OPM approval of VERA and/or VSIP authority.
+In consultation with their Human Resources Center (HR Center), may modify or waive qualification requirements if s/he elects to reassign employees to vacant positions to avoid a RIF, or in lieu of furloughing or separating an employee, if the employee has the capacity, adaptability, and skills needs to perform the duties of the vacant position and meets the minimum education requirements for the position (5 CFR §351.703).  This responsibility may not be redelegated below the Human Resources Director.
+Ensure the development of RIF plans and procedures within their Division, including a RIF communications plan for disseminating information and communicating with unions, leadership, employees and other stakeholders on a regular basis.
+Before a RIF is announced, approve the competitive areas and competitive levels within their Division.
+Submit requests to ASA/OHR for OPM approval to establish a competitive area within 90 days prior to the effective date of a RIF.
+Submit requests to ASA/OHR for OPM approval to provide employees a specific RIF notice of less than 60 calendar days, but at least 30 calendar days, before the effective date of release when RIF is caused by an unforeseeable situation.
+In consultation with their HR Center, may elect to make exceptions to the order of release in accordance with 5 CFR §§351.607 and 608.  This responsibility may not be redelegated below the Human Resources Director.
+Ensure existing labor agreements are reviewed and comply with bargaining obligations.
+OpDiv/StaffDiv Human Resource Directors:
+Oversee the development and implementation of an internal RIF plan and ensure RIF plans, procedures, and practices comply with this Instruction; applicable HHS, OPM, and Office of Management and Budget (OMB) supplemental guidance and policy; collective bargaining agreements, and federal laws and regulations.
+Determine and establish competitive areas and competitive levels, with approval of the OpDiv/StaffDiv Head.
+Ensure notification periods in applicable collective bargaining agreements are negotiated with union representatives.
+Protect the mutual interests of the Department and the rights of the employees when engaging in RIF activities.
+Prepare requests to ASA/OHR for OPM approval of VERA and/or VSIP authority.
+Prepare notifications to ASA/OHR when 50 or more employees in a competitive area will receive separation notices, in accordance with 5 CFR §351.803 and this Instruction.
+Prepare requests to ASA/OHR for OPM approval to establish a competitive area within 90 days prior to the effective date of a RIF.
+Prepare requests to ASA/OHR for OPM approval to provide employees a specific RIF notice of less than 60 days, but at least 30 days, before the effective date of release when a RIF is caused by an unforeseeable situation, in accordance with 5 CFR §351.801(b).
+Submit requests to ASA/OHR for final OPM determination that a 30% compensably disabled preference eligible employee is unable to perform the physical requirements of a position to which the employee would have otherwise been assigned; and upon notice from OHR that the request has been sent to OPM, notifies the employee in writing of the reasons of the decision within 15 days of the request and before any other employee is selected for the position, in accordance with 5 CFR §351.702(d).
+Ensure employee personnel records are accurate and that employees impacted by RIF are provided the opportunity to review their records and retention registers that affect them.
+Develop a RIF communication plan for disseminating information, and communicating with employees, unions, and other stakeholders on a regular basis.
+Ensure employees are advised of available priority placement programs and career transition services, as outlined in HHS Instruction 330-2, Priority Placement Programs, as soon as it is known that a RIF is likely, or at minimum, at least 60 full days before the effective date of release (or shorter notice period, if an exception is approved by OPM).
+Ensure maintenance of records necessary to preserve rights and benefits granted by federal laws and regulations.
+Prepare reports on RIF and any other reorganization actions authorized under this Instruction for submission to ASA/OHR and/or OPM, as required.
+351-1-50 General Workforce Restructuring
+Prior to announcing an action that will separate or downgrade employees, OpDiv/StaffDivs Heads should consider the following workforce restructuring actions which may help avoid or minimize actions that will adversely impact employees. (Reminder:  ASA/OHR must be notified of such proposed workforce restructuring efforts before they are implemented.)  For additional alternatives and information, see OPM’s - PDFWorkforce Reshaping Operations Handbook - PDF.
+Reorganizations include the internal movement of resources, functions, and people, that occur without an adverse impact to employees, i.e., without loss of pay or benefits.
+Hiring Freezes cease all hiring activities or use only internal placements to fill vacancies, with or without exceptions to fill positions from outside sources for certain mission critical occupations. Typically, hiring freezes reduce the workforce through attrition.
+Separate Temporary Employees who are not eligible to compete in a RIF (i.e., those not identified as competing employees under 5 CFR §§351.501(b)(3) and 502(b)(3)) and/or reemployed annuitants. Temporary employees and reemployed annuitants serve at the will of the agency, and can be terminated without regard to RIF regulations.
+Separate Senior Biomedical Research and Biomedical Product Assessment Service (SBRBPAS) Employees in accordance with HHS Instruction 42-3, SBRBPAS.
+Furlough.  An administrative furlough is a planned event by an agency which is designed to absorb reductions necessitated by downsizing, reduced funding, lack of work, or any budget situation other than a lapse in appropriations. Additional information can be found in OPM’s Guidance for Administrative Furloughs - PDF.
+Voluntary Early Retirement Authority (VERA) and/or Voluntary Separation Incentive Program (VSIP).  VERA temporarily lowers the age and service requirements in order to increase the number of employees who can retire during periods of substantial restructuring, reshaping, downsizing, or reorganization.  VSIP allows agencies that are downsizing or restructuring to offer employees lump-sum payments as an incentive to voluntarily retire or resign.  Requests must be submitted to ASA/OHR for OPM approval.
+Reassignments.  See also Workforce Restructuring/Summary of Reassignment at OPM.gov.
+To avoid a RIF, management may reassign employee(s) to another position(s) within the Division, or to avoid displacing an employee during a RIF, reassign surplus employee(s) to continuing position(s) as long as there is a legitimate need for the employee in the position. An employee may be reassigned without regard to the RIF regulations when the vacant position is at the same grade or rate of pay as the employee’s present position.  Such reassignments can help avoid involuntary separations and demotions which are covered by RIF.
+The position to which the employee is reassigned may be located in the same or a different competitive level, competitive area, or commuting area.
+An employee may not be reassigned to a position with greater promotion potential unless the position is filled following merit promotion procedures.
+Reassignment to a position in a different commuting area does not provide the employee with the right to compete for a position in his or her present competitive area under RIF regulations even if the employee declines the reassignment and is subsequently separated under adverse action procedures.
+An employee separated for declining reassignment to a position in a different commuting area qualifies for most of the benefits available to an employee who is separated by RIF, including severance pay or discontinued service retirement, career transition services (covered in HHS Instruction, 330-2, Priority Placement Programs), and CTAP/ICTAP eligibility.  The employee is not eligible to register for HHS’ RPL or PRL lists, consistent with OPM’s Workforce Reshaping Operations Handbook.
+Transfer of Function.  Under conditions specified in 5 CFR Part 351, Subpart C, a transfer of function occurs when a function ceases in one competitive area and is moved to another competitive area(s) that did not perform the function at the time of transfer. Competing employees do not have the right to transfer with their work, unless the alternative is separation or downgrading by RIF.  Additional guidance on transfer of function can be found in OPM’s Workforce Reshaping Operations Handbook.
+Reduction in Force is used as a last resort to reduce the workforce via separation, demotion, or a furlough for more than 30 continuous days or more than 22 discontinuous workdays.  Each OpDiv/StaffDiv must comply with the requirements in this Instruction; any HHS, OPM, and OMB supplemental guidance; and applicable federal laws, regulations, and collective bargaining agreements prior to implementing a RIF or engaging in RIF activities.
+OpDiv/StaffDiv Heads determine if a RIF is necessary, what positions will be impacted or abolished, their geographic location, and the effective date of the RIF.  ASA/OHR approval is required before the RIF is enacted within the OpDiv/StaffDiv, and requests will include the following information:
+The reasons(s), among those in 5 CFR §351.201(a)(2), for the action; and
+An organization chart with titles, series, grades, and numbers of all involved positions.
+The OpDiv/StaffDiv HR Center then establishes retention register(s) to determine which employee(s) are actually reached for a RIF action, on the basis of the employees’ tenure, veteran preference, performance ratings, and total creditable service (5 CFR Part 51 Subparts D and E).
+OpDivs/StaffDivs ensure its RIF procedures are uniformly and consistently applied before furloughing, separating or demoting an employee, in accordance with 5 CFR §351.201(c).
+Performance or conduct based actions covered by 5 U.S.C. Chapters 43 and 75 are not RIF actions.
+Applicable master or locally negotiated agreement provisions must be followed in administering actions affecting bargaining unit employees.
+351-1-60 Reduction in Force Planning – Filling Vacancies
+Although management is not obligated to fill vacancies prior to or during a RIF, necessary and continuing vacancies should be used, to the extent possible, to provide placement opportunities for employees who will be adversely impacted by a RIF.  When management chooses to offer vacancies using RIF procedures, qualifications may be waived in accordance with 5 CFR §351.703.
+After a reorganization is announced in writing and prior to a RIF, eligible employees may be allowed to volunteer to accept lower-graded positions.  Employees who take such positions are given grade and pay retention, if eligible, in accordance with 5 CFR Part 536.
+Promotions or other placements into vacant positions prior to a RIF that have greater promotion potential than employees' current positions must be made under competitive merit promotion procedures.
+During a RIF, vacancies may be used to satisfy employees' assignment rights in accordance with 5 CFR §351.201.
+Employees without assignment rights who have received specific RIF separation notices may be offered vacant, lower-grade positions without regard to the grade limits specified under 5 CFR §351.701.  These offers may be made so long as the position would not constitute a better RIF offer to other competing employees.  Eligible employees who voluntarily accept lower-graded positions are entitled to grade and pay retention benefits.
+351-1-70 Reduction in Force Planning – Competitive Areas
+OpDiv/StaffDiv HR Centers must establish and document the competitive area(s) within their respective Division prior to RIF, in accordance with 5 CFR §351.402 and this Instruction.
+The competitive area defines the scope of RIF competition.  Employees in a competitive area compete for retention only with other employees in the same competitive area.
+ 
+Image
+A graph explaining key terms found in policy, i.e., competitive area and competitive level
+The competitive area includes all employees within the organizational unit(s) and geographical location(s) within the local commuting area.
+The minimum competitive area is an organizational unit independent from other organizational units within a local commuting area because of differences in work function, staff, and separate administration (or the ability of managers within the organizational unit to authorize personnel actions, including ability to establish and abolish positions, assign duties, etc.).
+There is no maximum size for a competitive area; however large competitive areas typically result in a more expensive RIF due to payment of relocation costs for employees placed in positions outside their duty commuting area, state, etc.
+When an OpDiv/StaffDiv has offices in more than one local commuting area, each local commuting area may be designated as a separate competitive area.
+A separate competitive area is established for each Inspector General Activity covered by the Inspector General Act of 1978, P.L. 95-452, as amended, in accordance with 5 CFR §351.402(d).
+Telecommuters. An employee who telecommutes competes in RIF on the basis of the duty station or work site documented for the employee’s official position of record.  The same definition and standards for competitive areas in 5 CFR §351.402 apply to work performed directly on-site as to work performed remotely or by telecommuters.  OpDivs/StaffDivs still draw geographical and organizational boundaries using the regulatory minimum standard.  This could mean that geographically dispersed employees are in the same organizational unit, but in different local commuting areas.  OpDivs/StaffDivs then must decide, after meeting the minimum standard, how wide they want to open up the RIF competitive areas.
+Example: An organizational unit is defined as the competitive area and the unit has 15 employees, with 10 located in Washington, DC and 5 full-time telecommuters in Atlanta, GA. There are two options for the competitive area in this example – 1) The telecommuters can compete in the same competitive area as the 10 employees located in Washington, DC (relocation costs are then a consideration as the employee may have to move to Washington, DC), or 2) A separate competitive area may be established for those 5 employees in Atlanta.
+
+Establishing the scope of RIF competition, or Competitive Area, is to balance RIF manageability, cost factors, and the ability to minimize disruption to the mission while optimizing placement opportunities for employees and limiting adverse impact.  Some questions to consider when defining a competitive area:
+Is the need for a RIF spread throughout the OpDiv/StaffDiv, or
+Is it confined to a particular function or organization?
+Is the organization impacted geographically dispersed?
+How many positions and people are impacted – a dozen? Several hundred? A few thousand? Is the entire organization being closed?
+Can the RIF be reasonably managed using the established competitive area definition?
+If the competitive area spans different commuting areas, have relocation costs been accounted for?
+When a competitive area is established within 90 days prior to the effective date of a RIF, it must be approved by OPM (5 CFR §351.402(c)).  Requests for OPM approval are sent by the Human Resources Director to ASA/OHR at employmentpolicy@hhs.gov and contain the following information:
+Identification of the proposed competitive area, including the organization name, geographic location, and limits to the local commuting area;
+A description of how the proposed area differs from the one previously established for the same organizational unit and geographic area;
+An organizational chart of the OpDiv/StaffDiv;
+The number of competing employees in the proposed competitive area;
+A description of the operation, work function, staff, and personnel administration of the proposed area and, where appropriate, a description of how the area is separate from others in these respects; and
+A description of the circumstances that led to the proposal to establish a new competitive area less than 90 days before a proposed RIF.
+351-1-80 Reduction in Force Planning – Competitive Levels
+OpDivs/StaffDivs must establish and document the competitive levels within their respective Division, in accordance with 5 CFR §351.403 and this Instruction (see also Appendix, HHS Competitive Level Codes).  ASA/OHR must concur on the establishment of new competitive levels.
+Each competitive level includes all positions within a competitive area that are the same grade, series, and similar duties (based on the official position of record, not the employee’s qualifications), position qualification requirements, pay schedules, and working conditions so the OpDiv/StaffDiv may reassign the incumbent of one position to another position within the competitive level without undue interruption. (Note: Whether or not a security clearance requirement is in the employee’s official position description, separate competitive levels for otherwise interchangeable positions may be established if the clearance approval process would extend more than 90 days past the RIF effective date, resulting in undue interruption.)
+Separate competitive levels are established for certain positions: competitive and excepted service; excepted service appointment authority; pay systems; work schedules (e.g., full-time, part-time, seasonal, or intermittent); and positions filled for formally designated trainee or development programs.
+OpDiv/StaffDiv HR Centers establish and implement a plan for assigning a competitive level code to positions at the time of classification.  The code is documented on the OF-8 of the position description (PD) and in the enterprise-wide HR and payroll processing system.  Competitive level determinations should be reviewed whenever there is a change in classification or change to the position description (i.e. duties, responsibilities, qualifications, etc.).
+351-1-90 Reduction in Force Planning – Other Required Actions
+Leadership Decisions.
+OpDiv/StaffDiv Heads must identify, based on mission and/or budget, which functions/positions must be abolished and which functions/positions will remain (by job title, series, grade, organization, and geographic location).  This information is provided to their servicing HR Center in order to administer the RIF and determine which employees will be impacted.
+OpDiv/StaffDiv Heads must establish a RIF effective date and provide it to their HR Center.
+OpDiv/StaffDiv Heads must decide, in consultation with their HR Center, if temporary employees and/or reemployed annuitants will be terminated before a RIF.
+If temporary employees who are not eligible to compete in a RIF (i.e., who are not identified as competing employees under 5 CFR §§351.501(b)(3) and 502((b)(3)) are not terminated prior to a RIF, they are released before a competing employee from the same competitive level is released, in accordance with 5 CFR §351.602.
+If reemployed annuitants are not terminated prior to the RIF effective date, they compete in the RIF on the same basis as other employees holding the same type of appointment, per OPM’s Workforce Reshaping Operations Handbook.
+OpDiv/StaffDiv Heads may offer vacant positions to displaced employees, or as offers in lieu of a RIF action (see Section 351-1-60, RIF Planning - Filling Vacancies).
+OpDiv/StaffDiv Heads, in consultation with their HR Center, may waive qualification requirements to assign an employee to a vacant position, in lieu of furlough or separating, provided the employee meets minimum educational requirements and has the capacity to perform the duties and responsibilities of the position, in accordance with 5 CFR §351.703.
+Develop Communications Strategy
+Once the OpDiv/StaffDiv Head determines the need for a RIF, OpDivs/StaffDivs must develop a RIF communication plan for disseminating information, and communicating with unions, leadership, employees and other stakeholders on a regular basis.
+HR Centers must provide impacted employees access to information concerning RIF procedures, regulations, career assistance programs and services available to surplus and displaced employees, severance pay, and employee benefits and retirement, in accordance with 5 CFR §§351.802(b), 803(a), and HHS Instruction 330-2, Priority Placement Programs.
+Employees who have received a specific RIF notice, their representatives, and authorized OPM or HHS official(s) are entitled to inspect the retention register and related records, in accordance with 5 CFR §351.505.
+Ensure Personnel Records Are Accurate
+OpDiv/StaffDiv HR Centers must manually verify employees’ official position descriptions; three (3) most recent performance ratings of record; creditable federal civilian and military service; service computation date; and veteran preference status before administering a RIF.
+Employees should be given opportunity to update their personnel records, including submitting an updated resume.
+HR Centers may establish a cut-off date for employees to submit updated personnel information for inclusion in their electronic Official Personnel Files (e-OPF).  (Note: Employees have a 30-day mandatory cut-off prior to issuance of RIF notices to submit performance ratings (e.g., from another agency), after which no new performance ratings are put on record and used for purposes of the RIF. See also Section 351-1-100, RIF Procedures, A.7.b. below.)
+HR Centers ensure that any cut-off date is included in their Division’s communications strategy and is widely publicized at least 30 days prior to the deadline for receipt of information.
+351-1-100 RIF Procedures
+Retention Registers. To determine which employees are impacted by a RIF action, OpDiv/StaffDiv HR Centers apply the four (4) RIF retention factors (i.e., tenure, veteran preference, performance ratings, and length of service) to each competing employee in the competitive level(s) involved in the RIF, in accordance with 5 CFR Part 351, Subparts D and E.  (The competitive level(s) then becomes the retention register(s) which lists competing employees in the order of their retention standing.)
+Competing Employees are employees within the competitive level, and also include employees identified under 5 CFR §§351.404 and 405.
+Employees Not Listed on Retention Register.  Employees on military duty with a restoration right are not listed on a retention register, in accordance with 5 CFR §351.404.
+Employees Listed Separately from Retention Register.  In accordance with 5 CFR §351.404 and OPM’s Workforce Reshaping Operations Handbook, the following employees who are in the competitive level are listed separately from the retention register(s):
+Employees on temporary appointments. If certain temporary employees (i.e., those not identified as competing employees under 5 CFR §§351.501(b)(3) and 502((b)(3)) are not released prior to a RIF, these temporary employees in the competitive level are listed separately from the retention register.
+Employees on temporary or term promotions, with the expiration date of their promotion.
+Employees who have received a final written decision of removal due to unacceptable performance or an adverse action.
+Determining Retention Standing – Tenure (5 CFR §§351.501(a-b) and 502). Competing employees are ranked in descending (i.e., highest to lowest) order according to their tenure (I, II, or III), or type of appointment.
+Determining Retention Standing – Veteran Preference (5 CFR §351.501(c)).  Each of the tenure groups are then divided into subgroups based on the competing employee’s veteran preference under RIF procedures.
+Determining Retention Standing - Length of Service (5 CFR §351.503).  Within each subgroup, competing employees are then ranked by their respective service dates, including both creditable federal civilian and military service.
+Determining Retention Standing – Performance (5 CFR §351.504).  HHS employees receive extra retention service credit for performance based on the average of their last three (3) most recent performance ratings of record during the four (4) year period prior to the 30-day performance cut-off date:
+OpDiv/StaffDiv HR Centers adhere to the chart below to apply additional service credit for performance.
+A 30-day cut-off date prior to issuance of the RIF notices is established, after which no new performance ratings are put on record and used for purposes of the RIF.
+A performance summary rating of record is defined as one that is assigned at the end of the appraisal period that was signed, approved, and issued to the employee by an appropriate management official, or a rating of record assigned following completion of a performance improvement period.
+ 
+HHS Summary Level Pattern	Rating Levels	Rating Pattern	Years of Service for Retention
+H	5	Outstanding	20
+H	4	Achieved More Than Expected Results	16
+H	3	Achieved Expected Results	12
+H	2	Partially Achieved	0
+H	1	Unacceptable/Unsatisfactory	0
+An employee who does not have three (3) ratings of record is granted service credit for performance in accordance with 5 CFR §351.504(c) and the modal rating definition in this Instruction.
+Indian Health Service (IHS).  When a RIF is conducted in IHS, retention registers for competitive and excepted service employees are combined in accordance with 25 U.S.C. §5117.
+Administrative Law Judges.  To determine retention standing for Administrative Law Judges, see 5 CFR §930.210.
+Release From Competitive Level.
+OpDiv/StaffDivs determine each employee’s retention standing as of the effective date of the RIF, except for the following:
+Mandatory exceptions listed under 5 CFR §351.606;
+Permissive continuing exceptions under 5 CFR §351.607; and
+Permissive temporary exceptions listed under 5 CFR §351.608.
+The reasons for any exceptions used must be recorded on the retention register.
+Employees are released in the inverse order of their retention standing, beginning with the employee with the lowest retention standing on the retention register, in accordance with 5 CFR Part 351, Subpart F, and OPM’s Workforce Reshaping Operations Handbook.
+OpDiv/StaffDivs may not release a competing employee from a competitive level while retaining in that level an employee with a lower retention standing, except as specified by 5 CFR §351.601.
+Before releasing a competing employee from a competitive level, the OpDiv/StaffDiv HR Center, releases all employees within that level who are listed under 5 CFR §351.602 and A.3. above.
+OpDivs/StaffDivs may furlough a competing employee (i.e., place employee(s) in a non-duty, non-pay status more than 30 calendar days, or for more than 22 discontinuous workdays), in accordance with 5 CFR §351.604.
+When all positions within a competitive area will be abolished within 180 days, employees are released in the order described in 5 CFR §351.605.
+Assignment Rights (5 CFR Part 351, Subpart G).
+An employee who is released from a competitive level is offered assignment to another position. If the employee accepts, the employee is assigned to the position offered. If the employee does not accept, the employee is furloughed or separated.
+The existence of an available position does not require the OpDiv/StaffDiv to offer an employee a particular position; however, as specified in 5 CFR §351.701, an available position establishes the employee’s right to be offered a position that has no reduction, or the least possible reduction, in representative rate; is in the same competitive area; be at least 3 months in duration; and have the same type of work schedule as the position from which the employee is released.
+The promotion potential of the offered position is not a consideration in determining an employee’s assignment rights to an available position; however, the employee must be qualified for the position, in accordance with 5 CFR §351.701.
+Qualification determinations are made in accordance with 5 CFR §351.702.  If an OpDiv/StaffDiv determines, on the basis of evidence, that a 30% compensably disabled preference eligible employee is unable to perform the physical requirements of a position to which the employee would have otherwise been assigned, a request is submitted to ASA/OHR for final OPM determination and, upon notice from OHR that the request was sent to OPM, the OpDiv/StaffDiv notifies the employee in writing of the reasons of the decision within 15 days and before any other employee is selected for the position, in accordance with 5 CFR §351.702(d).
+An OpDiv/StaffDiv Head, in consultation with their HR Center, may waive qualification requirements if s/he elects to assign employee(s) to vacant position(s), in lieu of furloughing or separating, in accordance with 5 CFR §351.703, if the employee has the capacity, adaptability, and skills needs to perform the duties of the vacant position and meets the minimum education requirements for the position.
+HHS does not elect to adopt the discretionary assignment actions under 5 CFR §351.705(a)(1-2) that permit a competing employee to displace an employee with a lower retention standing in the same subgroup, or displace an employee in a higher subgroup.
+In accordance with 5 CFR §351.705, HHS excepted service employees are provided assignment rights to other excepted positions under the same appointment authority.
+Upon accepting an offer of assignment, or displacing another employee, the employee retains the same status and tenure in the new position.
+Grade and Pay Retention: Employees who are downgraded after receiving a specific RIF notice and accept a lower-graded position offered by management are entitled to grade retention and retain the grade held immediately before the reduction for a period of two (2) years, if the employee(s) served at least 52 consecutive weeks at the higher grade. Additionally, employees who are placed in a lower-graded position by a reclassification action described in this Instruction are also eligible for grade retention on the same basis as employees who are voluntarily downgraded.  The retained grade is treated as the employee’s grade for all purposes (e.g., pay, retirement and life insurance, eligibility for training and promotion).  After grade retention expires, employees are eligible for indefinite pay retention.  Employees who do not meet the eligibility requirements for grade retention (i.e., have not served at least 52 consecutive weeks at the higher grade at the time of downgrading) are also eligible for pay retention. See 5 U.S.C. Subchapter VI, and 5 CFR Part 536 for additional guidance.  Title 38 Market Pay Positions are not entitled to grade or pay retention; however, employees are given pay retention in some circumstances as described in OPM Title 38 Delegation to HHS.
+351-1-110 Specific RIF Notices
+Before issuing RIF notices to employees informing them that they will be impacted by RIF, OpDiv/StaffDiv Heads notify the ASA/OHR of any RIF within their Division, in accordance with this Instruction.
+OpDiv/StaffDivs adhere to the procedures described in 5 CFR Part 351, Subpart H, and this Instruction when issuing RIF notices.
+When 50 or more employees in a competitive area are to be separated, the OpDiv/StaffDiv must notify ASA/OHR in writing before satisfying the notice requirements under 5 CFR §351.803(b).  A memo to the Assistant Secretary for Administration (ASA) includes the information listed in 5 CFR §351.803(c).  After review, ASA/OHR informs the OpDiv/StaffDiv when notice is sent to OPM to coordinate the release of both notification and separation notices as specified under 5 CFR §351.803(b).
+When a RIF is caused by an unforeseeable situation, the OpDiv/StaffDiv Head must submit a request to the ASA/OHR for OPM approval to provide employees a specific RIF notice of less than 60 days, but at least 30 days, before the effective date of release.  Such requests include the information specified in 5 CFR §351.801(b).
+An employee is entitled to a RIF notice of at least 60 full days if the OpDiv/StaffDiv decides to take an action more severe than first specified (5 CFR §351.805).  If the negotiated agreement or union contract specifies a longer time frame, the time frame(s) in the agreement are followed.
+To assist employees in career transition and placement assistance prior to RIF separation, OpDiv/StaffDivs may issue Certificates of Expected Separation after the appropriate HHS leadership officials are notified in accordance with this Instruction and when the conditions specified under 5 CFR §351.807 are met.  Such certificates are signed by the OpDiv/StaffDiv Head, unless otherwise instructed by the Office of the Secretary.
+351-1-120 Priority Placement Assistance
+HHS employees who receive a specific RIF separation notice, Certificate of Expected Separation, or other official certification issued by the Department/OpDiv/StaffDiv; and
+Received a performance rating of record of at least fully successful or equivalent as their most recent performance rating; and
+Has not declined an offer of employment under RIF procedures (5 CFR Part 351, Subpart G) with the same type of work schedule and with a representative rate at least as high as the position from which the employee was separated, are generally eligible for priority selection for similar positions as described in HHS Instruction 330-2, Priority Placement Programs, in accordance with 5 CFR Parts 302 and 330, and 5 CFR §351.803(a).
+OpDivs/StaffDivs should consult HHS Instruction 330-2, Priority Placement Programs, to determine their responsibility for notifying employees of their eligibility for reemployment and other placement assistance, and provide career transition services.
+351-1-130 Appeals and Corrective Actions
+Right to Appeal to MSPB.  An employee who has been furloughed for more than 30 days, separated, or demoted by a RIF action has the right to appeal to the Merit Systems Protection Board (MSPB) if he or she believes the agency did not properly follow the RIF regulations, in accordance with 5 CFR §351.901.  The appeal must be filed during the 30-day period beginning the day after the effective date of the RIF action. OpDiv/StaffDiv HR Centers must advise affected employees of their appeal rights to MSPB when the specific RIF notice is issued.
+Right to Grieve.  An employee covered by a collective bargaining agreement that covers RIF actions must follow the negotiated grievance procedure outlined in the agreement if the employee believes the agency failed to properly apply the RIF regulations.  If the agreement excludes RIF actions, then the employee may appeal to the MSPB within 30 days after the effective date of the RIF action, but may not use the grievance procedure.  An employee who alleges discrimination under 5 U.S.C. §2302(b)(1) has the option of either filing a grievance under the negotiated grievance procedure or filing an appeal to the MSPB, in accordance with 5 U.S.C. §7121(d).  HR Centers must advise affected employees of their rights when the specific RIF notice is issued.
+Corrective Actions.  When an action under this Instruction was unjustified or unwarranted and an individual is restored to the former grade or rate of pay held or to an intermediate grade or rate of pay, the restoration shall be made retroactively effective to the date of the improper action per 5 CFR §351.902.
+351-1-140 Documentation and Accountability
+OpDiv/StaffDiv HR Centers are responsible for maintaining correct personnel records that are used to determine retention standing and all registers and records related to a RIF for at least one (1) year after the date specific RIF notices are issued, in accordance with 5 CFR §351.505(a) and (f).
+Records involved in litigation and grievance processes may be destroyed only after official notification is received from OPM, Department of Justice, courts, or the Office of the General Counsel, etc. that the matter has been fully litigated, or resolved and closed.
+ASA/OHR may conduct periodic accountability reviews to analyze compliance with this Instruction, HHS and OPM policy and guidance, and applicable federal laws and regulations.
+Appendix, HHS Competitive Level Codes
+The Competitive Level Codes (CLCs) below uses the first three (3) characters in the CLC field.  The fourth character is used to further identify competitive levels:
+
+Competitive Service
+Excepted Service     **Additional CLCs may be used to further define the excepted authority
+Full-time
+Part-time
+Intermittent
+Temp or seasonal
+Training/Development
+[Reserved]
+[Reserved]
+This appendix does not contain CLCs for the GS-0301 or GS-0303 series since the duties of these positions are generally unique to the organization.  Additionally, most GS-'01' series are omitted.  OpDiv/StaffDiv HR Centers are responsible for assigning a CLC for these positions in their serviced Division. 
+
+CLC	Position Series	Position Title
+SFA	GS-0018	Safety Analyst
+SFT	GS-0019	Safety Technician
+CPN	GS-0020	Community Planner
+EPS	GS-0028	Environmental Planning Specialist
+EPT	GS-0029	Environmental Technician
+FPI	GS-0072	Fingerprint Identification
+CHP	GS-0060	Chaplain
+SEC	GS-0080	Security Specialist
+FFT	GS-0081	Firefighter
+POF	GS-0083	Police Officer
+SCG	GS-0085	Security Guard
+SCA	GS-0086	Security Assistant
+EMS	GS-0089	Emergency Management Specialist
+STN	GS-xx99	Student- all series ending in "99"
+SSA	GS-0101	Social Science (Research) Analyst or Social Scientist 
+SST	GS-0102	Social Science Technician
+HIS	GS-0107	Health Insurance Specialist
+ECO	GS-0110	Economist
+ECA	GS-0119	Economist Assistant/Technician
+IRS	GS-0132	Intelligence Research/Operations
+MDS	GS-0142	Manpower Developer
+GEG	GS-0150	Geographer
+CRA	GS-0160	Civil Rights Analyst
+HST	GS-0170	Historian
+PSY	GS-0180	Psychologist
+PYT	GS-0181	Psychologist Technician
+SOC	GS-0184	Sociologist
+SWA	GS-0185	Social Worker
+SSN	GS-0186	Social Services Assistant/Technician
+SWT	GS-0187	Social Work Assistant/Technician
+RCS	GS-0188	Recreation Specialist
+RCT	GS-0189	Recreation Assistant/Technician
+ANT	GS-0190	Anthropologist
+HRG	GS-0201	Human Resources Specialist (Generalist)
+HRR	GS-0201	Human Resources Specialist (Recruitment)
+HRC	GS-0201	Human Resources Specialist (Classification)
+HRP	GS-0201	Human Resources Specialist (Compensation)
+HRL	GS-0201	Human Resources Specialist (Labor Relations)
+HRE	GS-0201	Human Resources Specialist (Employee Relations)
+HEL	GS-0201	Human Resources Specialist (Employee and Labor Relations)
+HRB	GS-0201	Human Resources Specialist (Benefits)
+HRI	GS-0201	Human Resources Specialist (Information Systems)
+HRD	GS-0201	Human Resources Specialist (Development)
+HRM	GS-0201	Human Resources Specialist (Military)
+HRT	GS-0203	Human Resources Assistant or Technician
+EEO	GS-0260	Equal Employment Opportunity Specialist
+MSG	GS-0302	Messenger
+INR	GS-0304	Information Receptionist
+MFC	GS-0305	Mail and/or File Clerk or Assistant
+GIS	GS-0306	Government Information Specialist
+CRC	GS-0309	Correspondence Analyst
+SET	GS-0318	Secretary (Office Automation)
+SES	GS-0318	Secretary (Stenography)
+CKT	GS-0322	Clerk-Typist
+OAG	GS-0326	Office Automation Clerk or Assistance
+COP	GS-0332	Computer Operator
+COA	GS-0335	Computer Assistant/Technician
+PMG	GS-0340	Program Manager
+ADO	GS-0341	Administrative Officer
+SSS	GS-0342	Support Services
+MAA	GS-0343	Management Analyst
+PGA	GS-0343	Program Analyst
+PMA	GS-0343	Program and Management Analyst
+MAT	GS-0344	Management or Program Assistant or Technician
+LMS	GS-0346	Logistics Management Specialist
+EQO	GS-0350	Equipment Operator
+DTA	GS-0356	Data Transcriber
+CDG	GS-0357	Coding Clerk
+EES	GS-0360	Equal Employment Compliance Specialist
+EET	GS-0361	Equal Employment Opportunity Assistant/Technician
+TLO	GS-0382	Telephone Operator
+TSD	GS-0391	Telecommunications Specialist (Data)
+TSV	GS-0391	Telecommunications Specialist (Voice)
+BIO	GS-0401	Biologist
+MBI	GS-0403	Microbiologist
+BOT	GS-0404	Biological Assistant/Technician
+PHC	GS-0405	Pharmacologist
+ECT	GS-0408	Ecologist
+ZGT	GS-0410	Zoologist
+PYG	GS-0413	Physiologist
+ETG	GS-0414	Entomologist
+TOX	GS-0415	Toxicologist
+PPT	GS-0434	Plant Pathologist
+GEN	GS-0440	Geneticist
+ASC	GS-0487	Animal Scientist
+FMS	GS-0501	Financial Management Specialist
+FMA	GS-0503	Financial Management Assistant
+FMG	GS-0505	Financial Manager
+ACC	GS-0510	Accountant
+ACA	GS-0510	Cost Accountant
+ACS	GS-0510	Systems Accountant
+ADT	GS-0511	Auditor
+ACT	GS-0525	Accounting Assistant or Technician
+CCK	GS-0530	Cash Clerk
+VEX	GS-0540	Voucher Examiner
+CPT	GS-0544	Civilian Pay Technician
+MPT	GS-0545	Military Pay Technician
+BUD	GS-0560	Budget Analyst
+BUA	GS-0561	Budget Technician/Assistant
+EPI	GS-0601	Epidemiologist
+HSC	GS-0601	Health Scientist
+MDG	GS-0602	Physician (General Practice)
+MDI	GS-0602	Physician (Internal Medicine)
+MDF	GS-0602	Physician (Family Practice)
+MDM	GS-0602	Physician (Emergency Medicine)
+MDO	GS-0602	Physician (Orthopedics)
+MDE	GS-0602	Physician (Ophthalmology)
+MDP	GS-0602	Physician (Psychiatry)
+MDN	GS-0602	Physician (Otolaryngology
+MDC	GS-0602	Physician (Pediatrics)
+MDT	GS-0602	Physician (Anesthesiology)
+MDR	GS-0602	Physician (Radiology)
+MDH	GS-0602	Physician (Public Health)
+PAA	GS-0603	Physician Assistant
+NUG	GS-0610	Nurse (General)
+NUC	GS-0610	Nurse Consultant
+NUS	GS-0610	Nurse Specialist
+NUP	GS-0610	Nurse Practitioner
+NUN	GS-0610	Community Health Nurse
+NUO	GS-0610	Occupational Health Nurse
+NUM	GS-0610	Nurse Midwife
+NUA	GS-0610	Nurse Anesthesiologist
+NUE	GS-0610	Nurse Educator
+NUY	GS-0610	Psychiatric Nurse
+NUR	GS-0610	Operating Room Nurse
+NUL	GS-0610	Nurse Clinician
+LPN	GS-0620	Licensed Practical Nurse
+NAT	GS-0621	Nurse Assistant
+MST	GS-0622	Medical Supply Technician
+NUT	 GS-0630	Nutritionist/Dietitian
+OTH	GS-0631	Occupational Therapist
+PTH	GS-0633	Physical Therapist
+PTA	GS-0636	Physical Therapist Technician/Assistant
+REC	GS-0638	Recreation Therapist
+HLT	GS-0640	Health Technician
+NMT	GS-0642	Nuclear Medicine Technician
+MET	GS-0644	Medical Technologist
+MTN	GS-0645	Medical Technician
+PTN	GS-0646	Pathology Technician
+DRT	GS-0647	Diagnostic Radiology Technician
+MIT	GS-0649	Medical Instruments Technician
+RTN	GS-0651	Respiratory Therapy
+PHM	GS-0660	Pharmacist
+PHT	GS-0661	Pharmacy Technician
+OPT	GS-0662	Optometrist
+AUD	GS-0665	Audiologist
+POD	GS-0668	Podiatrist
+MRA	GS-0669	Medical Records Administrator
+HAS	GS-0670	Health System Administrator
+HSS	GS-0671	Health System Specialist
+HHK	GS-0673	Hospital Housekeeper
+MRT	GS-0675	Medical Records Technician
+MRN	GS-0679	Medical Records Assistant
+DOF	GS-0680	Dental Officer
+DAT	GS-0681	Dental Assistant
+DHG	GS-0682	Dental Hygienist
+DLT	GS-0683	Dental Laboratory Technician
+PHV	GS-0685	Public Health Advisor
+PHA	GS-0685	Public Health Analyst/Policy
+SAN	GS-0688	Sanitarian
+IHY	GS-0690	Industrial Hygienist
+CSO	GS-0696	Consumer Safety Officer
+EHL	GS-0698	Environmental Health
+VET	GS-0701	Veterinarian
+AHT	GS-0704	Animal Health Technician
+ENG	GS-0801	General Engineer
+EGT	GS-0802	Engineering Technician
+ENS	GS-0803	Safety Engineer
+ENF	GS-0804	Fire Protection Engineer
+ENE	GS-0806	Materials Engineer
+ENL	GS-0807	Landscape Architect
+ART	GS-0808	Architect
+CON	GS-0809	Construction Inspector
+ENC	GS-0810	Civil Engineer
+DFT	GS-0818	Draftsman
+ENV	GS-0819	Environmental Engineer
+ENM	GS-0830	Mechanical Engineer
+ELN	GS-0850	Electrical Engineer
+ENP	GS-0854	Computer Engineer
+ENR	GS-0855	Electronics Engineer
+ENT	GS-0856	Engineering Technician
+ENB	GS-0858	Bio-Medical Engineer
+ENN	GS-0880	Mining Engineer
+ENU	GS-0881	Petroleum Engineer
+ENA	GS-0890	Agricultural Engineer
+ENH	GS-0893	Chemical Engineer
+ENI	GS-0896	Industrial Engineer
+LGG	GS-0901	General Legal
+LCK	GS-0904	Law Clerk
+ATT	GS-0905	General Attorney
+ALJ	GS-0935	Administrative Law Judge
+PLS	GS-0950	Paralegal Analyst or Specialist
+CNR	GS-0962	Contact Representative
+LIE	GS-0963	Legal Instruments Examiner
+PSP	GS-0967	Passport Specialist
+LGA	GS-0986	Legal Assistant
+CLK	GS-0998	Claims Clerk
+IDS	GS-1008	Interior Design
+EXS	GS-1010	Exhibition Specialist
+CUR	GS-1015	Curator
+ILL	GS-1020	Illustrator
+PAS	GS-1035	Public Affairs Specialist
+LAN	GS-1040	Language Specialist
+LAT	GS-1046	Language Technician
+PHO	GS-1060	Photographer
+AVS	GS-1071	Audio-Visual Specialist
+WED	GS-1082	Writer-Editor
+TWE	GS-1083	Technical Writer-Editor
+VIS	GS-1084	Visual Information Specialist
+EDA	GS-1087	Editorial Assistant or Technician
+CTS	GS-1102	Contracts Specialist
+IPM	GS-1103	Industrial Property Manager
+PDS	GS-1104	Property Disposal Specialist
+PUA	GS-1105	Purchasing Agent
+CTA	GS-1106	Contract Assistant or Technician
+GMS	GS-1109	Grants Management Specialist
+PDC	GS-1152	Production Control
+FNA	GS-1160	Financial Analyst
+RLS	GS-1170	Realty Specialist
+HMA	GS-1173	Hospital Material Assistant
+BUM	GS-1176	Building Manager
+PAT	GS-1221	Patent Advisor
+HPY	GS-1306	Health Physicist
+PHY	GS-1310	Physicist
+PST	GS-1311	Physical Science Technician
+CEM	GS-1320	Chemist
+GEO	GS-1350	Geologist
+CTT	GS-1371	Cartographer Technician
+FTN	GS-1382	Food Technologist
+LIB	GS-1410	Librarian
+LTH	GS-1411	Library Technician
+TIS	GS-1412	Technical Information Specialist
+ARC	GS-1420	Archivist
+ATY	GS-1510	Actuary
+ORA	GS-1515	Operations Research Analyst
+MTH	GS-1520	Mathematician
+MSC	GS-1529	Mathematical Statistician
+STT	GS-1530	Statistician
+STA	GS-1531	Statistical Assistant or Technician
+CSC	GS-1550	Computer Scientist
+DST	GS-1560	Data Scientist
+FOS	GS-1640	Facilities Operations Specialist
+PRS	GS-1654	Printing Specialist
+EQS	GS-1654	Equipment Specialist
+FDS	GS-1667	Food Service
+EQV	GS-1670	Equipment Services
+EDT	GS-1702	Education Technician
+EDS	GS-1710	Education Specialist
+TNS	GS-1712	Training Specialist
+EDP	GS-1720	Education Programs
+PHE	GS-1725	Public Health Educator
+EDR	GS-1730	Education Research
+ISS	GS-1750	Instructional System Specialist
+IVA	GS-1802	Investigating Assistant
+IVN	GS-1805	Investigative Analyst
+INV	GS-1810	General Investigator
+CIV	GS-1811	Criminal Investigator
+CSI	GS-1862	Consumer Safety Inspector
+QAS	GS-1910	Quality Assurance Specialist
+SUS	GS-2001	General Supply Specialist
+SPG	GS-2003	Supply Program
+SUA	GS-2005	Supply Assistant or Technician
+IMS	GS-2010	Inventory Management Specialist
+DFS	GS-2030	Distribution Facilities Specialist
+TSP	GS-2101	Transportation Specialist
+ TCK	GS-2102	Transportation Clerk
+TMG	GS-2130	Traffic Management
+FRS	GS-2131	Freight Rate Specialist
+TOP	GS-2150	Traffic Operations
+MVD	GS-2151	Motor Vehicle Dispatching
+ITZ	GS-2210	Information Technology Specialist
+ITA	GS-2210	Information Technology Specialist (Systems Analyst)
+ITP	GS-2210	Information Technology Specialist (Policy and Planning)
+ITD	GS-2210	Information Technology Specialist (Data Management)
+ITB	GS-2210	Information Technology Specialist (Systems Analysis & Data Management)
+ITG	GS-2210	Information Technology Specialist (Programmer)
+ITS	GS-2210	Information Technology Specialist (Security)
+ITI 	GS-2210	Information Technology Specialist (Internet)
+ITE	GS-2210	Information Technology Specialist (Enterprise Architect)
+ITC	GS-2210	Information Technology Specialist (Customer Service)
+ITO	GS-2210	Information Technology Specialist (Operations Systems)
+ITJ	GS-2210	Information Technology Specialist (Project Management)
+ITN	GS-2210	Information Technology Specialist (Network Services)
+ITW	GS-2210	Information Technology Specialist (Application Software)
+ITY	GS-2210	Information Technology Specialist (Systems Administration)
+CLCs for HHS Wage Grade (WG) Positions
+CLC	Position Series	Position Title
+TPH	WG-2502	Telephone Mechanic
+EMC	WG-2504	Electrical Mechanic
+EIM	WG-2606	Electronic Industrial Contractor
+ELT	WG-2805	Electrician
+HVE	WG-2810	High Voltage Electrician
+EER	WG-2854	Electrical Equipment Repair
+FAB	WG-3105	Fabric Worker
+INM	WG-3314	Instrument Maker
+MAC	WG-3414	Machinist
+LST	WG-3501	Laboratory Support
+LAB	WG-3502	Laborer
+LWK	WG-3511	Laboratory Worker
+CUS	WG-3566	Custodial Worker
+SMM	WG-3806	Sheet Metal Mechanic
+SEO	WG-3901	Sound Equipment Operator
+PNT	WG-4102	Painter
+PFR	WG-4204	Pipefitter
+PLB	WG-4206	Plumber
+WWK	WG-4604	Wood Worker
+WCF	WG-4605	Wood Crafter
+CPN	WG-4607	Carpenter
+MNS	WG-4701	Maintenance Scheduler
+MMK	WG-4714	Model Maker
+USM	WG-4742	Utility Systems Repairer/Mechanic
+MWK	WG-4749	Maintenance Worker
+ LOC	WG-4804	Locksmith
+MPR	WG-4805	Mechanical Equip Repair
+GDN	WG-5003	Gardner
+ANC	WG-5048	Animal Caretaker
+MMC	WG-5201	Miner Mechanic
+ACM	WG-5306	Air Condition Equip Repair
+BPR	WG-5309	Boiler Plant Equip Mechanic
+ELV	WG-5313	Elevator Mechanic
+IEM	WG- 5352	Industrial Equipment Mechanic
+DSM	WG-5364	Door Systems Mechanic
+PPD	WG-5401	Paper Disintegrator
+BPO	WG-5402	Boiler Plant Operator
+USO	WG-5406	Utility Systems Operator
+WTO	WG-5408	Wastewater Treatment Plant Operator
+MVO	WG-5703	Motor Vehicle Operator
+TRO	WG-5705	Tractor Operator
+ ETE	WG-5716	Engineering Equipment Operator
+HMO	WG-5803	Heavy Mobile Equipment Mechanic
+ATM	WG-5823	Automotive Mechanic
+SCT	WG-6901	Sample Custodian
+TPA	WG-6904	Tools and Parts Attendant
+MHD	WG-6907	Materials Handler
+MEI	WG-6912	Materials Examining/Identifying
+LNW	WG-7304	Laundry Worker
+COK	WG-7404	Cook
+FSW	WG-7408	Food Service Worker

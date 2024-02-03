@@ -1,0 +1,79 @@
+550-3-00	PURPOSE 
+This Instruction promulgates Department of Health and Human Services (HHS) policy on Compensatory Time Off for Travel (CTT) earned by employees for time spent in a travel status away from an employee’s official duty station when such time is not otherwise compensable.
+
+ 550-3-10	COVERAGE AND EXCLUSIONS
+A.	Coverage
+The provisions of this Instruction apply to all employees (without regard to whether the employee is exempt from or covered by the overtime pay provisions of the Fair Labor Standards Act (FLSA) of 1938, as amended) who are not otherwise excluded in 5 CFR 550.101(a).   This also includes employees in senior-level (SL), scientific or professional (ST) positions and employees appointed under Title 42 authority. 
+B.	Exclusions
+Members of the Senior Executive Service (SES), physicians, dentists, and other similarly situated employees are excluded. Intermittent employees are not eligible to earn and use compensatory time off for travel because they do not have a scheduled tour of duty for leave purposes.  
+
+Note:  When provisions of a negotiated labor management agreement differ from the procedures in this policy, the agreement takes precedence for those employees covered by it.  
+
+550-3-20	REFERENCES
+A.	5 USC § 5550b (Compensatory Time Off for Travel)
+B.	5 CFR 550, Subpart N (Compensatory Time Off for Travel)
+C.	5 CFR 530, Subpart B (Aggregate Limitation on Pay)
+D.	HHS Instruction 590-1, Physicians and Dentist Pay (Title 38)
+E.         HHS Guide for Timekeeping Handbook
+
+550-3-30	DEFINITIONS
+A.	Compensable – Periods of time creditable as hours of work for the purpose of determining a specific pay entitlement.
+B.	Creditable Travel – Travel for work purposes that is officially authorized and approved by an organization’s designated approving official.   
+C.	Approving Official – Operating Division (OPDIV) or designee; for example, an official authorized to sign Travel Authorizations (TAs).
+D.	Official Duty Station (ODS) – The city, town, county, and state in which an employee works or the location of an employee’s worksite. The mileage radius is 50 miles to determine whether an employee’s travel is within or outside the limits of the employee’s official duty station for determining compensable travel time (overtime pay) for HHS employees.  
+E.	Temporary duty station – A place where work is performed or place of abode while on temporary duty (TDY travel), such as a conference or meeting site, assigned worksite, office or hospital).  A temporary duty station, which is within a 50-mile radius of an employee’s permanent duty station is within the limits of an employee’s official duty station for overtime pay for travel purposes.
+F.	Usual Waiting Time -  Up to two (2) hours prior to a domestic flight, up to three (3) hours prior to an international flight or 30 minutes prior to travel using other modes of transportation (bus, train, etc.).  Note:  Supervisors may adjust the foregoing times in unusual circumstances, (e.g., cancelled flights that require waiting in line to make alternate arrangements may be creditable as CTT for the extended waiting time).    
+
+550-3-40	RESPONSIBILITIES
+A.		Operating Division heads or designees are responsible for: 
+1.	Ensuring travel is authorized and approved by an authorized management official.
+2.	Determining the method(s) of travel and transportation most advantageous to the Government, considering cost and other relevant factors.  
+3.	Ensuring travel is arranged so that the need for CTT is eliminated or minimized. However, if travel must be scheduled where an employee might be eligible for CTT the travel orders must reflect such eligibility.   
+4.	Crediting CTT to eligible employees in accordance with this Instruction. CTT may not be advanced.
+5.	Approving requests to use CTT in increments of one quarter hour (15 minutes).
+6.	Ensuring CTT is properly approved, recorded, and documented separately from other forms of compensatory travel time, through the appropriate automated time and attendance system (e.g. Integrated Time and Attendance System (ITAS)) or manual process (See HHS Timekeeping Handbook).
+7.	Establishing procedures to ensure that employees are notified in writing at least annually of the requirement to use all accrued CTT by the end of the 26th pay period after the pay period in which it was credited (not earned).   Employees are likewise responsible for requesting supervisory approval to use CTT.
+8.	Ensuring that unused CTT is held in abeyance for an employee who separates, or is placed in a leave without pay status (LWOP), and returns following:  (1) Separation or LWOP to perform service in the uniformed services; (2) Return to service through the exercise of reemployment rights; or (3) Separation or LWOP due to an on-the-job injury.  Accordingly, the employee must be advised (upon return), in writing of the requirement to use all CTT by the end of the 26th pay period following the pay period in which he or she returns, or forfeit the CTT.
+9.	 Approving exceptions to the requirements of this Instruction.
+B.	    Employees are responsible for:
+1.	Submitting appropriate written documentation requesting CTT within 5 work-days after  completing the travel and return to the official duty station as authorized on his/her Travel Authorization (TA) (See sample at Exhibit A).   Requests for exceptions to the 5 work-day deadline must be approved by the OPDIV head or designee.
+2.	Providing written documentation supporting his/her eligibility for CTT, if CTT is not initially authorized and travel plans change to the extent that he/she becomes eligible.  
+3.	Requesting that earned CTT be credited at the same time other travel related claims are submitted (normally 5 days after completion of travel; however local negotiated procedures may allow longer, e.g. 14 days).  
+4.	Requesting permission from his/her supervisor to schedule the use of his/her accrued CTT in advance the same way other leave is scheduled;
+5.	Scheduling and using all accrued CTT within 26 pay periods after it is credited (not earned)
+C.   	Timekeepers are responsible for:
+1.	Understanding the difference between the rules, regulations and record-keeping procedures for documenting usage of CTT versus compensable travel time under other legal authorities; and
+2.	Maintaining pertinent CTT documentation for six (6) years after CTT is credited.
+
+550-3-50	POLICY
+A.	Creditable Travel Time.  Employees must be credited with CTT status if the employee is required to travel away from the official duty station and the travel time is not otherwise compensable hours of work under other legal authority.
+B.	Travel Status
+1.	Time in a travel status includes time an employee actually spends traveling between the official duty station and a temporary duty station or between two temporary duty stations and the “usual” waiting time that precedes or interrupts such travel.  There may be other circumstances in which travel time is compensable which should be examined and approved on a case basis by the appropriate OPDIV or designee. 
+2.	Travel between home and a temporary duty station outside the limits of the employee’s official duty station is creditable as time in a travel status.  However, the normal home-to-work or work-to-home commuting time must be deducted from the creditable travel hours.
+3.	In situations where employees are permitted to use an alternate mode of transportation other than the mode of transportation offered, or travel at a time or route other that the time or route selected by their organization, the lesser of the estimated time in a travel status or the actual time in a travel status must be credited.          
+4.	For employees who are on multiple-day travel assignments who choose not to use temporary lodging at the temporary duty station and return home at night or on a weekend, only the travel from home to the temporary duty station on the first day and travel from the temporary duty station to home on the last day is qualifying as time in a travel status subject to the deduction of normal commuting time, unless an exception is approved by an authorized designated official.
+However, employees may receive credit for travel to and from home on other days if the authorizing official in his or her discretion, determines that there is a net savings to the Government from reduced lodging costs considering the value of lost labor time attributable to CTT.   
+5.	Travel time between home and a transportation terminal (e.g., airport or train station, etc.) outside the limits of an employee’s official duty station and outside his/her regular working hours is creditable as time in a travel status subject to a deduction for the time an employee would have spent in a normal home-to-work or work-to-home commute.
+6.	The following scenarios are not creditable as time in a travel status:
+a)	Time spent at a temporary duty station between arrival and departure; 
+b)	 “Unusual” or extended waiting time between actual periods of travel when an employee is free to rest, sleep, eat, or otherwise use the time for his or her own purposes;  
+c)	Travel between home and a transportation terminal (e.g., airport or train station, etc.) within the limits of an employee’s official duty station and outside the employee’s regular working hours to or from the terminal is considered to be commuting time;  and
+d)	Travel in conjunction with the performance of union representational duties.
+C.	Limitation.  There is no limit on the number of hours an employee may accrue as CTT.
+
+550-3-60	PROHIBITIONS
+A.		Employees must not receive payment under any circumstances for any unused CTT earned under the provisions of this Instruction.  This prohibition includes payments to surviving beneficiaries in the event of an employee’s death.
+B.		Accrued CTT under this Instruction must not be considered in applying premium pay limitations or the established aggregate limitations on pay.  
+C.		Permanent Change of Station (PCS) travel is not considered time in a travel status for the purpose of earning CTT.
+D.		OPDIVs may not restore an employee’s forfeited “use or lose” annual leave as a result of an employee’s decision to use his or her CTT in lieu of his or her annual leave.
+E.		Criminal investigators who are receiving availability pay for the same period of time as would be credited under CTT may not also earn CTT.
+F.		Employees who receive administratively uncontrollable overtime (AUO) pay for the same period of time as would be credited under CTT may not also earn CTT.
+550-3-70	FORFEITURE OF UNUSED CTT
+A.		When an employee voluntarily transfers to another agency including a promotion or change to lower grade action all unused CTT must be forfeited.
+B.		When an employee separates from Federal Service all unused CTT must be forfeited, except in the following circumstances:
+1.	An employee separates and returns to service with HHS after completing an obligation to serve in the uniformed services;
+2.	An employee returns to work after an on-the-job injury with entitlement to compensation through the Workers Compensation Program; or
+3.	An employee fails to use his/her accrued CTT before the end of the 26th pay period during which it was earned due to an exigency of the service beyond the employee’s control.  
+4.	However, an employee must use all of the CTT accrued by the end of the 26th pay period following the pay period in which he/she returns to duty, or the CTT will be forfeited.
+C.	When an employee moves from a covered Federal position to a position not covered by this Instruction (see Section 550-3-10 of this Instruction), he or she forfeits all unused CTT.  
+D.		Exceptions.  When a covered HHS employee moves to another covered position at another HHS organization, all unused CTT is transferred to the employee for use at the new or gaining organization.

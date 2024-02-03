@@ -1,0 +1,257 @@
+532-1-00 	PURPOSE 
+
+This Instruction promulgates the Department of Health and Human Services (HHS) pay setting policy for employees covered by the Federal Wage System (FWS).  The FWS is a uniform pay-setting system applicable to Federal appropriated and non-appropriated fund blue-collar or wage grade employees paid by the hour.   
+
+The FWS establishes pay rates for employees whose pay is fixed and adjusted periodically in accordance with the prevailing wage rates in local wage areas.  This pay system covers Federal trades, crafts, laborers, and other blue-collar or wage grade jobs. 
+
+The Department is responsible for ensuring prevailing rates of pay, established during the wage survey process, are applied to prevailing rate employees in accordance with this Instruction and OPM requirements.  Prevailing rates of pay will be established for each wage area in which the Department has employees.  In accordance with existing statute, the wage survey process must involve the participation of labor organizations representing prevailing rate employees.
+
+532-1-10 	REFERENCES
+
+A.	5 USC Chapter 53, Subchapter IV (Law - Pay Rates and Systems)
+B.	5 USC Chapter 55, Subchapter V (Premium Pay)
+C.	5 CFR Part 315, Subpart I (Regulations - Probation on Initial Appointment to a Supervisory or Managerial Position)
+D.	5 CFR Part 532 (Regulations - Prevailing Rate Systems)
+E.	5 CFR Part 536 (Regulations - Grade and Pay Retention)
+F.	5 CFR Part 550 (Regulations – Pay Administration)
+G.	5 CFR Part 551 (Pay Administration under the Fair Labor Standards Act)
+H.	HHS Instruction 430-1 (Performance Management and Appraisal Program)
+I.	HHS Collective Bargaining Agreements
+J.	Operating Manual - Federal Wage System 
+
+532-1-20	DEFINITIONS
+
+A.	Highest Previous Rate (HPR).  The highest rate of basic pay previously received by a person employed in a civilian position in any part of the Federal Government.  This includes service with the government of the District of Columbia for employees first employed by that government before October 1, 1987. 
+
+B.	Local Wage Areas.  Specific geographic areas and/or industries surveyed during the wage surveys process.
+
+C.	Pay Plans.  WG = wage grade; WL = wage leader; WS = wage supervisor; WT = worker trainee.
+
+D.	Prevailing Rates of Pay.  Pay rates that are comparable to prevailing levels of pay for comparable levels of work in the private sector within a local wage area.
+
+E.	Representative Rates.  Used to compare grades that are under different pay systems after applying any applicable geographic conversion.  For FWS positions, it is the highest rate of basic pay that applies to the second step of the grade. 
+
+F.	Special Pay Rates. OPM-approved supplements to regular pay rates used to address recruitment or retention issues due to higher non-federal pay rates, geographic remoteness of the area where jobs are locate, or undesirable working conditions. 
+
+G.	Wage Survey Process.  A market-based survey conducted by the Department of Defense to set rates of pay on each regular FWS wage schedule with the advice of a labor-management wage committee. 
+
+532-1-30 	COVERAGE AND EXCLUSIONS
+
+A.	Coverage.  This Instruction covers HHS FWS employees.  It also covers FWS pay-setting matters that address both regulatory and discretionary requirements.
+
+B.	Exclusions.  This instruction does not cover the wage survey process or the FWS job grading system.  The survey process is sufficiently covered in OPM regulation and guidance.  The  job grading system is covered in OPM’s Job Grading System.
+
+532-1-40	RESPONSIBILITIES
+
+Operating Human Resource Organizations (OHROs) are responsible for:
+
+A.		Setting pay for newly appointed employees and for employees who are reemployed, reassigned, transferred, promoted, or changed to a lower grade;  
+
+B.		Making new or revised wage schedules effective on the date specified on the schedule for all covered employees within the local wage area; 
+
+C.		Paying Environmental Differential Pay (EDP) to FWS employees; and
+
+D.		Establishing FWS apprentice schedules to cover FWS Worker Trainees. 
+
+532-1-50	FWS PAY-SETTING
+
+A.	New Appointments.  Except as provided in 532-1-50 (B) and (C) below, a new appointment shall be made at the minimum rate of the grade.
+
+B.	Appointments Above the Minimum Rate.
+1.	Operating Human Resource Organizations (OHROs) may make new appointments at a rate above the minimum rate of the appropriate grade in recognition of special qualifications, exceptional skills or qualifications, or highly specialized expertise in a particular trade or craft critical to mission accomplishment.  When an applicant is appointed to a step higher than the minimum, the merit promotion files and the remarks on the Notification of Personnel Action, Standard Form 50, should document the basis for the higher step.
+2.	Appointments above minimum rates for jobs in specific hard-to-fill occupations.  The lead  agency (The Department of Defense) for a local wage area may authorize use of any scheduled rate above the minimum rate as the appointment rate for one or more grades of an occupation at one or more locations within a wage area based upon the following: 
+a.	The hiring prevailing rate for a particular occupation and grade in the private sector in a specific location is higher than the minimum rate for the comparable grade on the local Federal wage schedule; and 
+b.	Local Federal installations and activities cannot recruit qualified employees at that minimum rate.
+C.		Use of Highest Previous Rate (HPR). When an employee is reemployed, reassigned, transferred, promoted, or changed to a lower grade, the OHRO may set pay at any rate of the new grade that does not exceed the employee’s highest previous rate.  However, if the rate of pay falls between two step-rates of the new grade, the OHRO will set pay at the higher of the two.
+
+1.	The rate or step selected for the employee should be comparable to the rate and step employees receive in the same or similar jobs with similar qualifications.  The OHRO, after consultation with the hiring manager, will set the rate of pay at any rate between the minimum step of the position and the HPR.
+2.	When an employee is demoted at his or her request, with the prospect of repromotion back to the former grade as soon as possible under merit promotion rules, the HR Specialist, in consultation with the OPDIV hiring manager, will select a rate in the lower grade which upon promotion will place the employee in a rate of the higher grade which he/she would have attained if he/she had remained at that grade. 
+3.	The HPR remains available for use in subsequent promotions or movement of the employee to another position, unless the restriction in 532-1-50(C) (4) below applies.
+4.	The HPR will not be used when an employee's most recent performance rating of record is less than fully successful or the equivalent.  If a current performance rating is not available from the employee’s most recently employed agency, a presumed fully successful rating shall be applicable.  
+5.	Documentation of Intended Use of the HPR.  Acceptable HPR documentation is an SF 50 or a similar document, or the employee’s official earnings and leave statement.  When an OHRO intends to use the HPR but does not have sufficient proof of an applicant's or an employee’s previous rate of pay, it cannot grant the HPR until it receives the necessary documentation.  The following steps will be taken:
+a.	The employee's pay will be set at the lowest step or another appropriate step in the grade until documentation is received. 
+b.	Pending receipt of the documentation, the OHRO must annotate the intent to use the HPR  in the remarks section of  the SF 50. 
+c.	Upon receipt of confirmation of the HPR, the employee's pay will be adjusted retroactively to the date of appointment. 
+D.	Promotion.  A promoted employee is entitled to be paid at the lowest scheduled rate of pay which exceeds the employee’s existing rate of pay by at least four (4) percent of the representative rate (i.e. normally step two of a five step regular wage schedule) of the grade from which s(he) was promoted. If there is no rate in grade to which the employee is promoted which meets this entitlement, the employee is entitled to: 
+1.	The existing rate of pay; or
+2.	The maximum scheduled rate of the grade s(he) was promoted to, whichever is higher. 
+
+E.	Promotion to a Position in a Different Wage Area.  The employee's pay entitlement shall be determined as if there were two pay actions; a promotion and a reassignment.  The actions shall be processed in the order which gives the employee the maximum benefit.
+
+F.	Temporary Promotion.  Rates of pay earned for more than one year under a temporary promotion are highest previous rates.  Upon return to a lower grade immediately following a temporary promotion, the employee’s existing rate of pay is the rate used to set pay provided the temporary promotion grade in which the higher rate was earned was held for more than one year.  When a temporary promotion is made permanent immediately after the temporary promotion ends, the employee is not returned to the lower grade in order to process the permanent promotion.  The employee’s temporary promotion is converted to a permanent promotion without a change in pay.
+
+G.	Details.  An appropriated fund FWS employee detailed to a position other than the position to which appointed shall be paid at the rate of the position to which appointed. 
+
+H.	Simultaneous Actions.  If an employee is entitled to more than one pay change concurrently, the OHRO will process the pay changes in the order which will provide the employee the maximum pay benefit.  If an employee is entitled to both and increase in pay and a personnel or appointment change at the same time, the increased rate of pay is deemed the employee’s existing rate of pay when the personnel or appointment change is processed.
+
+I.	Grade Retention.  Allows an employee to retain the grade of his/her position for pay administration purposes for 2 years after placement in a lower-graded position. 
+
+1.	Employee Eligibility.  The employee is entitled to grade retention if (s)he meets the criteria indicated and has been placed in a lower-graded position for one of the following reasons:
+a.	Reduction in Force (RIF).  An employee must have served for at least 52 consecutive weeks in a permanent appointment in a position under the Federal Wage System at a grade or higher than the position to which the employee is being demoted because of the RIF.  The time served could have been in more than one position and in more than one OPDIV.
+b.	Classification to a lower grade.  When an employee is downgraded to correct a classification error or to implement a new classification standard, (s)he is entitled to grade retention if the position that is being downgraded has been classified at the higher grade for at least 1 continuous year immediately before the action. 
+2.  Termination of Grade Retention.  Grade retention terminates after 2 calendar years.  It also terminates if the employee: 
+a.	Has a break in service of one workday or more;
+b. 	Is demoted for personal cause or at his or her own request from the grade actually occupied;
+c.	Moves to a position under a covered pay system with a grade that is equal to or higher than the retained grade, excluding a temporary promotion;
+d. 	Declines a reasonable offer of a position at or above the retained grade;
+e.	Elects in writing to have grade retention terminated; or
+f. 	Moves to a position not under a covered pay system.
+
+J.	Pay Retention.  Allows an employee to keep his/her former rate of pay when that pay is higher than the maximum rate of the grade in which the employee is placed.  (Note:  ‘Pay retention’ is similar to ‘saved rate’ which was applicable to the Federal Wage System prior to the Civil Service Reform Act of 1978).
+
+1.   Employee Eligibility.   Pay retention must be provided to an employee in a position under a covered pay system whose payable rate of basic pay otherwise would be reduced as a result of:
+a.   The expiration of the 2-year grade retention period;
+b.   A RIF or reclassification that places the employee in a lower-graded position when the employee does not meet grade retention eligibility requirements;
+c.   A management action that places an employee in a government-wide training program, such as upward mobility, apprenticeship, or career intern;
+d.   A reduction or elimination of special rate schedules or a management action that places an employee in a non-special rate or lower-paid special rate position;
+e.   A management action that places an employee in a different (lower) pay schedule; or 
+f.   An entitlement to a payable rate upon promotion that exceeds the top step of the grade to which (s)he is promoted. 
+
+2.	Pay Rate Setting
+a.  Geographic Conversion Rule.  The rule must be applied before determining pay if the employee’s official worksite is covered by a different locality schedule as a result of a pay retention entitlement action.  The employee’s rate of basic pay must be converted to the applicable schedule in the new location before the demotion.
+b.   The employee receives the rate of pay before placement in the lower grade on whichever is higher:
+i.   Locality schedule for the new official worksite; or
+ii.  Special rate schedule that applies to the former position.
+c.  An employee entitled to pay retention is entitled to the lowest rate of basic pay in the employee’s grade after the action is taken which equals or exceeds his or her current rate of basic pay.   If there is no such rate, then the employee retains either his or her current rate of basic pay or 150 percent maximum rate of basic pay for the employee’s grade after the action is taken, whichever is less.
+3.    Pay Increases While on Pay Retention.  An employee receiving pay retention is entitled to 50% of any change in the maximum rate for the employee’s position of record.  This change may occur as a result of adjustments to nationwide, locality, or special salary rate schedules. 
+4.	Termination of Pay Retention. Pay retention terminates when an employee: 
+a.	Has a break in service of one work day or more;
+b.	Is demoted for personal cause or at his or her own request;
+c.	Becomes entitled to a rate of basic pay which is equal to or greater than the retained rate;
+d.	Declines a reasonable offer to a position with a rate equal to or greater than the retained rate; or
+e.	Moves to a position not under a covered pay system.
+
+K.	Pay Setting upon Removal from Position during Probation
+1.    A supervisor or manager who fails to successfully complete the required supervisory/managerial probationary period will be placed in a position of no lower grade step than the job (s)he left to accept the supervisory or managerial position.
+2.  A nonsupervisory or non-managerial employee who is demoted into a position in which a probationary period is required, and who, for reasons of managerial/supervisory performance, does not complete the probationary period is entitled to be reassigned to a position at the same grade and pay as the position in which he/she was serving during the probationary period. 
+
+L.	Change to Lower Grade. An employee is paid as follows when reduced in grade:
+
+1.	Change to Lower Grade at an Employee’s Request.  When an employee initiates a request, the employee’s pay will be determined by placing his/her HPR in the lower grade.  If the HPR falls between two steps, the employee’s maximum payable rate is set at the lower step.  
+
+2.	Change to Lower Grade When Beneficial to the Department. 
+a.	When an employee is placed in a lower-graded position because of a management action such as reduction in force or reclassification, the employee’s pay will be set by placing his/her maximum payable rate in the lower grade.  If the maximum payable rate falls between two steps, the employee’s rate is set at the higher step.  The employee may be eligible for grade and/or pay retention upon meeting specific eligibility requirements enumerated in 532-1-50 I. and J.
+b.	The pay setting action must be documented in writing, demonstrating a benefit to the Government by reflecting management's need for the employee's knowledge and skills and the avoidance of costs associated with recruitment, reduction in force, training, etc.  When the higher grade from which the employee is being changed to lower grade is covered by special salary rates, the higher graded position must also be within HHS and the appointing authorities covering both positions must agree that the lower graded assignment is in the best interest of the Government.
+3.	Change to Lower Grade to Enter a Developmental Position.  When an employee requests a change to a lower grade to accept a position which is less than the top of a career ladder, the highest rate that may be used in setting the employee’s salary is the rate in the lower grade which, upon repromotion, will place the employee at the rate of pay he/she would have attained if the employee had remained in the higher grade, unless the employee is covered by grade and/or pay retention.  This includes any step increases the employee would have received if he/she had remained at the higher grade during the period of time used to qualify for repromotion.  For example, if an employee would have received step 3 of the former grade during that period, the rate of pay at step 3 is used in determining the employee’s pay at the lower grade.
+4.   Change to Lower Grade for Personal Cause.  Employees changed to lower grades for personal cause shall not have their pay set in accordance with the HPR.  When an employee is changed to a lower grade for personal cause (e.g., inefficiency, less than fully successful performance, misconduct, etc.), his/her pay will be reduced the equivalent of at least two within-grade increases of the higher grade from which reduced.  If the two-step equivalent computation (based on an hourly rate) falls between two steps of the lower grade, the lower step rate must be used. Management may set the employee's pay as low as the first step of the grade to which the employee is demoted.  However, when an employee's pay, using the above computation, falls above step 5 of the lower grade, the rate of pay will be set at step 5.  An employee who is reduced in grade for personal cause is not eligible for grade or pay retention.  However, in situations where an employee is unable to perform the duties of the position assigned due to a physical or medical condition beyond the employee’s control, the reduction in grade is not considered for personal cause.  
+
+532-1-60	WITHIN-GRADE INCREASES (WGIs)
+
+A.	Entitlement.  A FWS employee will be automatically advanced to the next higher within-grade step (following completion of the required period of creditable service) provided the employee has a work performance rating of satisfactory or better and has not received an equivalent increase in pay during his or her waiting period.  
+
+B. 	However, consistent with the HHS performance management regulations and collective bargaining agreements, supervisors and managers should consult with OHROs as soon as an employee’s performance falls below the satisfactory level to determine the appropriate course of action. 
+
+C.  	Within-grade increases—waiting periods.
+
+1.	Nonsupervisory and leader employees. 
+a.   For a full-time nonsupervisory or leader employee, and for a part-time nonsupervisory or  leader employee with a prearranged regularly scheduled tour of duty, the waiting periods for advancement to the second, third, fourth, and fifth rates in all grades are:
+i.	Rate 2 – 26 calendar weeks of creditable service in rate 1.
+ii.	Rate 3 – 78 calendar weeks of creditable service in rate 2.
+iii.	Rates 4 and 5 – 104 weeks of creditable service in each of steps 3 and 4.
+b. 	For a part-time nonsupervisory or leader employee without a prearranged regularly scheduled tour of duty, the waiting period for advancement to the second, third, fourth, and fifth rates in all grades are: 
+i.	Rate 2 – 130 days of creditable service in a pay status in rate 1 over a period of no less than 26 calendar weeks.
+ii.	Rate 3 – 390 days of creditable service in a pay status in rate 2 over a period of no less than 78 calendar weeks. 
+iii.	Rate 4 – 520 days of creditable service in a pay status in rate 3 over a period of no less than 104 weeks.
+iv.	Rate 5 – 520 days of creditable service in a pay status in rate 4 over a period of no less than 104 weeks.
+Any day on which a part-time service is performed constitutes a full day. 
+2.   Supervisory employees. 
+a.	For a full-time supervisory employee, and for a part-time supervisory employee with a prearranged regularly scheduled tour of duty, the waiting periods for advancement to the second, third, fourth, and fifth rates in all grades are: 
+i.	Rate 2 – 26 weeks of creditable service in rate 1; 
+ii.	Rate 3 – 78 weeks of creditable service in rate 2; 
+iii.	Rate 4 – 104 weeks of creditable service in rate 3; and 
+iv.	Rate 5 – 104 weeks of creditable service in rate 4.
+b.  For a part-time supervisory employee without a prearranged regularly scheduled tour of duty, the waiting period for advancement to the second, third, fourth, and fifth rates in all grades are:
+i.	Rate 2 – 130 days of creditable service in a pay status in rate 1 over a period of no less than 26 calendar weeks; 
+ii.	Rate 3 – 390 days of creditable service in a pay status in rate 2 over a period of no less than 78 calendar weeks; 
+iii.	Rate 4 – 520 days of creditable service in a pay status in rate 3 over a period of no less than 104 calendar weeks; 
+iv.	Rate 5 – 520 days of creditable service in a pay status in rate 4 over a period of no less than 104 calendar weeks.
+Any day on which a part-time service is performed constitutes a full day. 
+
+3.	Start of waiting period.  A waiting period starts: 
+a.	At the beginning of a new appointment as an employee of the Federal Government or the government of the District of Columbia; 
+b.	After a nonpay period or a break in service when the non-pay period or break in service exceeds 52 calendar weeks; or 
+c.	Upon receiving an equivalent increase.
+
+NOTE:  For purposes of this section, a calendar week is a period of any 7 calendar days. 
+
+D.  	Effective Date.  A within-grade increase is made effective at the beginning of the first applicable pay period following the date an employee becomes eligible for the increase.
+
+532-1-70	APPLICATION OF WAGE SCHEDULES
+
+A.  	The lead agency shall issue nonsupervisory, leader, and supervisory regular wage schedules for the local wage area, showing the rates of pay for all grades and steps.  The wage schedules shall have a single effective date for all employees in the local wage area.  The Assistant Secretary for Administration and Management (ASAM) shall authorize the application of the wage schedules issued by the lead agency for HHS employees in the local wage areas. 
+
+B.	Delayed Application of a Wage Schedule.  No employee will be required to suffer a hardship because of a delayed application of a pay schedule.  Hence, no retroactive change will be made if the actions taken and payments made during the period of retroactivity are more advantageous to the employee than the rate from the new schedule.  
+
+532-1-80	MOVEMENTS BETWEEN PAY SYSTEMS, WAGE SCHEDULES AND WAGE AREAS
+
+A.	Movements from General Schedule (GS) to FWS. In order to determine the appropriate rate of pay, these steps should followed:
+1.	Convert the annual rate of GS pay to an hourly rate of pay by dividing the annual rate by 2,087.
+2.	Compare the representative rates for GS and FWS grades to determine the appropriate nature of action (i.e., the second rate on a five-rate regular wage schedule, the fourth rate on the General Schedule).
+3.	Set pay at the maximum payable rate of the grade in which placed as appropriate.
+
+B.	Movement from GS to FWS in a non-foreign overseas area (i.e., travel to or within Alaska or Hawaii).  Any non-foreign area differential or cost-of-living allowance an employee is receiving in the General Schedule job is added to his/her scheduled rate of pay for establishing the rate of pay in the FWS position.  The non-foreign area differential or cost-of-living allowance is not added to the representative rate when determining the nature of the action.
+
+532-1-90	ENVIRONMENTAL DIFFERENTIAL PAY (EDP)
+
+OHROs are responsible for paying FWS employees an EDP when the employee is performing assigned duties which expose him/her to an usually severe hazard, physical hardship, or working condition in the following circumstances: 
+
+A.	Hazard which could result in significant injury, illness, or death.
+
+B.	Hardship under circumstances which cause significant physical discomfort or distress; or 
+
+C.	Working condition involving exposure to fumes, dust, or noise which causes significant distress or discomfort.
+
+Efforts to avoid and/or protect employees from such hazards, physical hardships, or working conditions is of utmost priority. EDP is paid only where such exposure is unavoidable.
+
+B.	Authorized environmental differentials for exposure to various degrees of hazards, physical hardships, and working conditions are enumerated in 5 CFR, Part 532, “Appendix A to Subpart E-Schedule of Environmental Differentials Paid for Exposure to Various Degrees of Hazards, Physical Hardships, and Working Conditions of an Unusual Nature”. An employee will not be paid for more than one EDP for a particular period of work. EDP is computed based on the highest EDP rate authorized for the period of entitlement.  The hours covered by EDP shall not exceed the number of hours worked by the employee on the day of exposure except as required by 5 CFR § 532.511(b)(3). 
+
+C.	Relationship to other Pay.  EDP is included as part of an employee’s basic rate of pay and must be used to compute premium pay (e.g. pay for overtime, holiday, or Sunday work) and deductions for retirement and life insurance.  However, it is not part of basic pay for purposes of lump-sum annual leave payments and severance pay nor is the loss of this pay an adverse action. 
+
+532-1-100	PREMIUM PAY
+
+A.	The Fair Labor Standards Act (FLSA) of 1938 (as amended) covers any employee of an agency who is not specifically excluded by another statute and is not FLSA exempt (meaning not covered by the overtime provisions of the FLSA).  Generally, FWS employees are presumed to be FLSA nonexempt (meaning covered by the overtime provisions of the FLSA) unless management proves otherwise.”   See 5 C.F.R. 551.202(a).  The section on Premium Pay addresses HHS policy as it relates to FLSA non-exempt employees, unless otherwise stated.
+
+B.	Overtime Pay.  FWS non-exempt employees are entitled to be paid for authorized and approved overtime worked in excess of 8 hours in a day or in excess of 40 hours in an administrative week, whichever results in the greater number of overtime hours including irregular and occasional overtime work and regular overtime work. 
+
+1.	Nonsupervisory FWS Employees.  A nonsupervisory FWS employee is presumed to be nonexempt under the Fair Labor Standards Act of 1938 (FLSA) and shall be paid for overtime work performed at the rate of 1.5 times the employee’s normal wage rate.  A nonsupervisory FWS employee is considered exempt if (s)he is performing temporary work or duties that meet FLSA exemption criteria.
+2.	Supervisory FWS Employees.  A supervisory FWS employee is presumed to be non-exempt under the FLSA and shall be paid for overtime work performed at the rate of 1.5 times the employee’s normal wage rate.  A supervisory FWS employee is considered exempt if the employee meets the FLSA executive, administrative, or foreign exemption criteria, or performs temporary work or duties that meet FLSA exemption criteria.
+3.   Exempt employees may be paid overtime on an hour-for-hour basis (that is 1.0 times the hourly rate). An employer may require an exempt employee to accept compensatory time instead of overtime premium pay.  However, non-exempt employees must be given the choice between 1.5 overtime pay or compensatory time off.
+
+C.  	Compensatory Time Usage. 
+1.  At a non-exempt employee’s request, OPDIVs may grant compensatory time off from an employee’s tour of duty instead of overtime payment, for an equal amount of irregular or occasional authorized and approved overtime.  OPDIVs cannot require non-exempt FWS employees to receive compensation for overtime with an equal amount of compensatory time off from his/her tour of duty. 
+2.	If accrued compensatory time off is not used within 26 pay periods or if employees transfer to another agency or separate from Federal service before the expiration of the 26 pay period time limit, employees must be paid for the earned compensatory time off at the overtime rate in effect when earned.
+
+D.	Night Shift Differentials, Holiday Pay, and Sunday Pay.
+
+1.	Night Shift Differentials.  Employees may be entitled to be paid a night shift differential for the circumstances enumerated below:
+a.	Absence on holidays.  An employee regularly assigned to a shift for which a night shift differential is payable shall be paid the night shift differential for a period of excused absence on a legal holiday or other day off from duty granted by Executive or administrative order.  
+	b.	Travel status.   An employee regularly assigned to a shift for which a night shift differential is payable shall be paid the night shift differential for hours of the employee's tour of duty while in official travel status, regardless of whether the employee is performing work.   
+      c.	Temporary tour of duty.  An employee regularly assigned to a: 
+i.   Night shift who is temporarily assigned to a day shift or to a night shift having a lower night shift differential shall continue to receive the regular night shift differential, a temporary detail for training purposes is also included  (5 CFR 410.602).
+ii.  Night shift, who is temporarily assigned to another night shift having a higher differential, shall be paid the higher differential if a majority of the employee's regularly scheduled non-overtime hours of work on the temporary shift fall within hours having the higher differential.
+ii. Day shift who are temporarily assigned to a night shift shall be paid a night shift differential.
+    
+     d.	Leave with pay.  An employee:
+i.   Regularly assigned to a night shift shall be paid a night shift differential during a period of leave with pay.
+ii. Regularly assigned to a day shift who is temporarily assigned to a night shift shall be paid a night shift differential for any leave with pay taken when scheduled to work night shifts.
+iii. Assigned to regular rotating schedule involving work on both day and night shifts shall be paid a night shift differential only for any leave with pay taken when scheduled to work night shifts.
+iv. Who is not regularly assigned to a day shift or a night shift but whose shift is changed at irregular intervals shall be paid a night shift differential during leave with pay if the employee received a night shift differential for the last shift worked preceding leave with pay.
+  
+2.	Holiday Pay. Employees who are entitled to holiday premium pay and who perform work on a holiday which is not overtime work shall be paid the employee’s rate of basic pay plus premium pay at a rate equal to the rate of basic pay for holiday work that is not in access of 8 hours.
+a.   Employee shall be paid for overtime work performed on a holiday at the same rate as for overtime paid on other workdays.   
+b.   Employees entitled to holiday premium pay and required to report for work on a holiday shall be paid at least two hours of holiday pay whether or not work is actually performed.
+
+3.	Sunday Pay.  An employee whose regular work schedule includes an 8-hour period of service that is not overtime work, a part of which is Sunday, is entitled to additional pay at the rate of 25 percent of his hourly rate of basic pay for each hour of work performed during that 8-hour period of service.  For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
+
+      Full-time employees whose regular tours of duty include Sunday must be paid up to 8-hours of Sunday premium while in a paid leave or excused absence status during that Sunday tour.  (U. S. court of Appeals for the Federal Circuit – Armitage, et. Al. v. United States).
+
+532-1-110	WAGE COMMITTEE
+
+A.	The lead agency would have the responsibility for establishing an agency wage committee for the purpose of considering matters relating to the conduct of wage surveys, the establishment of wage schedules, and making recommendations thereon to the lead agency.
+    
+B.	If the lead agency terminates a wage schedule, the OHRO servicing the OPDIV in which the wage schedule applies shall discuss the termination with the appropriate official or officials of exclusively recognized employee organizations representing employees in the affected occupation.
+    
+532-1-120	DOCUMENTATION AND ACCOUNTABILITY
+
+All regulatory discretionary actions should be documented on the SF-50.  This includes (but is not limited to) appointments above the minimum rate, use of highest previous rate, grade and pay retention and change to lower grade. 
+

@@ -1,0 +1,241 @@
+HHS Instruction 300-2: HHS Shared Certificates Program
+Material Transmitted:
+HHS Instruction 300-2, HHS Shared Certificates Program, dated January 31, 2020.
+
+Material Superseded:
+Memo of Understanding effective 1/28/2016 -Provisional Authorization to Share Merit Staffing Selection Certificates between HRSA, NIH, and WHRSC.
+
+Memo of Understanding effective 7/19/2018 -Provisional Authorization to Share Merit and Direct Hire Staffing Selection Certificates between HRSA, NIH, and WHRSC.
+
+Background:
+This Instruction outlines the policy, requirements, and responsibilities for administering the Department's Shared Certificates Program consistent with federal law, regulations, and the Office of Personnel Management (OPM) guidance.
+
+This issuance is effective immediately and must be carried out in accordance with applicable laws, regulations, bargaining agreements, and Departmental policy.
+
+/s/
+
+J. Blair Duncan
+Deputy Assistant Secretary for Human Resources
+Chief Human Capital Officer
+
+Subject: HHS Shared Certificates Program
+300-2-00 Purpose
+300-2-10 References
+300-2-20 Coverage and Exclusions
+300-2-30 Definitions
+300-2-40 Roles and Responsibilities
+300-2-50 Requirements
+300-2-60 Operational Guidance
+300-2-70 Documentation and Accountability 
+
+ 
+
+300-2-00: Purpose
+This Instruction establishes a Shared Certificates Program within the Department of Health and Human Services (Department or HHS) to expedite hiring by permitting HHS Operating/Staff Divisions (OpDivs/StaftDivs) to share a Certificate of Eligibles across HHS when filling certain vacancies under Merit Promotion Procedures (MPP); Direct-Hire Authority (DHA); or when filling positions via a non-competitive  appointment, specifically transfers from another Federal agency, reinstatement, or reemployed annuitant.  (Sharing certificates under Delegated Examining with other federal agencies, 5 CFR §332.408, is not covered by this Instruction. HHS's program may be expanded in the future.)
+
+When provisions of this policy differ from changes in applicable law or regulation, the changes in law or regulation apply.
+
+300-2-10: References
+A. 5 U.S.C §2301, Merit system principles exit disclaimer icon
+
+B. 5 U.S.C §2302(b), Prohibited personnel practices exit disclaimer icon
+
+C. 5 U.S.C §3304, Competitive service; examinations exit disclaimer icon
+
+D. 5 U.S.C §§3309 through 3318, Examination, Certification, and Appointment exit disclaimer icon
+
+E. 5 U.S.C §3327, Civil service employment information exit disclaimer icon
+
+F. 5 U.S.C §3330, Government-wide list of vacant positions exit disclaimer icon
+
+G. 5 Code of Federal Regulations (CFR) §210.102, Definitions exit disclaimer icon
+
+H. 5 CFR §315, Subpart E, Career or Career-Conditional Employment by Transfer exit disclaimer icon
+
+I. 5 CFR §330.104, Requirements for vacancy announcements exit disclaimer icon
+
+J. 5 CFR §330, Subpart B, Reemployment Priority List (RPL) exit disclaimer icon
+
+K. 5 CFR §330, Subpart F, Agency Career Transition Assistance Plan (CTAP} for Local Surplus and Displaced Employees exit disclaimer icon
+
+L. 5 CFR§330, Subpart G, Interagency Career Transition Assistance Plan (ICTAP) for Displaced Employees exit disclaimer icon
+
+M. 5 CPR §335, Promotion and Internal Placement (Merit Promotion) exit disclaimer icon
+
+N. 5 CPR §337, Subpart B, Direct-Hire Authority 
+
+O. OPM Delegated Examining Operations Handbook - PDF
+
+P. HHS Instruction, 330-2, Career Transition Assistance Plan
+
+300-2-20: Coverage and Exclusions
+A   Coverage
+
+This Instruction covers sharing Certificates of Eligibles issued under Merit Promotion Procedures; government-wide Direct-Hire Authority (DHA) or HHS-specific DHA covering more than one (1) OpDiv/StaftDiv; or when filling positions via a non-competitive appointment, specifically transfers from another Federal agency, reinstatement, or reemployed annuitant to make permanent or term competitive service appointments across HHS.
+
+B.   Exclusions
+
+      1. Certificates of Eligibles issued under Delegated Examining Authority (with the exception of certificates issued to fill positions  via a DHA, as described above);
+
+      2. Certificates of Eligibles issued under Merit Promotion for a vacancy open internally to one (1) OpDiv/StaffDiv;
+
+      3. Certificates of Eligibles issued under an HHS-specific Direct-Hire Authority approved by OPM for only one (1) OpDiv/StaftDiv;
+
+      4. Certificates of Eligibles issued for Excepted Service vacancies; and
+
+      5. Certificates of Eligibles issued for the Senior Executive Service (SES).
+
+C.  Bargaining Unit Employees
+
+The provisions of this Instruction pertaining to conditions of employment of bargaining unit employees (e.g., the filling of a position within the scope of the bargaining unit) are fully negotiable in accordance with 5 U.S.C. Chapter 71. Therefore, when the provisions of this Instruction differ from the requirements contained in applicable collective bargaining agreement(s), the agreement takes precedence for bargaining unit employees.
+
+300-2-30: Definitions
+A  Calendar Day. Every day of the calendar year including federal holidays and periods when the government is operating under a shutdown furlough (5 CPR §210.102).
+
+B.  Certificates/Certificates of Eligibles. A list of qualified candidates submitted to a hiring manager for appointment consideration in compliance with the appropriate merit staffing procedures.
+
+C.    Direct-Hire Authorit y {DHA). Authority that permits hiring, after public notice, without regard to the rating and ranking procedures and veterans preference provisions of 5 U.S.C §§ 3309 through 3318, and 5 CFR §§211 and 337, Subpart A (OPM Delegated Examining Operations Handbook).
+
+D.    Job Opportunit y Announcement  (JOA). A job announcement posted by an HR Center for an available vacancy.
+
+E.    Merit Promotion (MP) Procedures. A placement made under the authority of 5 CFR §335, Promotion and Internal Placement. With certain important exceptions (e.g., Veterans Employment Opportunities Act) only federal employees who currently hold or previously held a competitive service position may apply for positions that are to be filled under merit promotion procedures.
+
+F.    Ori ginatin g OpDiv/StaffDiv Human Resources Office (Ori gi natin g OHRO ). The human resources office that initiated the hiring action (i.e., posted the JOA).
+
+G.   Receivin g OpDiv/StaffDiv Human Resources Office (Receivin g OHRO). The human resources office that requests a Certificate of Eligibles from an OHRO.
+
+H.    Reemployed Annuitant -A person retired under the Civil Service or Federal Employees Retirement System whose annuity continues after he or she is reemployed by the Federal Government.
+
+I.  Reinstatement -Non-competitive appointment of a person formerly employed in the competitive service (i.e., who either had competitive status or was serving probation when separated) into the competitive service as a career or career-conditional employee (5 CFR Part 315).
+
+J.     Shared Certificates Criteria. The required HHS parameters of a vacancy (job title, series, pay plan, grade level, FPL, duty location, etc.) that must be met in order to share certificates within HHS.  See also Requirements in this Instruction.
+
+K.   Transfer.  A movement of a current career or career-conditional employee in another federal agency to a competitive service position within HHS without a break in service of a single workday (5 CFR §§210.102 and 315.501).
+
+300-2-40: Roles and Responsibilities
+A.   HHS Assistant Secretary for Administration, Office of Human Resources (HHS OHR):
+
+      1. Develops Department-wide policy and guidance regarding the Shared Certificates Program consistent with HHS and OPM policies and guidance, and all applicable federal laws and regulations.
+
+      2. Provides program oversight of the Shared Certificates Program, consistent with HHS policy and guidance, and applicable federal laws and regulations.
+
+      3. Periodically conducts accountability reviews of OpDiv/StaffDiv procedures, actions, and records to ensure conformance with HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+
+B.    OpDiv/StaftDiv Human Resources Offices (OHRO):
+
+      1. Comply with this Instruction and any HHS and OPM policy and guidance, and all applicable federal laws and regulations.
+
+      2. Designate an OHRO coordinator to administer the day-to-day aspects of the HHS Shared Certificates Program within their serviced division.
+
+      3. Open certificates covered under this policy for 240 calendar days, with no extensions.
+
+      4. Maintain documentation in recruitment case file(s) and/or hiring systems (e.g., USA Staffing, USA Hire) sufficient for third-party reconstruction and for reporting purposes.
+
+      5. Provide records to OPM via HHS OHR on instances of sharing or using shared certificates, upon request.
+
+      6. Cooperate with accountability reviews, or a third-party review or investigation relating to matters pertaining to a shared certificate.
+
+C.   Originating OHRO will:
+
+      1. Clear the HHS Priority Placement Programs (CTAP, ICTAP, and RPL) at initial announcement, in accordance with HHS Instruction 330-2, CTAP, and this Instruction.
+
+      2. Share certificates with interested OHROs, including all case file documentation.  Case file documents must be uploaded in the recruitment and staffing system used to post the job opportunity announcement.
+
+      3. Conduct a quality review of selection(s) prior to sharing a certificate; within seven (7) calendar days from receipt of additional selections; and maintain oversight for each action taken.
+
+      4. Provide notification within seven (7) calendar days to the Receiving OHRO when a selection(s) has been updated in the Staffing system.
+
+      5. Manage case file(s) through audit close out.
+
+D.    Receiving OHRO will:
+
+      1. Verify through job analysis that the minimum qualification requirements (including use of any selective placement factors) and the competencies, or knowledge, skills, and abilities, that were used for the original position are appropriate for their internal position to be filled.
+
+      2. Make selection(s) within 240 calendar days of the date the certificate was created by the Originating OHRO.
+
+      3. Re-clear CTAP, ICTAP, and RPL after 120 calendar days prior to using an HHS shared certificate to make a transfer from another federal agency, in accordance with HHS Instruction 330-2, CTAP, and this Instruction.
+
+      4. Send notification within seven (7) calendar days to the Originating OHRO when selection(s) have been made.
+
+      5. Conduct a quality review of division selection(s) prior to tentative job offer.
+
+      6. Provide selection package(s) after job offer to the Originating OHRO, including all case file documentation  sufficient for third-party reconstruction.
+
+      7. Notify the Originating OHRO within seven (7) calendar days if a selected candidate declines an offer, or if a selected candidate does not onboard with the Department.
+
+300-2-50: Requirements
+A.  OpDivs/StaffDivs must adhere to the requirements in this section when filling competitive service positions via Merit Promotion Procedures (for vacancies open HHS-wide or broader); a government-wide or HHS-specific DHA covering more than one (1) OpDiv/StaffDiv; or when filling positions via a non-competitive appointment, specifically transfers from another Federal agency, reinstatement, or reemployed annuitant.  Certificates issued to fill permanent or temporary positions via these hiring authorities must be shared upon request.
+
+B.   The following language must be included in each JOA:  "Additional selections may be made for similar positions  across the Department of Health and Human Services (HHS) within the local commuting area(s) of the location identified in this announcement. By applying, you agree to have your application shared with interested selecting official(s) at HHS. Clearance of CTAP/ICTAP will be applied for similar positions  across HHS."
+
+C.    In addition to above, the following requirements must be met in order to make a selection(s) from a HHS shared certificate:
+
+      1. The JOA must be open:
+
+            a. HHS-wide or all federal employees for Merit Promotion;
+
+            b. To the general public for DHA; or
+
+            c. To either all federal employees or the general public for transfers.
+
+      2. The certificate must be active;
+
+      3. The position must be in the same series (see B.15 for interdisciplinary positions);
+
+      4. The position must be at the same grade level and full performance level (FPL);
+
+      5. The position type is the same (permanent or nonpermanent);
+
+      6. The position has the same work schedule (full-time, part-time, etc.), but does not have to be the same tour of duty;
+
+      7. The position must have the same selective factors, if applicable;
+
+      8. The position must have the same testing requirements;
+
+      9. The major duties of the position are the same or similar;
+
+      10. The position must have comparable specialized experience requirements;
+
+      11. The position must have comparable knowledge, skills, and abilities as reflected in the job analysis and standard assessment questions;
+
+      12. The position must be in the same duty location:
+
+            a. The Metropolitan area of Washington, DC is defined as the District of Columbia; Alexandria, Fairfax, and Falls Church Cities, VA.; Arlington, Fairfax, Loudoun, and Prince William Counties, VA.; and Charles, Montgomery, and Prince Georges Counties, MD (5 CFR §210.102);
+
+            b. For all other areas, duty location is defined as the local commuting area (i.e., the geographic area that is usually considered one area for employment purposes; any population center (or two or more neighboring ones) and surrounding localities in which employees live and can be reasonably expected to travel back and forth daily to their place of employment (5 CFR §351.203 and HHS Instruction 330-2, CTAP);
+
+      13. The JOA includes the HHS definition of 'Well Qualified,' the HHS CTAP/ICTAP clearance statement, and the proof of eligibility documents required for CTAP/ICTAP application, as required by HHS Instruction 330-2, CTAP (5 CFR §330.104); and
+
+      14. An officially classified position description (PD) must be used to advertise and fill the position. OpDiv/StaffDiv's must adhere to the classification principles, and may not intentionally modify a position description to meet the requirements in this Instruction for the purposes of sharing or using a shared certificate. Use of a shared certificate may not be appropriate in all cases. If based on the review of the position, the receiving OHRO's position has different specialized experience requirements or critical competencies/KSAs than the original agency's position, then using a shared certificate is not appropriate.
+
+      15. If the announced position was interdisciplinary, a vacancy filled from the announcement must also be an interdisciplinary position of the same series            combinations.
+
+D.    To offer Physician Comparability Allowances (PCA), or Title 38 pay, it must be stated in the announcement.  All other incentives do not have to be included in the announcement unless required by the OHRO's internal procedures.
+
+E.   If an announcement explicitly states that an incentive or flexibility (e.g., Student Loan Repayment, Creditable Service for Annual Leave Accrual) will not be offered, then that incentive may not be offered to any selectee from the announcement.
+
+F.    Any job requirements or flexibilities not listed above and not stated in the original announcement that differ from the position being filled must be communicated to the candidate no later than the tentative job offer so the candidate can make an informed decision to accept or decline the position. This includes financial disclosure reporting, inclusion in a bargaining unit, an increased security clearance or background investigation, Emergency Tier designation, paid relocation, required travel, atypical tour of duty (e.g., early mornings, night hours, weekends, split schedules), drug testing/screening, or any other job requirement or flexibility that differs from the requirements or flexibilities in the original announcement.
+
+G.   Certificates covered by this Instruction are open for 240 calendar days, with no extensions. OHROs must make certificates available for sharing after forty (40) calendar days from the certificate issuance date.
+
+H.   The Originating OHRO must clear the CTAP, ICTAP, and RPL programs, as applicable, at initial announcement, in accordance with HHS Instruction 330-2, CTAP.
+
+I.   OpDivs/StaffDivs may use an HHS certificate that meets the requirements in this section to fill positions via a non-competitive appointment, specifically transfers from another Federal agency, reinstatement, or reemployed annuitant.  (5 CFR §315, Subpart E, is followed to determine tenure and acquisition of competitive status upon transfer.)  When a shared certificate is open for greater than 120 days, the Receiving OHRO must re-clear CTAP, ICTAP, and RPL before filling an HHS position via a non-competitive appointment:
+
+      1. The Receiving OHRO posts a JOA, identical to the original JOA, open to CTAP/ICTAP candidates for five (5) calendar days at a minimum, to re-clear CTAP/ICTAP;
+
+      2. The Receiving OHRO checks the HHS RP Lfor  the local commuting area of the duty location listed in the original JOA;
+
+      3. If any qualified CTAP/ICTAP candidates apply, or qualified RPL candidates are found, those candidates must receive priority consideration before other candidates, in accordance with HHS Instruction 330-2, CTAP.
+
+J.     Receiving OHROs may not object to an applicant's qualifications or eligibility unless the applicant provides new documentation or information that contradicts or conflicts with the original rating.  Receiving OHROs are required to notify the Originating OHRO to provide the new documentation or information. The Originating OHRO will then make the determination on the appropriate course of action based on the new documentation or information.
+
+K.   Candidates will remain referred for consideration while the certificate is open for 240 calendar days provided they are still eligible, unless the candidate requests to withdraw from continued consideration.  This is to ensure applicants have the ability to compete for all vacant positions that may be filled through the JOA.
+
+300-2-60: Operational Guidance
+See HHS Shared Certificates Guidance, OHR-01-2020, on HR Policy Library.
+
+300-2-70: Documentation and Accountability
+A.  Records associated with personnel actions, including all documentation sufficient for third party reconstruction purposes, must be retained according to the record disposition schedule. Generally, all records created in a given year must be retained for a total of three (3) full years. Records involved in litigation and grievance processes may be destroyed only after official notification is received from OPM, Department of Justice, courts, etc. or if the time limits associated with grievance processes have passed (e.g., before the anniversary date).
+
+         B.  HHS OHR will conduct periodic accountability reviews to analyze compliance with this Instruction, HHS and OPM policy and guidance, and all applicable federal laws and regulations.
